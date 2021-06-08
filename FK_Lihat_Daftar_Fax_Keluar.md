@@ -12,7 +12,7 @@ Langkah - langkah untuk melihat daftar fax keluar via Web adalah sebagai berikut
 
 1. Klik menu **Inbox / Draft / Sent Item** dan pilih berlabel **Fax Keluar**
 
-![gambar](FaxKeluar/FK_Web/02FK1.PNG)
+![gambar](FaxKeluar/FK_Web/02FK1.png)
 
 ## **P-Office Versi Teams**
 
