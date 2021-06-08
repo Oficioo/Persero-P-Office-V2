@@ -6,33 +6,33 @@
 
 *User* dapat melihat informasi lengkap fax keluar termasuk *preview* fax keluar, detail fax keluar, *tracking* fax keluar dan *history* fax keluar. Langkah - langkah untuk melihat informasi fax keluar adalah sebagai berikut
 
-1. Klik menu **Inbox/Draft/Sent Item** dan pilih tab **Fax Keluar**. Pilih salah satu fax keluar yang akan dilihat informasinya
+1. Klik menu **Inbox/Draft/Sent Item** dan pilih berlabel **Fax Keluar**. Pilih salah satu fax keluar yang akan dilihat informasinya
 
-![gambar](FaxKeluar/FK_Web/FK28.jpg)
+![gambar](FaxKeluar/FK_Web/02FK28.PNG)
 
 #### **Preview Fax Keluar**
 
 Pada tab **Preview**, ditampilkan *preview* fax keluar yang sudah dibuat. *Preview* fax keluar disesuaikan dengan template berdasarkan jenis surat.
 
-![gambar](FaxKeluar/FK_Web/FK29.jpg)
+![gambar](FaxKeluar/FK_Web/02FK29.PNG)
 
 #### **Detail Fax Keluar**
 
 Pada tab **Detail**, terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat, tujuan surat dan *reviewer*
 
-![gambar](FaxKeluar/FK_Web/FK30.jpg)
+![gambar](FaxKeluar/FK_Web/02FK30.PNG)
 
 #### **Tracking Fax Keluar**
 
 Pada tab **Tracking**, ditampilkan informasi *tracking* fax keluar dalam bentuk *chart*
 
-![gambar](FaxKeluar/FK_Web/FK31.jpg)
+![gambar](FaxKeluar/FK_Web/02FK31.PNG)
 
 #### **History Fax Keluar**
 
 Pada tab **History**, ditampilkan riwayat fax keluar yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
-![gambar](FaxKeluar/FK_Web/FK32.jpg)
+![gambar](FaxKeluar/FK_Web/02FK32.PNG)
 
 ## **P-Office Versi Teams**
 
