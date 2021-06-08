@@ -10,21 +10,23 @@ Langkah - langkah untuk Save as Template via Web adalah sebagai berikut :
 
 1. Isi *form* fax keluar dan Klik **Save as Template**
 
-![gambar](FaxKeluar/FK_Web/FK11.jpg)
+![gambar](FaxKeluar/FK_Web/02FK11.PNG)
 
-2. Fax keluar yang disimpan menjadi *template* akan tersimpan di menu **"Draft - Fax Keluar"**. Untuk melanjutkan *template* yang sudah dibuat *user* dapat memilih menu **"Draft - Keluar"** kemudian pilih *template* yang akan digunakan
+2. Fax keluar yang disimpan menjadi *template* akan tersimpan di menu **"Draft - Direct - Fax Keluar"**. Untuk melanjutkan *template* yang sudah dibuat *user* dapat memilih menu **"Draft - Keluar"** kemudian pilih *template* yang akan digunakan
 
-![gambar](FaxKeluar/FK_Web/FK12.jpg)
+![gambar](FaxKeluar/FK_Web/02FK12.PNG)
 
 3. Pilih tombol ***User*** **Template** untuk melanjutkan edit fax keluar
 
-![gambar](FaxKeluar/FK_Web/FK14.jpg)
+![gambar](FaxKeluar/FK_Web/02FK14.PNG)
 
-4. Sistem akan menampilkan form **Edit Correspondence,** klik **Save** untuk menyimpan perubahan
+4. Sistem akan menampilkan form **Edit Correspondence,** klik **Save as Draf** untuk menyimpan perubahan, kemudian check pada **Draf - Direct - Label Fax Keluar** pilih **Modify Document**
 
-![gambar](FaxKeluar/FK_Web/FK15.jpg)
+![gambar](FaxKeluar/FK_Web/02FK15.PNG)
 
-5. Lakukan perubahan pada fax, klik **Save** untuk menyimpan perubahan dan fax keluar akan tersimpan di menu **"Draft - Fax Keluar"** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **"Sent Item - Fax Keluar"**.
+![gambar](FaxKeluar/FK_Web/02FK15F2.PNG)
+
+5. Lakukan perubahan pada fax, klik **Send** untuk menyimpan perubahan dan fax keluar akan tersimpan di menu **"Draft - Fax Keluar"**.
 
 ## **P-Office Versi Teams**
 

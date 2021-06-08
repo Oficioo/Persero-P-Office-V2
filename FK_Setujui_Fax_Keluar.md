@@ -5,7 +5,7 @@
 
 *User* dapat menyetujui fax keluar yang sudah dilakukan review dan fax keluar akan dikirimkan ke *reviewer* selanjutnya atau *approver*. Langkah - langkah untuk menyetujui fax keluar adalah sebagai berikut
 
-1. Klik menu **Inbox** dan pilih tab **Fax Keluar**
+1. Klik menu **Inbox - Direct** dan pilih label **Fax Keluar**
 
 ![gambar](FaxKeluar/FK_Web/FK33.jpg)
 
