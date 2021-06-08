@@ -11,44 +11,38 @@ _User_ dapat melihat informasi lengkap disposisi surat masuk pada detail disposi
 
 Langkah - langkah untuk melihat informasi lengkap disposisi surat masuk via Web adalah sebagai berikut :
 
-1. Klik menu **Disposisi** dan pilih tab **Surat Masuk.** Pilih salah satu disposisi surat masuk yang akan dilihat informasinya
+1. Klik menu **Inbox/Draft/Sent Item** dan pilih **Disposition** lalu klik surat yang berlabel **Surat Masuk** yang akan dilihat informasinya
 
-![gambar](SuratMasuk/SM_Web/SM36.png)
-
-
-#### **Preview Surat Masuk**
+![gambar](SuratMasuk/SM_Web/02SM36.png)
 
 
-Pada tab **Mail,** ditampilkan surat masuk fisik yang sudah diunggah oleh sekretaris / konseptor
-
-![gambar](SuratMasuk/SM_Web/CR_SM01.png)
-
-#### **Preview Lembar Penerus**
-
-
-Pada tab **Preview**, ditampilkan informasi lembar penerus disposisi yang berisi informasi daftar nama pejabat dan perintah disposisi yang harus dilakukan oleh pejabat penerima disposisi
-
-![gambar](SuratMasuk/SM_Web/CR_SM02.png)
 
 #### **Detail Disposisi Surat Masuk**
 
 
 Pada tab **Detail,** terdapat informasi asal surat, perihal, file lampiran, kategori surat, resume, rekomendasi serta informasi disposisi yang mencakup lampiran disposisi, tujuan, tindak lanjut dan disposisi permasing-masing pejabat penerima disposisi
 
-![gambar](SuratMasuk/SM_Web/SM39.png)
+![gambar](SuratMasuk/SM_Web/02CR_SM01.png)
+
+#### **Preview Surat**
+
+
+Pada tab **Preview**, ditampilkan informasi lembar penerus disposisi yang berisi informasi daftar nama pejabat dan perintah disposisi yang harus dilakukan oleh pejabat penerima disposisi
+
+![gambar](SuratMasuk/SM_Web/02CR_SM02.png)
 
 #### **Tracking Surat Masuk**
 
 
 Pada tab **Tracking**, ditampilkan informasi _tracking_ surat masuk dalam bentuk _chart_
 
-![gambar](SuratMasuk/SM_Web/SM40.png)
+![gambar](SuratMasuk/SM_Web/02SM40.png)
 
 #### **History Surat Masuk**
 
 Pada tab **History**, ditampilkan riwayat surat masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar.
 
-![gambar](SuratMasuk/SM_Web/SM41.png)
+![gambar](SuratMasuk/SM_Web/02SM41.png)
 
 
 ## **P-Office Versi Teams**
