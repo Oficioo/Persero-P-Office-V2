@@ -7,11 +7,11 @@
 
 1. Klik menu **Inbox** dan pilih tab **Fax Keluar**
 
-![gambar](FaxKeluar/FK_Web/FK42.jpg)
+![gambar](FaxKeluar/FK_Web/02FK42.png)
 
 2. Pilih fax keluar yang akan ditindak lanjuti kemudian pilih tab **Detail**
 
-![gambar](FaxKeluar/FK_Web/FK43.jpg)
+![gambar](FaxKeluar/FK_Web/02FK43.png)
 
 3. Klik tombol **Return Conceptor** dan pilih **Send**. Isikan komentar jika diperlukan
 
