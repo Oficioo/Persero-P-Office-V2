@@ -2,7 +2,7 @@
 
 - Sekretaris
 
-Sekretaris dapat menambah fax masuk pada aplikasi P-Office. 
+Sekretaris dapat menambah fax masuk pada aplikasi P-Office.
 
 ## **P-Office Versi Web**
 
@@ -10,17 +10,17 @@ Langkah - langkah untuk menambah fax masuk via Web adalah sebagai berikut :
 
 1. Klik menu **New Correspondence**
 
-![gambar](FaxMasuk/FM_WEB/TambahFM01.png) 
+![gambar](FaxMasuk/FM_WEB/02TambahFM01.png)
 
 2. Pilih jenis surat "**Fax Masuk**"
 
-![gambar](FaxMasuk/FM_WEB/TambahFM02.png) 
+![gambar](FaxMasuk/FM_WEB/02TambahFM02.png)
 
 3. Isi form tambah fax masuk. Klik **Save** untuk menyimpan form surat dan surat akan tersimpan di menu **"Draft - Fax Masuk"**. Klik **Send** untuk mengirim fax masuk dan fax masuk akan tersimpan di menu **"Sent Item - Fax Masuk"**
 
-![gambar](FaxMasuk/FM_WEB/TambahFM03.png)  ![gambar](FaxMasuk/FM_WEB/TambahFM04.png) 
+![gambar](FaxMasuk/FM_WEB/02TambahFM03.png) ![gambar](FaxMasuk/FM_WEB/02TambahFM04.png)
 
-4. Sistem berhasil menyimpan perubahan 
+4. Sistem berhasil menyimpan perubahan
 
 ## **P-Office Versi Teams**
 
@@ -83,4 +83,3 @@ Langkah-langkah untuk menambah fax masuk via IOS adalah sebagai berikut :
 ![gambar](FaxMasuk/FM_IOS/FM-5.1.png) ![gambar](FaxMasuk/FM_IOS/FM-5.2.png)
 
 5. Sistem berhasil menyimpan perubahan
-
