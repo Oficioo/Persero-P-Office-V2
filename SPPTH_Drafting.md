@@ -12,7 +12,7 @@ Langkah - langkah untuk melakukan drafting SPPTH via Web adalah sebagai berikut 
 
 1. Klik menu **Draft** dan pilih tab **SPPTH**
 
-![gambar](SPPTH/SPPTH_Web/TH13.png)
+![gambar](SPPTH/SPPTH_Web/02TH13.png)
 
 2. Pilih SPPTH yang akan diubah. Pilih tab **Detail** kemudian klik **Edit**
 
