@@ -11,9 +11,9 @@
 
 Langkah - langkah untuk melihat daftar dokumem Fax keluar via Web adalah sebagai berikut :
 
-1. Klik menu **Archive** dan pilih submenu **Fax keluar**
+1. Klik menu **Archive** dan pilih Surat berlabel **Fax keluar**
 
-![gambar](Archive/AR_Web/AR05.png)
+![gambar](Archive/AR_Web/02AR05.png)
 
  2. Sistem menampilkan dokumen fax masuk yang tersimpan di menu Archive
 

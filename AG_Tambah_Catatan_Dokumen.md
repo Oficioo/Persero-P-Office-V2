@@ -8,17 +8,17 @@ Sekretaris dapat menambahkan *notes*/catatan terkait dokumen yang di-*review*.
 
 Langkah - langkah untuk menambah catatan dokumen via Web adalah sebagai berikut
 
-1. Klik menu **Document Control** dan pilih tab **Dokumen Masuk / Dokumen Keluar / Dokumen Disposisi**
+1. Klik menu **Document** dan pilih **Control**, Kemudian pilih **Dokumen Inbox/ Dokumen Sent items/ Dokumen Disposition**
 
-![gambar](DocumentControl/DC_Web/MM13.png)
+![gambar](DocumentControl/DC_Web/02MM13.png)
 
 2. Pilih dokumen/surat yang akan ditambahkan catatan dengan klik button **Notes**.
 
-![gambar](DocumentControl/DC_Web/MM14.png)
+![gambar](DocumentControl/DC_Web/02MM14.png)
 
-3. Sistem akan menapilkan _pop up_ **Tambah Catatan.** Isikan catatan dan klik tombol **Save**
+3. Sistem akan menapilkan _pop up_ **Note** Isikan catatan dan klik tombol **Submit**
 
-![gambar](DocumentControl/DC_Web/MM15.png)
+![gambar](DocumentControl/DC_Web/02MM15.png)
 
 4. Sistem berhasil menyimpan perubahan catatan dokumen
 
