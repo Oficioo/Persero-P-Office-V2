@@ -26,9 +26,9 @@ Langkah - langkah untuk lihat daftar SP3S via Teams adalah sebagai berikut :
 
 Langkah - langkah untuk melihat daftar SP3S via Android yaitu :
 
-1. Klik menu **Inbox / Draft / Sent Item** dan pilih tab **SP3S**
+1. Klik menu **Inbox / Draft / Sent Item** lalu pilih **Direct** kemudian pilih surat yang berlabel **SP3S**
 
-![gambar](SP3S/SP3S_Android/DaftarSP3S/A01.jpg) ![gambar](SP3S/SP3S_Android/DaftarSP3S/A02.jpg) 
+![gambar](SP3S/SP3S_Android/DaftarSP3S/02A01.jpg) ![gambar](SP3S/SP3S_Android/DaftarSP3S/02A02.jpg)
 
 ## **P-Office Versi IOS**
 

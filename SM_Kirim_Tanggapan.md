@@ -10,7 +10,7 @@
 
 Langkah - langkah untuk mengirim tanggapan via Web adalah sebagai berikut :
 
-1.    Klik menu **Disposition** dan pilih label **Surat Masuk**
+1.    Klik menu **Draft** lalu klik **Disposition** dan pilih surat yang berlabel **Surat Masuk**
 
 ![gambar](SuratMasuk/SM_Web/02SM48.png)
 
@@ -52,7 +52,7 @@ Langkah - langkah untuk kirim tanggapan via Teams adalah sebagai berikut :
 
 Langkah - langkah untuk mengirim tanggapan via Android adalah sebagai berikut :
 
-1. Klik menu **Disposisi** dan pilih tab **Surat Masuk**
+1.  Klik menu **Draft** lalu klik **Disposition** dan pilih surat yang berlabel **Surat Masuk**
    
 ![gambar](SuratMasuk/SM_Android/Tanggapdisposisi/A01.jpg) ![gambar](SuratMasuk/SM_Android/Tanggapdisposisi/A02.jpg) 
 

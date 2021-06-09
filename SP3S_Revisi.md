@@ -124,45 +124,45 @@ Langkah – langkah untuk mengubah isi surat keluar secara online adalah sebagai
 
 Langkah - langkah untuk merevisi SP3S via Android adalah sebagai berikut :
 
-1. Klik menu **Inbox** dan pilih tab **SP3S**
+1. Klik menu **Draft** lalu **Direct** dan pilih surat yang berlabel **SP3S**
 
-![gambar](SP3S/SP3S_Android/RevisiSP3S/A01.jpg) ![gambar](SP3S/SP3S_Android/RevisiSP3S/A02.jpg) 
+![gambar](SP3S/SP3S_Android/RevisiSP3S/02A01.jpg) ![gambar](SP3S/SP3S_Android/RevisiSP3S/02A02.jpg) 
 
-2. Pilih SP3S yang akan disetujui kemudian pilih ikon **tombol button**
+2. Pilih SP3S yang akan disetujui kemudian pilih **Option**
 
-![gambar](SP3S/SP3S_Android/RevisiSP3S/A03.jpg)  ![gambar](SP3S/SP3S_Android/RevisiSP3S/A04.jpg) 
+![gambar](SP3S/SP3S_Android/RevisiSP3S/02A03.jpg) ![gambar](SP3S/SP3S_Android/RevisiSP3S/02A04.jpg) 
 
-3. Klik tombol **Revise** pada SP3S
+3. Pilih **Modify Document** pada SP3S
 
-![gambar](SP3S/SP3S_Android/RevisiSP3S/A05.jpg) 
+![gambar](SP3S/SP3S_Android/RevisiSP3S/02A05.jpg) 
 
-4. Lakukan perubahan pada _form_. Klik **Save Mail** untuk menyimpan perubahan pada _form_ SP3S. Surat yang disimpan akan tersimpan di menu “**Inbox – SP3S”**
+4. Lakukan perubahan pada _form_. Klik **Save As Draft** untuk menyimpan perubahan pada _form_ SP3S. Surat yang disimpan akan tersimpan di menu “**Draft - Direct - SP3S”**
 
-![gambar](SP3S/SP3S_Android/RevisiSP3S/A06.jpg)  ![gambar](SP3S/SP3S_Android/RevisiSP3S/A07.jpg) 
+![gambar](SP3S/SP3S_Android/RevisiSP3S/02A06.jpg)  ![gambar](SP3S/SP3S_Android/RevisiSP3S/02A07.jpg) 
 
-5. Klik **Edit Content** untuk mengubah isi SP3S
+5. Klik **Edit Document** untuk mengubah isi SP3S
 
-![gambar](SP3S/SP3S_Android/RevisiSP3S/A08.jpg)  ![gambar](SP3S/SP3S_Android/RevisiSP3S/A09.jpg) 
+![gambar](SP3S/SP3S_Android/RevisiSP3S/02A08.jpg)  ![gambar](SP3S/SP3S_Android/RevisiSP3S/02A09.jpg) 
 
-6. Sistem menampilkan tampilan _preview_ SP3S dalam bentuk Word yang dapat di edit. Untuk melakukan _editing_ terhadap isi surat klik **Ubah Isi** kemudian sistem akan menampilkan _pop up_ konfirmasi **Ubah Online**
+6. Sistem menampilkan tampilan _preview_ SP3S dalam bentuk Word yang dapat di edit. Untuk melakukan _editing_ terhadap isi surat.
 
 #### **[Edit] Ubah Online**
 
 Langkah – langkah untuk mengubah isi SP3S secara _online_ adalah sebagai berikut.
 
-1. 	Klik **Edit Content** untuk mengubah isi surat secara _online_
-   
-![gambar](SP3S/SP3S_Android/RevisiSP3S/U01.jpg) 
+1. 	Pilih **Modify Document** pada SP3S
 
-2. Lakukan perubahan pada isi surat. Klik **Close** pada aplikasi
+![gambar](SP3S/SP3S_Android/RevisiSP3S/02A05.jpg
 
-![gambar](SP3S/SP3S_Android/RevisiSP3S/U02.jpg) ![gambar](SP3S/SP3S_Android/RevisiSP3S/U03.jpg)  
+2. Lakukan perubahan pada _form_. Klik **Save As Draft** untuk menyimpan perubahan pada _form_ SP3S. Surat yang disimpan akan tersimpan di menu “**Draft - Direct - SP3S”**
+
+![gambar](SP3S/SP3S_Android/RevisiSP3S/02A06.jpg)  ![gambar](SP3S/SP3S_Android/RevisiSP3S/02A07.jpg) 
 
 3. Isi surat akan otomatis tersimpan. Jika surat akan disimpan sebagai draft, maka klik **Close**
 
-![gambar](SP3S/SP3S_Android/RevisiSP3S/U04.jpg) ![gambar](SP3S/SP3S_Android/RevisiSP3S/U05.jpg)
+![gambar](SP3S/SP3S_Android/RevisiSP3S/02A08.jpg)  ![gambar](SP3S/SP3S_Android/RevisiSP3S/02A09.jpg) 
 
-4. Surat yang sudah selesai diubah maka akan tersimpan di menu “**Inbox – SP3S”**
+4. Surat yang sudah selesai diubah maka akan tersimpan di menu “**Draft – Direct - SP3S”**
 
 ## **P-Office Versi IOS**
 

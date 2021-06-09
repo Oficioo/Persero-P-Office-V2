@@ -48,15 +48,15 @@ Langkah-langkah untuk tambah surat masuk adalah sebagai berikut.
 
 1. Klik tanda **(+)** pada surat masuk
 
-![gambar](SuratMasuk/SM_Android/DSM/A01.jpg)
+![gambar](SuratMasuk/SM_Android/TSM/02A01.png)
 
 2. Pilih jenis surat “**Surat Masuk**” lalu klik **Next**
 
-![gambar](SuratMasuk/SM_Android/TSM/A02.jpg)
+![gambar](SuratMasuk/SM_Android/TSM/02A02.png)
 
-3. Isi form tambah surat masuk. Klik **Save Mail** untuk menyimpan form surat dan surat akan tersimpan di menu “**Draft – Surat Masuk**”. Klik **Send a Mail** untuk mengirim surat masuk dan surat masuk akan tersimpan di menu “**Sent Item – Surat Masuk**”
+3. Isi form tambah surat masuk. Klik **Save As Draft** untuk menyimpan form surat dan surat akan tersimpan di menu “**Draft –Direct - Surat Masuk**”. Klik **Send Document** untuk mengirim surat masuk dan surat masuk akan tersimpan di menu “**Sent Item –Direct-Surat Masuk**”
 
-![gambar](SuratMasuk/SM_Android/TSM/A03.jpg) ![gambar](SuratMasuk/SM_Android/TSM/A04.jpg) ![gambar](SuratMasuk/SM_Android/TSM/A05.jpg)
+![gambar](SuratMasuk/SM_Android/TSM/02A03.png) ![gambar](SuratMasuk/SM_Android/TSM/02A04.png) ![gambar](SuratMasuk/SM_Android/TSM/02A05.png)
 
 4. Sistem berhasil menyimpan perubahan
 
@@ -72,7 +72,7 @@ Langkah-langkah untuk tambah surat masuk via IOS adalah sebagai berikut.
 
 ![gambar](SuratMasuk/SM_IOS/SM-4.png)
 
-3. Isi form tambah surat masuk. Klik **Next** untuk melanjutkan pengisian form surat masuk. Klik **Save Mail** untuk menyimpan form surat dan surat akan tersimpan di menu “**Draft – Surat Masuk**”. Klik **Send a Mail** untuk mengirim surat masuk dan surat masuk akan tersimpan di menu “**Sent Item – Surat Masuk**”
+3. Isi form tambah surat masuk. Klik **Next** untuk melanjutkan pengisian form surat masuk. Klik **Save As Draft** untuk menyimpan form surat dan surat akan tersimpan di menu “**Draft – Direct - Surat Masuk**”. Klik **Send a Mail** untuk mengirim surat masuk dan surat masuk akan tersimpan di menu “**Sent Item – Surat Masuk**”
 
 ![gambar](SuratMasuk/SM_IOS/SM-5.png) ![gambar](SuratMasuk/SM_IOS/SM-6.png)
 
