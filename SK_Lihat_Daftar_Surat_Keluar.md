@@ -11,9 +11,9 @@
 
 Langkah - langkah untuk melihat daftar surat keluar via Web adalah sebagai berikut :
 
-1. Klik menu **Inbox / Draft / Sent Item** dan pilih tab **Surat Keluar**
+1. Klik menu **Inbox / Draft / Sent Item** dan pilih label **Surat Keluar**
 
-![gambar](SuratKeluar/SK_Web/SK01.png)
+![gambar](SuratKeluar/SK_Web/02SK01.png)
 
 ### **P-Office Versi Teams**
 

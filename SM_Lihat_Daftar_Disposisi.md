@@ -29,10 +29,9 @@ Langkah - langkah untuk melihat daftar disposisi via Teams adalah sebagai beriku
 
 Langkah - langkah untuk melihat daftar disposisi via Android adalah sebagai berikut :
  
-2. Klik menu **Disposition** dan pilih tab **Surat Masuk**
+1. Klik menu **Inbox / Draft / Sent Item** dan pilih surat yang berlabel **Surat Masuk**
 
-![gambar](SuratMasuk/SM_Android/Daftardisposisi/A01.jpg)
-![gambar](SuratMasuk/SM_Android/Daftardisposisi/A02.jpg)
+![gambar](SuratMasuk/SM_Android/Daftardisposisi/02A01.png) ![gambar](SuratMasuk/SM_Android/Daftardisposisi/02A02.png)
 
 
 ## **P-Office Versi IOS**

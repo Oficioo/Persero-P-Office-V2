@@ -9,19 +9,19 @@
 
 Langkah - langkah untuk menyetujui surat keluar via Web adalah sebagai berikut
 
-1. Klik menu **Inbox** dan pilih tab **Surat Keluar**
+1. Klik menu **Draft - Direct** dan pilih label **Surat Keluar**
 
-![gambar](SuratKeluar/SK_Web/SK35.png)
+![gambar](SuratKeluar/SK_Web/02SK35.png)
 
 2. Pilih surat keluar yang akan ditindak lanjuti kemudian pilih tab **Detail**
 
-![gambar](SuratKeluar/SK_Web/SK36.png)
+![gambar](SuratKeluar/SK_Web/02SK36.png)
 
-3. Klik tombol **Approve** dan pilih **Send**. Isikan komentar jika diperlukan
+3. Klik tombol **Approve document** dan pilih **Submit**. Isikan komentar jika diperlukan
 
-![gambar](SuratKeluar/SK_Web/SK37.png)
+![gambar](SuratKeluar/SK_Web/02SK37.png)
 
-4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Sent Item - Surat Keluar**
+4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah dikirim akan tersimpan di menu **Sent Item - Surat Keluar**
 
 ## **P-Office Versi Teams**
 
@@ -31,7 +31,7 @@ Langkah - langkah untuk setujui surat keluar via Teams adalah sebagai berikut :
  
 ![gambar](SuratKeluar/SK_Teams/SK37.png)
 
-2. Pilih surat keluar yang akan ditindak lanjuti kemudian pilih tab **Detail**
+2. Pilih surat keluar yang akan ditindaklanjuti kemudian pilih tab **Detail**
  
 ![gambar](SuratKeluar/SK_Teams/SK38.png)
 

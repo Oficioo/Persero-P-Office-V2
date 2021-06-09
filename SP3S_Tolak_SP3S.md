@@ -46,17 +46,17 @@ Langkah - langkah untuk Tolak SP3S via Teams adalah sebagai berikut :
 
 Langkah - langkah untuk Tolak SP3S via Android adalah sebagai berikut :
 
-1. Klik menu **Inbox** dan pilih tab **SP3S**
+1. Klik menu **Draft** lalu **Direct** dan pilih surat yang berlabel **SP3S**
 
-![gambar](SP3S/SP3S_Android/TolakSP3S/A01.jpg) ![gambar](SP3S/SP3S_Android/TolakSP3S/A02.jpg)
+![gambar](SP3S/SP3S_Android/TolakSP3S/02A01.jpg) ![gambar](SP3S/SP3S_Android/TolakSP3S/02A02.jpg)
 
 2. Pilih SP3S yang akan disetujui kemudian pilih icon **Option**
 
-![gambar](SP3S/SP3S_Android/TolakSP3S/A03.jpg) ![gambar](SP3S/SP3S_Android/TolakSP3S/A04.jpg)
+![gambar](SP3S/SP3S_Android/TolakSP3S/02A03.jpg) ![gambar](SP3S/SP3S_Android/TolakSP3S/02A04.jpg)
 
-3. Pada button Detail pilih **Reject** kemudian sistem menampilkan pop up dan user pilih **Send.** Isikan komentar jika diperlukan
+3. Pada button Detail pilih **Reject Document** kemudian sistem menampilkan pop up dan user pilih **Send.** Isikan komentar jika diperlukan
    
-![gambar](SP3S/SP3S_Android/TolakSP3S/A05.jpg) ![gambar](SP3S/SP3S_Android/TolakSP3S/A06.jpg)
+![gambar](SP3S/SP3S_Android/TolakSP3S/02A05.jpg)
 
 4. Sistem berhasil menyimpan perubahan. SP3S yang sudah di kirim akan tersimpan dimenu “**Rejected- SP3S** user penolak pada label “**Rejected”**.
 
