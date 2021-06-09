@@ -4,25 +4,25 @@
 
 *User* dapat melakukan *drafting* fax keluar pada aplikasi P-Office. *Drafting* fax keluar dilakukan jika *user* akan meneruskan dan melakukan perubahan pada fax keluar yang sudah disimpan pada menu **Draft**. Langkah-langkah untuk melakukan *drafting* fax keluar adalah sebagai berikut
 
-1. Klik menu **Draft** dan pilih tab **Fax Keluar**
+1. Klik menu **Draft** dan pilih berlabel **Fax Keluar**
 
-![gambar](FaxKeluar/FK_Web/FK16.jpg)
+![gambar](FaxKeluar/FK_Web/02FK16.png)
 
 2. Pilih fax keluar yang akan diubah. Pilih tab **Detail** kemudian klik **Edit**
 
-![gambar](FaxKeluar/FK_Web/FK17.jpg)
+![gambar](FaxKeluar/FK_Web/02FK17.png)
 
 3. Sistem akan menampilkan *form* **Edit Correspondence**
 
-![gambar](FaxKeluar/FK_Web/FK18.jpg)
+![gambar](FaxKeluar/FK_Web/02FK18.png)
 
 4. Lakukan perubahan pada *form*. Klik **Simpan** untuk menyimpan perubahan pada *form* fax keluar. Surat yang disimpan akan tersimpan di menu **"Draft - Fax Keluar"**
 
-![gambar](FaxKeluar/FK_Web/FK19.jpg)
+![gambar](FaxKeluar/FK_Web/02FK19.png)
 
 5. Klik **Ubah Isi** untuk mengubah isi fax keluar
 
-![gambar](FaxKeluar/FK_Web/FK20.jpg)
+![gambar](FaxKeluar/FK_Web/02FK20.png)
 
 6. Sistem menampilkan tampilan *preview* fax keluar dalam bentuk Word yang dapat di edit. Untuk melakukan *editing* terhadap isi surat klik **Edit Content** kemudian sistem akan menampilkan *pop up* konfirmasi **Ubah Word Desktop** atau **Ubah Online**
 

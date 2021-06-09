@@ -8,19 +8,21 @@
 
 Langkah - langkah untuk menolak SP3S via Web adalah sebagai berikut :
 
-1. Klik menu **Inbox** dan pilih tab **SP3S**
+1. Klik menu **Draft** lalu **Direct** dan klik surat yang berlabel**SP3S**
 
-![gambar](SP3S/SP3S_Web/SP33.png)
+![gambar](SP3S/SP3S_Web/02SP33.png)
 
-2. Pilih SP3S yang akan disetujui kemudian pilih tab **Detail**
+2. Pilih SP3S yang akan di Reject kemudian pilih tab **Detail**
 
-![gambar](SP3S/SP3S_Web/SP34.png)
+![gambar](SP3S/SP3S_Web/02SP34.png)
 
-3. Klik tombol **Reject** dan pilih **Send.** Isikan komentar jika diperlukan
+3. Klik tombol **Reject Document** kemudian Sistem menampilkan pop up konfirmasi dan user harus mengisi keterangan  kemudian klik **Submit**
 
-![gambar](SP3S/SP3S_Web/SP35.png)
+![gambar](SP3S/SP3S_Web/02SP35.png)
 
-4. Sistem berhasil menyimpan perubahan. SP3S yang sudah di kirim akan akan akan terhapus dari aplikasi akan tersimpan di menu **“Rejected – Memorandum”** user penolak dengan label **Rejected**
+![gambar](SP3S/SP3S_Web/02SP35-1.png)
+
+4. Sistem berhasil menyimpan perubahan. SP3S yang sudah di kirim akan akan akan terhapus dari aplikasi akan tersimpan di menu **“Rejected – Direct - SP3S”** user penolak dengan Menu **Rejected**
 
 ## **P-Office Versi Teams**
 

@@ -8,11 +8,11 @@ Sekretaris dapat melihat daftar dokumen yang diarsipkan milik atasan pejabat sek
 
 Langkah-langkah untuk melihat daftar dokumen Archive via Web adalah sebagai berikut:
 
-1. Klik menu **Document Control** dan pilih submenu **Document View - Archive**
+1. Klik menu **Document** dan pilih submenu **Control - Archive**
 
-![gambar](DocumentControl/DC_Web/MM06.png)
+![gambar](DocumentControl/DC_Web/02MM06.png)
 
-2. Sistem menampilkan dokumen archive yang informasinya meliputi no agenda, tanggal, nomor surat, perihal, dari/asal, status dan *secretary notes*
+2. Sistem menampilkan dokumen archive yang informasinya meliputi number, Agenda, from, about, type, last Modified dan secretary note.
 
 
 ## **P-Office Versi Teams**

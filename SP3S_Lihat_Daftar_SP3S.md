@@ -10,9 +10,9 @@
 
 Langkah - langkah untuk melihat daftar SP3S via Web adalah sebagai berikut
 
-1. Klik menu **Inbox / Draft / Sent Item** dan pilih tab **SP3S**
+1. Klik menu **Inbox/Draft/Sent Item** dan pilih tab **SP3S**. Pilih salah satu SP3S yang akan dilihat informasinya
 
-![gambar](SP3S/SP3S_Web/SP01.png)
+![gambar](SP3S/SP3S_Web/02SP01.png)
 
 ## **P-Office Versi Teams**
 

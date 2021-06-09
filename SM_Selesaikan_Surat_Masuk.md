@@ -11,21 +11,19 @@ _User_ dapat menyelesaikan surat masuk jika _user_ tidak akan melanjutkan untuk 
 
 Langkah-langkah untuk menyelesaikan surat masuk via Web adalah sebagai berikut:
 
-1.    Klik menu **Inbox** dan pilih tab **Surat masuk**
+1.    Klik menu **Inbox** dan pilih **Direct** lalu klik Surat yang berlabel **Surat Masuk**
 
-![gambar](SuratMasuk/SM_Web/SM17.png)
+![gambar](SuratMasuk/SM_Web/02SM17.png)
 
 2.    Pilih surat masuk yang akan diselesaikan kemudian pilih tab **Detail**
 
-![gambar](SuratMasuk/SM_Web/SM18.png)
+![gambar](SuratMasuk/SM_Web/02SM18.png)
 
-3.    Pilih tombol **Finish** kemudian klik **Send**
+3.    Pilih tombol **Finish** kemudian Sistem menampilkan _pop up_ konfirmasi dan _user_ harus mengisi keterangan selesaikan disposisi kemudian klik **Finish**.
 
-![gambar](SuratMasuk/SM_Web/SM19.png)
+![gambar](SuratMasuk/SM_Web/02SM19.png)
 
-4.    Sistem menampilkan _pop up_ konfirmasi dan _user_ harus mengisi keterangan selesaikan disposisi kemudian klik **Save**.
-
-![gambar](SuratMasuk/SM_Web/SM20.png)
+![gambar](SuratMasuk/SM_Web/02SM20.png)
 
 5.    Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi.
 

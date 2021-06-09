@@ -11,29 +11,29 @@
 
 Langkah - langkah untuk melakukan drafting SP3S via Web adalah sebagai berikut :
 
-1. Klik menu **Draft** dan pilih tab **SP3S**
+1. Klik menu **Draft** dan pilih **Direct** lalu klik surat yang berlabel **SP3S**
 
-![gambar](SP3S/SP3S_Web/SP14.png)
+![gambar](SP3S/SP3S_Web/02SP14.png)
 
-2. Pilih SP3S yang akan diubah. Pilih tab **Detail** kemudian klik **Edit**
+2. Pilih SP3S yang akan diubah. Pilih tab **Detail** kemudian klik **Modify Document**
 
-![gambar](SP3S/SP3S_Web/SP15.png)
+![gambar](SP3S/SP3S_Web/02SP15.png)
 
 3. Sistem akan menampilkan *form* **Edit Correspondence**
 
-![gambar](SP3S/SP3S_Web/SP16.png)
+![gambar](SP3S/SP3S_Web/02SP16.png)
 
-4. Lakukan perubahan pada *form*. Klik **Save** untuk menyimpan perubahan pada *form* SP3S. Surat yang disimpan akan tersimpan di menu **"Draft - SP3S"**
+4. Lakukan perubahan pada *form*. Klik **Save** untuk menyimpan perubahan pada *form* SP3S. Surat yang disimpan akan tersimpan di menu **"Draft - Direct - SP3S"**
 
-![gambar](SP3S/SP3S_Web/SP17.png)
+![gambar](SP3S/SP3S_Web/02SP17.png)
 
 5. Klik **Edit Content** untuk mengubah isi SP3S
 
-![gambar](SP3S/SP3S_Web/SP18.png)
+![gambar](SP3S/SP3S_Web/02SP18.png)
 
 6. Sistem menampilkan tampilan *preview* SP3S dalam bentuk Word yang dapat di edit. Untuk melakukan *editing* terhadap isi surat klik **Edit Content** kemudian sistem akan menampilkan *pop up* konfirmasi **Ubah Word Desktop** atau **Ubah Online**
 
-![gambar](SP3S/SP3S_Web/SP19.png)
+![gambar](SP3S/SP3S_Web/02SP19.png)
 
 #### **[Edit] Word Desktop**
 
@@ -41,11 +41,11 @@ Langkah - langkah untuk mengubah isi SP3S melalui Word Desktop adalah sebagai be
 
 1. Klik **Ubah di Word** untuk mengubah melalui aplikasi Microsoft Word
 
-![gambar](SP3S/SP3S_Web/SP20.png)
+![gambar](SP3S/SP3S_Web/02SP21.png)
 
 2. Lakukan perubahan pada isi surat. Klik **Close** pada aplikasi dan isi surat akan otomatis tersimpan
 
-![gambar](SP3S/SP3S_Web/SP21.png)
+![gambar](SP3S/SP3S_Web/02SP24.png)
 
 #### **[Edit] Ubah Online**
 
@@ -53,7 +53,7 @@ Langkah - langkah untuk mengubah isi SP3S secara *online* adalah sebagai berikut
 
 1. Klik **Ubah Online** untuk mengubah isi surat secara *online*
 
-![gambar](SP3S/SP3S_Web/SP22.png)
+![gambar](SP3S/SP3S_Web/02SP23.png)
 
 2. Lakukan perubahan pada isi surat. Klik **Close** pada aplikasi
 
@@ -61,19 +61,19 @@ Langkah - langkah untuk mengubah isi SP3S secara *online* adalah sebagai berikut
 
 3. Isi surat akan otomatis tersimpan. Jika surat akan disimpan sebagai draft, maka klik **Close.**
 
-![gambar](SP3S/SP3S_Web/SP24.png)
+![gambar](SP3S/SP3S_Web/02SP24.png)
 
-4. Surat yang sudah selesai diubah maka akan tersimpan di menu **"Draft - SP3S"**
+4. Surat yang sudah selesai diubah maka akan tersimpan di menu **"Draft - Direct -SP3S"**
 
 #### **Kirim SP3S**
 
 Langkah - langkah untuk mengirim SP3S adalah sebagai berikut.
 
-1. Pada tampilan *preview* SP3S, klik **Kirim** untuk mengirim surat ke pejabat tujuan
+1. Pada tampilan **Modify Document* SP3S, klik **Send Document** untuk mengirim surat ke pejabat tujuan
 
-![gambar](SP3S/SP3S_Web/SP25.png)
+![gambar](SP3S/SP3S_Web/02SP25.png)
 
-2. Sistem menyimpan perubahan dan SP3S akan tersimpan di menu **"Sent Item - SP3S"**
+2. Sistem menyimpan perubahan dan SP3S akan tersimpan di menu **"Sent Item - Direct - SP3S"**
 
 ## **P-Office Versi Teams**
 

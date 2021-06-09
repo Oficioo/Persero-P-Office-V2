@@ -5,19 +5,21 @@
 
 *User* dapat menyetujui fax keluar yang sudah dilakukan review dan fax keluar akan dikirimkan ke *reviewer* selanjutnya atau *approver*. Langkah - langkah untuk menyetujui fax keluar adalah sebagai berikut
 
-1. Klik menu **Inbox** dan pilih tab **Fax Keluar**
+1. Klik menu **Draf - Direct** dan pilih label **Fax Keluar** 
 
-![gambar](FaxKeluar/FK_Web/FK33.jpg)
+![gambar](FaxKeluar/FK_Web/02FK33.png)
 
 2. Pilih fax keluar yang akan ditindak lanjuti kemudian pilih tab **Detail**
 
-![gambar](FaxKeluar/FK_Web/FK34.jpg)
+![gambar](FaxKeluar/FK_Web/02FK34.png)
 
-3. Klik tombol **Approve** dan pilih **Send.** Isikan komentar jika diperlukan
+3. Klik tombol **Approve** dan akan muncul topup  **Approver Comment** Isikan komentar jika diperlukan, lalu **Submit**
 
-![gambar](FaxKeluar/FK_Web/FK35.jpg)
+![gambar](FaxKeluar/FK_Web/02FK35.png)
 
-4. Sistem berhasil menyimpan perubahan. Fax keluar yang sudah di kirim akan tersimpan di menu **Sent Item - Fax Keluar**
+![gambar](FaxKeluar/FK_Web/02FK35F2.png)
+
+4. Sistem berhasil menyimpan perubahan. Fax keluar yang sudah di kirim akan tersimpan di menu **Sent Item - Direct** pilih berlable Fax Keluar
 
 
 ## **P-Office Versi Teams**

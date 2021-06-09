@@ -11,9 +11,11 @@
 
 Langkah-langkah untuk melihat informasi Riwayat SP3S via Web adalah sebagai berikut:
 
-1. Klik menu **History** dan pilih tab **SP3S**
+1. Klik menu **History** dan pilih menu **SP3S**
 
-![gambar](SP3S/SP3S_Web/SP50.png)
+![gambar](SP3S/SP3S_Web/02SP50.png)
+
+![gambar](SP3S/SP3S_Web/02SP50-1.png)
 
 2. Sistem menampilkan riwayat SP3S
 

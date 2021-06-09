@@ -13,7 +13,7 @@ Langkah - langkah untuk melihat dokumen memorandum via Web adalah sebagai beriku
 
 1. Klik menu **Archive** dan pilih submenu **Memorandum**
 
-![gambar](Archive/AR_Web/AR02.png)
+![gambar](Archive/AR_Web/02AR02.png)
 
 2. Sistem menampilkan dokumen memorandum yang tersimpan di menu Archive
 
