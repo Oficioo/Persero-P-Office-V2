@@ -9,17 +9,17 @@ Role yang sesuai
 
 Langkah - langkah untuk mengembalikan surat keluar ke konseptor via Web adalah sebagai berikut
 
-1. Klik menu **Inbox** dan pilih tab **Surat Keluar**
+1. Klik menu **Draft** dan pilih label **Surat Keluar**
 
-![gambar](SuratKeluar/SK_Web/SK41.png)
+![gambar](SuratKeluar/SK_Web/02SK41.png)
 
 2. Pilih surat keluar yang akan ditindak lanjuti kemudian pilih tab **Detail**
 
-![gambar](SuratKeluar/SK_Web/SK42.png)
+![gambar](SuratKeluar/SK_Web/02SK42.png)
 
-3. Klik tombol **Revise Conceptor** dan pilih **Send**. Isikan komentar jika diperlukan
+3. Klik tombol **Return Conceptor** dan pilih **Send**. Isikan komentar jika diperlukan
 
-![gambar](SuratKeluar/SK_Web/SK43.png)
+![gambar](SuratKeluar/SK_Web/02SK43.png)
 
 4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Sent Item- Surat Keluar** dan konseptor akan menerima surat keluar di menu **Draft - Surat Keluar**
 

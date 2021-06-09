@@ -9,25 +9,25 @@
 
 Langkah - langkah untuk melakukan **Drafting** surat keluar via Web adalah sebagai berikut :
 
-1. Klik menu **Draft** dan pilih tab **Surat Keluar**
+1. Klik menu **Draft** dan pilih label **Surat Keluar**
 
-![gambar](SuratKeluar/SK_Web/SK18.png)
+![gambar](SuratKeluar/SK_Web/02SK18.png)
 
-2. Pilih surat keluar yang akan diubah. Pilih tab **Detail** kemudian klik **Edit**
+2. Pilih surat keluar yang akan diubah. Pilih tab **Detail** kemudian klik **Modify Document**
 
-![gambar](SuratKeluar/SK_Web/SK19.png)
+![gambar](SuratKeluar/SK_Web/02SK19.png)
 
 3. Sistem akan menampilkan *form* **Edit Correspondence**
 
-![gambar](SuratKeluar/SK_Web/SK20.png)
+![gambar](SuratKeluar/SK_Web/02SK20.png)
 
 4. Lakukan perubahan pada *form*. Klik **Simpan** untuk menyimpan perubahan pada *form* surat keluar. Surat yang disimpan akan tersimpan di menu **"Draft - Surat Keluar"**
 
-![gambar](SuratKeluar/SK_Web/SK21.png)
+![gambar](SuratKeluar/SK_Web/02SK21.png)
 
 5. Klik **Ubah Isi** untuk mengubah isi surat keluar
 
-![gambar](SuratKeluar/SK_Web/SK22.png)
+![gambar](SuratKeluar/SK_Web/02SK22.png)
 
 6. Sistem menampilkan tampilan **preview** surat keluar dalam bentuk Word yang dapat di edit. Untuk melakukan *editing* terhadap isi surat klik **Ubah Isi** kemudian sistem akan menampilkan *pop up* konfirmasi **Ubah Word Desktop** atau **Ubah Online**
 
