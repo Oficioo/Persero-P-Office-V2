@@ -10,9 +10,9 @@
 
 Langkah - langkah untuk riwayat SPPTH via Web adalah sebagai berikut :
 
-1. Klik menu **History** dan pilih tab **SPPTH**
+1. Klik menu **History** dan pilih sub-menu **SPPTH**
 
-![gambar](SPPTH/SPPTH_Web/TH49.png)
+![gambar](SPPTH/SPPTH_Web/02TH49.png)
 
 2. Sistem menampilkan riwayat SPPTH
 
@@ -24,4 +24,4 @@ Langkah - langkah untuk riwayat SPPTH via Teams adalah sebagai berikut :
 
 ![gambar](SPPTH/SPPTH_Teams/SPPTH50.png)
  
-2.	Sistem menampilkan riwayat SP3S
+2.	Sistem menampilkan riwayat SPPTH

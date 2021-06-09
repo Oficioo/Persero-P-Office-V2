@@ -8,19 +8,19 @@
 
 Langkah-langkah untuk menolak SPPTH via web adalah sebagai berikut :
 
-1. Klik menu **Inbox** dan pilih tab **SPPTH**
+1. Klik menu **Draft** dan pilih surat berlabel **SPPTH**.
 
-![gambar](SPPTH/SPPTH_Web/TH32.png)
+![gambar](SPPTH/SPPTH_Web/02TH32.png)
 
-2. Pilih SPPTH yang akan disetujui kemudian pilih tab **Detail**
+2. Pilih SPPTH yang akan disetujui kemudian pilih tab **Detail**.
 
-![gambar](SPPTH/SPPTH_Web/TH33.png)
+![gambar](SPPTH/SPPTH_Web/02TH33.png)
 
-3. Klik tombol **Reject** dan pilih **Send.** Isikan komentar jika diperlukan
+3. Klik tombol **Reject**, kemudian pilih **Submit**. Isikan komentar jika diperlukan.
 
-![gambar](SPPTH/SPPTH_Web/TH34.png)
+![gambar](SPPTH/SPPTH_Web/02TH34.png) ![gambar](SPPTH/SPPTH_Web/02TH34a.png)
 
-4.	Sistem berhasil menyimpan perubahan. SPPTH yang sudah di kirim akan akan akan terhapus dari aplikasi akan tersimpan di menu **“Rejected – SPPTH”** user penolak dengan label **Rejected**
+4.	Sistem berhasil menyimpan perubahan. SPPTH yang sudah di kirim akan akan akan terhapus dari aplikasi akan tersimpan di menu **“Rejected – SPPTH”** user penolak dengan label **Rejected**.
 
 ## **P-Office Versi Teams**
 
@@ -38,40 +38,40 @@ Langkah - langkah untuk tolak SPPTH via Teams adalah sebagai berikut :
 
 ![gambar](SPPTH/SPPTH_Teams/SPPTH35.png)
 
-4.	Sistem berhasil menyimpan perubahan. SPPTH yang sudah di kirim akan akan akan terhapus dari aplikasi akan tersimpan di menu **“Rejected – SPPTH”** user penolak dengan label **Rejected**
+4.	Sistem berhasil menyimpan perubahan. SPPTH yang sudah di kirim akan akan akan terhapus dari aplikasi akan tersimpan di menu **“Rejected”** user penolak dengan label **SPPTH**
 
 ## **P-Office Versi Android**
 
 Langkah - langkah untuk menolak SPPTH via Android adalah sebagai berikut :
 
-1. Klik menu **Inbox** dan pilih tab **SPPTH**
+1. Klik menu **Draft** dan pilih salah satu surat berlabel **SPPTH**
    
-![gambar](SPPTH/SPPTH_Android/TolakSPPTH/A01.jpg) ![gambar](SPPTH/SPPTH_Android/TolakSPPTH/A02.jpg)
+![gambar](SPPTH/SPPTH_Android/TolakSPPTH/02A01.jpg) ![gambar](SPPTH/SPPTH_Android/TolakSPPTH/02A02.jpg)
 
-2. Pilih SPPTH yang akan disetujui kemudian pilih icon **Option**
+2. Pilih _icon_ **Option**
 
-![gambar](SPPTH/SPPTH_Android/TolakSPPTH/A03.jpg)
+![gambar](SPPTH/SPPTH_Android/TolakSPPTH/02A03.jpg)
 
-3. Pilih button lalu **Reject** kemudian sistem menampilkan pop up dan Isikan komentar jika diperlukan lalu pilih **Send.**
+3. Pilih button lalu **Reject document** kemudian sistem menampilkan pop up dan Isikan komentar jika diperlukan lalu pilih **Send**.
 
-![gambar](SPPTH/SPPTH_Android/TolakSPPTH/A03.jpg) ![gambar](SPPTH/SPPTH_Android/TolakSPPTH/A05.jpg)
+![gambar](SPPTH/SPPTH_Android/TolakSPPTH/02A04.jpg) ![gambar](SPPTH/SPPTH_Android/TolakSPPTH/02A05.jpg)
 
-4. Sistem berhasil menyimpan perubahan. SPPTH yang sudah di kirim akan tersimpan dimenu “**Rejected- SPPTH”** user penolak pada label “**Rejected” **user penolak dengan label **Rejected**
+4. SPPTH yang sudah ditolak akan tersimpan dimenu “**Rejected”** user pengirim dengan label **SPPTH**.
 
 ## **P-Office Versi IOS**
 
 Langkah - langkah untuk menolak SPPTH via IOS adalah sebagai berikut :
 
-1.	Klik menu **Inbox** dan pilih tab **SPPTH**
-  
-![gambar](SPPTH/SPPTH_IOS/SPPTH-24.1.png) ![gambar](SPPTH/SPPTH_IOS/SPPTH-24.2.png)
+1. Klik menu **Draft** dan pilih salah satu surat berlabel **SPPTH**
+   
+![gambar](SPPTH/SPPTH_Android/TolakSPPTH/02A01.jpg) ![gambar](SPPTH/SPPTH_Android/TolakSPPTH/02A02.jpg)
 
-2.	Pilih SPPTH yang akan disetujui kemudian pilih icon **Option** dan pilih **Reject**
-  
-![gambar](SPPTH/SPPTH_IOS/SPPTH-25.1.png) ![gambar](SPPTH/SPPTH_IOS/SPPTH-25.2.png)
+2. Pilih _icon_ **Option**
 
-3.	Isikan komentar jika diperlukan dan pilih **Send**
- 
-![gambar](SPPTH/SPPTH_IOS/SPPTH-26.png)
+![gambar](SPPTH/SPPTH_Android/TolakSPPTH/02A03.jpg)
 
-4.	Sistem berhasil menyimpan perubahan. SPPTH yang sudah di tolak akan tersimpan dimenu **“Rejected– SPPTH” **user penolak dengan label **Rejected**
+3. Pilih button lalu **Reject document** kemudian sistem menampilkan pop up dan Isikan komentar jika diperlukan lalu pilih **Send**.
+
+![gambar](SPPTH/SPPTH_Android/TolakSPPTH/02A04.jpg) ![gambar](SPPTH/SPPTH_Android/TolakSPPTH/02A05.jpg)
+
+4. SPPTH yang sudah ditolak akan tersimpan dimenu “**Rejected”** user pengirim dengan label **SPPTH**.

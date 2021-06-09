@@ -10,9 +10,17 @@
 
 Langkah - langkah untuk melihat daftar SPPTH via Web adalah sebagai berikut
 
-1. Klik menu **Inbox / Draft / Sent Item** dan pilih tab **SPPTH**
+1. Klik menu **Inbox** dan pilih _icon_ **filter**.
 
-![gambar](SPPTH/SPPTH_Web/TH01.png)
+![gambar](SPPTH/SPPTH_Web/02TH01.png)
+
+2. Pilih form type dengan **SPPTH** dan klik **find**.
+
+![gambar](SPPTH/SPPTH_Web/02TH01a.png)
+
+3. Semua surat dengan label **SPPTH** akan muncul pada menu inbox.
+
+![gambar](SPPTH/SPPTH_Web/02TH01b.png)
 
 ## **P-Office Versi Teams**
 
@@ -26,14 +34,36 @@ Langkah - langkah untuk lihat daftar SPPTH via Teams adalah sebagai berikut :
 
 Langkah - langkah untuk lihat daftar SPPTH via Android adalah sebagai berikut :
 
-1. Klik menu **Inbox / Draft / Sent Item** dan pilih tab **SPPTH**
+1. Klik menu **Inbox / Draft / Sent Item**.
    
-![gambar](SPPTH/SPPTH_Android/DaftarSPPTH/A01.jpg) ![gambar](SPPTH/SPPTH_Android/DaftarSPPTH/A02.jpg)
+![gambar](SPPTH/SPPTH_Android/DaftarSPPTH/02A01.jpg) 
+
+2. Klik _icon_ **Search**, lalu klik _icon_ **filter**.
+   
+![gambar](SPPTH/SPPTH_Android/DaftarSPPTH/02A02.jpg) ![gambar](SPPTH/SPPTH_Android/DaftarSPPTH/02A03.jpg)
+
+3. Pilih form type dengan **SPPTH** dan klik **filter**.
+   
+![gambar](SPPTH/SPPTH_Android/DaftarSPPTH/02A04.jpg) ![gambar](SPPTH/SPPTH_Android/DaftarSPPTH/02A05.jpg) 
+
+4. Semua surat dengan label **SPPTH** akan muncul pada menu inbox.
+
+![gambar](SPPTH/SPPTH_Android/DaftarSPPTH/02A06.jpg)
 
 ## **P-Office Versi IOS**
 
 Langkah – langkah untuk melihat daftar SPPTH via IOS adalah sebagai berikut :
 
-1.	Klik menu **Inbox / Draft / Sent Item** dan pilih tab **SPPTH**
+1. Klik menu **Inbox / Draft / Sent Item**.
+   
+![gambar](SPPTH/SPPTH_Android/DaftarSPPTH/02A01.jpg) 
 
-![gambar](SPPTH/SPPTH_IOS/SPPTH-1.1.png) ![gambar](SPPTH/SPPTH_IOS/SPPTH-1.2.png)
+2. Klik _icon_ **Search**, lalu klik _icon_ **filter**.
+   
+![gambar](SPPTH/SPPTH_Android/DaftarSPPTH/02A02.jpg) ![gambar](SPPTH/SPPTH_Android/DaftarSPPTH/02A03.jpg)
+
+3. Pilih form type dengan **SPPTH** dan klik **filter**.
+   
+![gambar](SPPTH/SPPTH_Android/DaftarSPPTH/02A04.jpg) ![gambar](SPPTH/SPPTH_Android/DaftarSPPTH/02A05.jpg) 
+
+4. Semua surat dengan label **SPPTH** akan muncul pada menu inbox.

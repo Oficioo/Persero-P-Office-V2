@@ -1,6 +1,6 @@
 <font size="3">
 
-1. Gunakan operating system dengan spesifikasi minimum yaitu Operating System iOS 10 untuk mengakses aplikasi P-Office dengan hasil yang maksimal
+1. Gunakan device minimum Apple iPhone 6s/lebih baru atau operating system dengan spesifikasi minimum yaitu Operating System iOS 13 untuk mengakses aplikasi P-Office dengan hasil yang maksimal
 2. Gunakan editor pendukung aplikasi P-Office dengan menungunduh Microsoft Office. Berikut langkah-langkah untuk mengunduh Microsoft Office pada iOS yaitu:
 
     * Buka **App Store** dan ketikkan Microsoft Office

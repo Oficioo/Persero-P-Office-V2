@@ -8,13 +8,13 @@
 
 Langkah - langkah untuk melakukan revisi SPPTH via Web adalah sebagai berikut :
 
-1. Klik menu **Inbox** dan pilih tab **SPPTH**
+1. Klik menu **Draft** dan pilih surat dengan label **SPPTH**
 
-![gambar](SPPTH/SPPTH_Web/TH35.png)
+![gambar](SPPTH/SPPTH_Web/02TH35.png)
 
 2. Pilih SPPTH yang akan disetujui kemudian pilih tab **Detail**
 
-![gambar](SPPTH/SPPTH_Web/TH36.png)
+![gambar](SPPTH/SPPTH_Web/02TH36.png)
 
 3. Klik tombol **Revise** dan pilih **Send.** Isikan komentar jika diperlukan
 

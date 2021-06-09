@@ -9,7 +9,7 @@
 
 Langkah - langkah untuk melakukan **Drafting** surat keluar via Web adalah sebagai berikut :
 
-1. Klik menu **Draft** dan pilih tab **Surat Keluar**
+1. Klik menu **Draft** dan pilih surat berlabel **Surat Keluar**
 
 ![gambar](SuratKeluar/SK_Web/SK18.png)
 
