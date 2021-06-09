@@ -11,43 +11,43 @@ Langkah - langkah untuk mendisposisikan fax masuk via Web adalah sebagai berikut
 
 #### **Disposisi melalui Menu Inbox**
 
-1. Klik menu **Inbox** dan pilih tab **Fax Masuk**
+1. Klik menu **Inbox - Direct** dan pilih berlabel **Fax Masuk**
 
-![gambar](FaxMasuk/FM_WEB/Disposisi01.png) 
+![gambar](FaxMasuk/FM_WEB/02Disposisi01.png) 
 
 2. Pilih fax masuk yang akan didisposisikan kemudian pilih tab **Detail**
 
-![gambar](FaxMasuk/FM_WEB/Disposisi02.png) 
+![gambar](FaxMasuk/FM_WEB/02Disposisi02.png) 
 
-3. Klik tombol **Disposition** dan pilih **Send**
+3. Klik tombol **Disposition**
     
-![gambar](FaxMasuk/FM_WEB/Disposisi03.png)
+![gambar](FaxMasuk/FM_WEB/02Disposisi03.png)
 
 4. Sistem menampilkan form disposisi. Isikan informasi disposisi dan perintah untuk masing - masing penerima disposisi.
 
-![gambar](FaxMasuk/FM_WEB/Disposisi04.png) 
+![gambar](FaxMasuk/FM_WEB/02Disposisi04.png) 
 
-5. Klik **Simpan** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu **"Draft - Surat masuk"**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **"Sent Item - Disposisi"**.
+5. Klik **Save as Draft** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu **"Draft - Direct"** dab berlabel **Fax Masuk**. Klik **Send Disposisi** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **"Sent Item - Disposisi"**.
 
 #### **Disposisi melalui Menu Disposisi**
 
-1. Klik menu **Disposisi** dan pilih tab **Fax Masuk**
+1. Klik menu **Inbox - Disposisi** dan pilih berlabel **Fax Masuk**
 
-![gambar](FaxMasuk/FM_WEB/Disposisi05.png) 
+![gambar](FaxMasuk/FM_WEB/02Disposisi05.png) 
 
 2. Pilih fax masuk yang akan didisposisikan kemudian pilih tab **Detail**
 
-![gambar](FaxMasuk/FM_WEB/Disposisi06.png) 
+![gambar](FaxMasuk/FM_WEB/02Disposisi06.png) 
 
-3. Klik tombol **Disposisi** dan pilih **Send**
+3. Klik tombol **Disposisi**
 
-![gambar](FaxMasuk/FM_WEB/Disposisi07.png) 
+![gambar](FaxMasuk/FM_WEB/02Disposisi07.png) 
 
 4. Sistem menampilkan form disposisi. Isikan informasi disposisi dan perintah untuk masing - masing penerima disposisi.
 
-![gambar](FaxMasuk/FM_WEB/Disposisi08.png) 
+![gambar](FaxMasuk/FM_WEB/02Disposisi08.png) 
 
-5. Klik Simpan untuk menyimpan draft disposisi fax masuk dan fax masuk akan tersimpan di menu **"Draft - Surat masuk"**. Klik Send untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **"Sent Item - Disposisi"**.
+5. Klik **Save as Draf** untuk menyimpan draft disposisi fax masuk dan fax masuk akan tersimpan di menu **"Draft - Disposisi"** dan berlabel Fax Masuk. Klik Send untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **"Sent Item - Disposisi"** dan berlabel Fax Masuk.
 
 ## **P-Office Versi Teams**
 
