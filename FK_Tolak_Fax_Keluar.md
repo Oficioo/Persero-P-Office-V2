@@ -5,19 +5,21 @@
 
 *User* dapat menolak fax keluar yang akan dikemnbalikan ke konseptor jika hasil review fax keluar belum / tidak sesuai. Langkah-langkah untuk menolak fax keluar adalah sebagai berikut
 
-1. Klik menu **Inbox** dan pilih tab **Fax Keluar**
+1. Klik menu **Draft - Direct** dan pilih berlabel **Fax Keluar**
 
-![gambar](FaxKeluar/FK_Web/FK42.jpg)
+![gambar](FaxKeluar/FK_Web/02FK42F2.PNG)
 
 2. Pilih fax keluar yang akan ditindak lanjuti kemudian pilih tab **Detail**
 
-![gambar](FaxKeluar/FK_Web/FK43.jpg)
+![gambar](FaxKeluar/FK_Web/02FK43F2.PNG)
 
-3. Klik tombol **Reject** dan pilih **Send**. Isikan komentar jika diperlukan
+3. Klik tombol **Reject** dan akan muncul top up *Reject Comment*. Isikan komentar jika diperlukan
 
-![gambar](FaxKeluar/FK_Web/FK44.jpg)
+![gambar](FaxKeluar/FK_Web/02FK44.png)
 
-4.	Sistem berhasil menyimpan perubahan. Fax keluar yang sudah di tolak akan akan akan terhapus dari aplikasi akan tersimpan di menu **“Rejected – Memorandum”** user penolak dengan label **Rejected**.
+![gambar](FaxKeluar/FK_Web/02FK44F2.png)
+
+4.	Sistem berhasil menyimpan perubahan. Fax keluar yang sudah di tolak akan terhapus dari **Draf - Direct** dan akan tersimpan di menu **“Rejected”** berlabel Fax Keluar.
 
 ## **P-Office Versi Teams**
 

@@ -33,7 +33,9 @@ Langkah - langkah untuk melihat daftar dokumem Fax keluar via Android adalah seb
 
 1. Klik menu **Archive** pilih submenu **Fax Keluar**
    
-![gambar](Archive/AR_Android/FK/A01.jpg) ![gambar](Archive/AR_Android/FK/A02.jpg)
+![gambar](Archive/AR_Android/FK/02A01.jpg) 
+
+![gambar](Archive/AR_Android/FK/02A02.jpg)
 
 2. Sistem menampilkan dokumen surat masuk yang tersimpan di menu Archive
 
