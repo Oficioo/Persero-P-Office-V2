@@ -3,24 +3,24 @@
 - *Approver User*
 - *Reviewer User*
 
-*User* dapat menolak surat keluar yang akan dikemnbalikan ke konseptor jika hasil review surat keluar belum / tidak sesuai. 
+*User* dapat menolak surat keluar yang akan dikembalikan ke konseptor jika hasil review surat keluar belum atau tidak sesuai. 
 
 ## **P-Office Versi Web**
 -langkah untuk menolak surat keluar via Web adalah sebagai berikut
 
-1. Klik menu **Inbox** dan pilih tab **Surat Keluar**
+1. Klik menu **Draft** dan Klik menu **Direct**  kemudian pilih label **Surat Keluar**
 
-![gambar](SuratKeluar/SK_Web/SK44.png)
+![gambar](SuratKeluar/SK_Web/02SK44.png)
 
 2. Pilih surat keluar yang akan ditindak lanjuti kemudian pilih tab **Detail**
 
-![gambar](SuratKeluar/SK_Web/SK45.png)
+![gambar](SuratKeluar/SK_Web/02SK45.png)
 
-3. Klik tombol **Reject** dan pilih **Send**. Isikan komentar jika diperlukan
+3. Klik tombol **Reject** dan pilih **Submit**. Isikan komentar jika diperlukan
 
-![gambar](SuratKeluar/SK_Web/SK46.png)
+![gambar](SuratKeluar/SK_Web/02SK46.png)
 
-4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah ditolak akan otomatis terhapus akan tersimpan di menu **“Rejected – Memorandum”** user penolak dengan label **Rejected**
+4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah ditolak akan otomatis terhapus akan tersimpan di menu **Rejected document** label **Surat Keluar** user penolak dengan label **Rejected**
 
 ## **P-Office Versi Teams**
 

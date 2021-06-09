@@ -11,34 +11,34 @@ _User_ dapat melihat informasi lengkap surat masuk termasuk _preview_ surat masu
 
 Langkah-langkah untuk melihat informasi surat masuk via Web adalah sebagai berikut.
 
-1.    Klik menu **Inbox/Draft/Sent Item** dan pilih tab **Surat Masuk.** Pilih salah satu surat masuk yang akan dilihat informasinya
+1.    Klik menu **Inbox/Draft/Sent Item** dan pilih label **Surat Masuk.** Pilih salah satu surat masuk yang akan dilihat informasinya
 
-![gambar](SuratMasuk/SM_Web/SM08.png)
+![gambar](SuratMasuk/SM_Web/02SM08.png)
 
 
 ####   **Preview Surat Masuk**
 
 Pada tab **Preview**, ditampilkan _preview_ surat masuk yang merupakan hasil unggahan yang diinputkan oleh sekretaris/konseptor.
 
-![gambar](SuratMasuk/SM_Web/SM09.png)
+![gambar](SuratMasuk/SM_Web/02SM09.png)
 
 ####   **Detail Surat Masuk**
 
 Pada tab **Detail**, terdapat informasi asal surat, perihal, file lampiran, kategori surat, resume, rekomendasi, nomor surat, klasifikasi surat, tanggal surat dan tujuan.
 
-![gambar](SuratMasuk/SM_Web/SM10.png)
+![gambar](SuratMasuk/SM_Web/02SM10.png)
 
 ####   **Tracking Surat Masuk**
 
 Pada tab **Tracking**, ditampilkan informasi _tracking_ surat masuk dalam bentuk _chart_
 
-![gambar](SuratMasuk/SM_Web/SM11.png)
+![gambar](SuratMasuk/SM_Web/02SM11.png)
 
 ####   **History Surat Masuk**
 
 Pada tab **History**, ditampilkan riwayat surat masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
-![gambar](SuratMasuk/SM_Web/SM12.png)
+![gambar](SuratMasuk/SM_Web/02SM12.png)
 
 
 

@@ -11,43 +11,43 @@ Langkah - langkah untuk mendisposisikan surat masuk via Web adalah sebagai berik
 
 ####   **Disposisi melalui Menu Inbox**
 
-1.    Klik menu **Inbox** dan pilih tab **Surat Masuk**
+1.    Klik menu **Inbox** dan pilih label **Surat Masuk**
 
-![gambar](SuratMasuk/SM_Web/SM22.png)
+![gambar](SuratMasuk/SM_Web/02SM22.png)
 
 2.    Pilih surat masuk yang akan didisposisikan kemudian pilih tab **Detail**
 
-![gambar](SuratMasuk/SM_Web/SM23.png)
+![gambar](SuratMasuk/SM_Web/02SM23.png)
 
-3.    Klik tombol **Disposition** dan pilih **Send**
+3.    Klik tombol **Disposition**
 
-![gambar](SuratMasuk/SM_Web/SM24.png)
+![gambar](SuratMasuk/SM_Web/02SM24.png)
 
 4.    Sistem menampilkan form disposisi. Isikan informasi disposisi dan perintah untuk masing-masing penerima disposisi.
 
-![gambar](SuratMasuk/SM_Web/SM25.png)
+![gambar](SuratMasuk/SM_Web/02SM25.png)
 
-5.    Klik **Save** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu "**Draft - Surat masuk**". Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu "**Sent Item - Disposisi**".
+5.    Klik **Save** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu "**Draft - Surat masuk**". Klik **Send Disposition** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu "**Sent Item - Disposisi**".
 
 ####   **Disposisi melalui Menu Disposisi**
 
-1.    Klik menu **Disposisi** dan pilih tab **Surat Masuk**
+1.    Klik menu **Inbox** dan menu **Disposition** kemudian pilih label **Surat Masuk**
 
-![gambar](SuratMasuk/SM_Web/SM26.png)
+![gambar](SuratMasuk/SM_Web/02SM26.png)
 
 2.    Pilih surat masuk yang akan didisposisikan kemudian pilih tab **Detail**
 
-![gambar](SuratMasuk/SM_Web/SM27.png)
+![gambar](SuratMasuk/SM_Web/02SM27.png)
 
-3.    Klik tombol **Disposition** dan pilih **Send**
+3.    Klik tombol **Disposition**
 
-![gambar](SuratMasuk/SM_Web/SM28.png)
+![gambar](SuratMasuk/SM_Web/02SM28.png)
 
 4.    Sistem menampilkan form disposisi. Isikan informasi disposisi dan perintah untuk masing-masing penerima disposisi.
 
-![gambar](SuratMasuk/SM_Web/SM29.png)
+![gambar](SuratMasuk/SM_Web/02SM29.png)
 
-5.    Klik **Save** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu "**Draft - Surat masuk**". Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu "**Sent Item - Disposisi**".
+5.    Klik **Save** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu "**Draft - Surat masuk**". Klik **Send Disposition** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu "**Sent Item - Disposisi**".
 
 ## **P-Office Versi Teams**
 
