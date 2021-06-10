@@ -54,39 +54,44 @@ Langkah - langkah untuk save as template fax keluar via Teams adalah sebagai ber
 
 Langkah - langkah untuk save as template fax keluar via Android adalah sebagai berikut:
 
-1. Isi _form_ fax keluar dan Klik **Save as Template**
+1. Isi _form_ **Creat Fax Keluar** dan isi semua tab yang terdapat di menu Creat Fax Keluar lalu klik **Next**
 
-![gambar](FaxKeluar/FK_Android/TempFK/A01.jpg) ![gambar](FaxKeluar/FK_Android/TempFK/A02.jpg)
+![gambar](FaxKeluar/FK_Android/TempFK/02A01.png) ![gambar](FaxKeluar/FK_Android/TempFK/02A02.png) ![gambar](FaxKeluar/FK_Android/TempFK/02A03.png)
 
-2. Fax keluar yang disimpan menjadi _template_ akan tersimpan di menu “**Draft – Fax Keluar”.** Untuk melanjutkan _template_ yang sudah dibuat _user_ dapat memilih menu “**Draft – Keluar**” kemudian pilih _template_ yang akan digunakan
+2. Fax keluar yang disimpan menjadi _template_ akan tersimpan di menu “**Draft – Direct”** surat berlabel Fax masuk Untuk melanjutkan _template_ yang sudah dibuat _user_ dapat memilih menu “**Draft – Direct**” label Fax Keluar, kemudian pilih _template_ yang akan digunakan
 
-![gambar](FaxKeluar/FK_Android/TempFK/A03.jpg) ![gambar](FaxKeluar/FK_Android/TempFK/A04.jpg)
+![gambar](FaxKeluar/FK_Android/TempFK/02A04.png) 
+![gambar](FaxKeluar/FK_Android/TempFK/02A04F2.PNG)
 
 3. Pilih tombol **Use Template** untuk melanjutkan edit fax keluar
 
-![gambar](FaxKeluar/FK_Android/TempFK/A05.jpg) ![gambar](FaxKeluar/FK_Android/TempFK/A06.jpg)
+ ![gambar](FaxKeluar/FK_Android/TempFK/04A05.PNG) 
+ ![gambar](FaxKeluar/FK_Android/TempFK/02A05.png)
 
-4. Sistem akan menampilkan form **Edit Correspondence,** klik **Simpan** untuk menyimpan perubahan
+4. Sistem akan menampilkan form **Edit Fax Keluar,** klik **Save as Draf** untuk menyimpan perubahan
 
-![gambar](FaxKeluar/FK_Android/TempFK/A07.jpg)
+![gambar](FaxKeluar/FK_Android/TempFK/02A06.png)
 
-5. Lakukan perubahan pada fax, klik **Simpan** untuk menyimpan perubahan dan fax keluar akan tersimpan di menu **“Draft – Fax Keluar”** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **“Sent Item – Fax Keluar”.**
+5. Lakukan perubahan pada fax, klik **Safe as Draf** untuk menyimpan perubahan dan fax keluar akan tersimpan di menu **“Draft – Direct”** berlabel Fax Keluar sebagai draft atau klik **Send Document** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **“Sent Item – Direct ”** berlabel Fax Keluar.
 
 ## **P-Office Versi IOS**
 
 Langkah - langkah untuk save as template fax keluar via IOS adalah sebagai berikut :
 
-1. Isi _form_ fax keluar dan klik **Save as Template**
+1. Isi _form_ **Creat Fax Keluar** dan isi semua tab yang terdapat di menu Creat Fax Keluar lalu klik **Next**
 
-![gambar](FaxKeluar/FK_IOS/FK-10.1.png) ![gambar](FaxKeluar/FK_IOS/FK-10.2.png)
+![gambar](FaxKeluar/FK_Android/TempFK/02A01.png)
+ ![gambar](FaxKeluar/FK_Android/TempFK/02A04.png)
 
-2. Fax keluar yang disimpan menjadi _template_ akan tersimpan di menu “**Draft – Fax Keluar”**. Untuk melanjutkan _template_ yang sudah dibuat _user_ dapat memilih menu “**Draft – Fax Keluar**” kemudian pilih _template_ yang akan digunakan
+2. Fax keluar yang disimpan menjadi _template_ akan tersimpan di menu “**Draft - Direct”** berlabel Fax Keluar. Untuk melanjutkan _template_ yang sudah dibuat _user_ dapat memilih menu “**Draft - Direct”** berlabel Fax Keluar, kemudian pilih _template_ yang akan digunakan
 
-![gambar](FaxKeluar/FK_IOS/FK-11.1.png) ![gambar](FaxKeluar/FK_IOS/FK-11.2.png)
+![gambar](FaxKeluar/FK_Android/TempFK/02A04F2.PNG)
 
-3. Pilih icon **Option** kemudian pilih **Use Template** untuk melanjutkan edit surat akan menampilkan form **Edit Fax Keluar**, klik **Save** untuk menyimpan perubahan
+3. Pilih icon **Option** kemudian pilih **Use Template** untuk melanjutkan edit surat akan menampilkan form **Edit Fax Keluar**, klik **Save as Draf** untuk menyimpan perubahan
 
-![gambar](FaxKeluar/FK_IOS/FK-13.png) 
+![gambar](FaxKeluar/FK_Android/TempFK/02A05.png) 
+![gambar](FaxKeluar/FK_Android/TempFK/02A06.png)
 
-4. Lakukan perubahan pada surat, klik **Save** untuk menyimpan perubahan dan surat akan tersimpan di menu **“Draft – Fax Keluar”** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **“Sent Item – Fax Keluar”.**
+
+4. Lakukan perubahan pada surat, klik **Save as Draft** untuk menyimpan perubahan dan surat akan tersimpan di menu “**Draft - Direct”** berlabel Fax Keluar sebagai draft atau klik **Send Document** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **“Sent Item - Direct”** berlabel Fax Keluar”.
 

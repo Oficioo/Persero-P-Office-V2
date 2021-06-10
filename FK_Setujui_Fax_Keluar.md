@@ -44,32 +44,32 @@ Langkah - langkah untuk menyetujui fax keluar via Teams adalah sebagai berikut:
 
 Langkah - langkah untuk menyetujui fax keluar via Android adalah sebagai berikut:
 
-1. Klik menu **Inbox** dan pilih tab **Fax Keluar**
+1. Klik menu **Draf - Direct** dan pilih berlabel **Fax Keluar**
 
-![gambar](FaxKeluar/FK_Android/SetujuFK/A01.jpg) ![gambar](FaxKeluar/FK_Android/SetujuFK/A02.jpg)
+![gambar](FaxKeluar/FK_Android/SetujuFK/02A01.png) ![gambar](FaxKeluar/FK_Android/SetujuFK/02A02.png)
 
 2. Pilih fax keluar yang akan ditindak lanjuti kemudian pilih icon **Option**
    
-![gambar](FaxKeluar/FK_Android/SetujuFK/A3.jpg) ![gambar](FaxKeluar/FK_Android/SetujuFK/A03.jpg)
+![gambar](FaxKeluar/FK_Android/SetujuFK/02A3.png) ![gambar](FaxKeluar/FK_Android/SetujuFK/02A03.png)
 
-3. Klik tombol **Approve** kemudian Sistem akan menampilkan pop up konfirmasi dan _user_ harus mengisi komentar lalu pilih **Send**
+3. Klik tombol **Approve Document** kemudian Sistem akan menampilkan pop up konfirmasi dan _user_ harus mengisi komentar lalu pilih **Send**
    
-![gambar](FaxKeluar/FK_Android/SetujuFK/A04.jpg) ![gambar](FaxKeluar/FK_Android/SetujuFK/A05.jpg)
+![gambar](FaxKeluar/FK_Android/SetujuFK/02A04.png) ![gambar](FaxKeluar/FK_Android/SetujuFK/02A05.png)
 
-4. Sistem berhasil menyimpan perubahan. Fax keluar yang sudah di kirim akan tersimpan di menu **Sent Item- Fax Keluar**
+4. Sistem berhasil menyimpan perubahan. Fax keluar yang sudah di kirim akan tersimpan di menu **Sent Item - Direct** berlabel Fax Keluar.
 
 ## **P-Office Versi IOS**
 
 Langkah - langkah untuk menyetujui fax keluar via IOS adalah sebagai berikut:
 
-1. Klik menu **Inbox** dan pilih tab **Fax Keluar**
+1. Klik menu **Draft - Direct** dan pilih berlabel **Fax Keluar**
 
-![gambar](FaxKeluar/FK_IOS/FK-25.1.png) ![gambar](FaxKeluar/FK_IOS/FK-25.2.png)
+![gambar](FaxKeluar/FK_Android/SetujuFK/02A01.png) ![gambar](FaxKeluar/FK_Android/SetujuFK/02A02.png)
 
-2. Pilih fax keluar yang akan ditindak lanjuti kemudian pilih icon **Option** dan pilih **Approve**
+2. Pilih fax keluar yang akan ditindak lanjuti kemudian pilih icon **Option** dan pilih **Approve Document**
 
-![gambar](FaxKeluar/FK_IOS/FK-26.1.png) ![gambar](FaxKeluar/FK_IOS/FK-26.2.png)
+![gambar](FaxKeluar/FK_Android/SetujuFK/02A04.png)
 
-3.	Isikan komentar jika diperlukan kemudian klik **Send** untuk menyimpan perubahan. Fax keluar yang sudah di kirim akan tersimpan di menu **"Sent Item � Fax Keluar"** 
+3.	Isikan komentar jika diperlukan kemudian klik **Send** untuk menyimpan perubahan. Fax keluar yang sudah di kirim akan tersimpan di menu **"Sent Item - Direct"**  berlabel Fax Keluar
 
-![gambar](FaxKeluar/FK_IOS/FK-27.png)
+![gambar](FaxKeluar/FK_Android/SetujuFK/02A05.png)
