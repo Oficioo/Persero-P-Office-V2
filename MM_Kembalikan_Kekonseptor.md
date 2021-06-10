@@ -70,7 +70,8 @@ Langkah-langkah untuk mengembalikan memorandum ke konseptor adalah sebagai berik
 
 2. Pilih memorandum yang akan ditindak lanjuti kemudian pilih icon **Option** dan pilih **Revise to Previous**
 
-![gambar](Memorandum/MM_IOS/02MM-81.png) ![gambar](Memorandum/MM_IOS/02MM-43.png)
+![gambar](Memorandum/MM_IOS/02MM-81.png)
+![gambar](Memorandum/MM_IOS/02MM-43.png)
 
 3. Isikan komentar jika diperlukan kemudian klik **Send** untuk menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item – Memorandum**
 
