@@ -65,7 +65,8 @@ Langkah-langkah untuk mengembalikan memorandum ke konseptor adalah sebagai berik
 
 1. Klik menu **Draft** dan pilih label **Memorandum**
 
-![gambar](Memorandum/MM_IOS/02MM-79.png) ![gambar](Memorandum/MM_IOS/02MM-80.png)
+![gambar](Memorandum/MM_IOS/02MM-79.png)
+![gambar](Memorandum/MM_IOS/02MM-80.png)
 
 2. Pilih memorandum yang akan ditindak lanjuti kemudian pilih icon **Option** dan pilih **Revise to Previous**
 

@@ -66,7 +66,8 @@ Langkah-langkah untuk mengembalikan memorandum ke sebelumnya via IOS adalah seba
 
 1. Klik menu **Draft** dan pilih label **Memorandum**
 
-![gambar](Memorandum/MM_IOS/02MM-77.png) ![gambar](Memorandum/MM_IOS/02MM-78.png)
+![gambar](Memorandum/MM_IOS/02MM-77.png)
+![gambar](Memorandum/MM_IOS/02MM-78.png)
 
 2. Pilih memorandum yang akan ditindak lanjuti kemudian pilih icon **Option** dan pilih **Revise to Previous**
 
