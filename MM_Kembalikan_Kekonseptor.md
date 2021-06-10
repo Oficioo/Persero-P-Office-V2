@@ -41,9 +41,9 @@ Langkah-langkah untuk mengembalikan Memorandum ke konseptor via Teams adalah seb
 
 4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item - Memorandum** dan penerima pengembalian memorandum akan menerima memorandum di menu **Rejected - Memorandum**
 
-## **P-Office Versi Android**
+## **P-Office Versi Android dan iOS**
 
-Langkah-langkah untuk mengembalikan Memorandum ke konseptor via Android adalah sebagai berikut :
+Langkah-langkah untuk mengembalikan Memorandum ke konseptor via Android dan iOS adalah sebagai berikut :
 
 1. Klik menu **Draft** dan pilih label **Memorandum**
 
@@ -59,22 +59,4 @@ Langkah-langkah untuk mengembalikan Memorandum ke konseptor via Android adalah s
 
 4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item - Memorandum** dan konseptor akan menerima memorandum di menu **Rejected – Memorandum**
 
-## **P-Office Versi IOS**
 
-Langkah-langkah untuk mengembalikan memorandum ke konseptor adalah sebagai berikut
-
-1. Klik menu **Draft** dan pilih label **Memorandum**
-
-![gambar](Memorandum/MM_IOS/02MM-79.png)
-![gambar](Memorandum/MM_IOS/02MM-80.png)
-
-2. Pilih memorandum yang akan ditindak lanjuti kemudian pilih icon **Option** dan pilih **Revise to Previous**
-   ![gambar](Memorandum/MM_IOS/03MM-81.png)
-   ![gambar](Memorandum/MM_IOS/02MM-81.png)
-   ![gambar](Memorandum/MM_IOS/02MM-43.png)
-
-3. Isikan komentar jika diperlukan kemudian klik **Send** untuk menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item – Memorandum**
-
-![gambar](Memorandum/MM_IOS/02MM-44.png)
-
-4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item - Memorandum** dan penerima pengembalian memorandum akan menerima memorandum di menu **Rejected - Memorandum**

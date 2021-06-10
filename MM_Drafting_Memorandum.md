@@ -130,9 +130,9 @@ Langkah - langkah untuk mengirim memorandum adalah sebagai berikut
 
 2. Sistem menyimpan perubahan dan memorandum akan tersimpan di menu **"Sent Item - Memorandum"**
 
-## **P-Office Versi Android**
+## **P-Office Versi Android dan iOS**
 
-Langkah-langkah untuk drafting memorandum via Android adalah sebagai berikut :
+Langkah-langkah untuk drafting memorandum via Android dan iOS adalah sebagai berikut :
 
 1. Klik menu **Draft** dan pilih label **Memorandum**
 
@@ -182,42 +182,3 @@ Langkah – langkah untuk mengirim memorandum adalah sebagai berikut.
 
 2. Sistem menyimpan perubahan dan memorandum akan tersimpan di menu “**Sent Item - Memorandum**”
 
-## **P-Office Versi IOS**
-
-Langkah-langkah untuk melakukan _drafting_ memorandum via IOS adalah sebagai berikut:
-
-1. Klik menu **Draft** dan pilih label **Memorandum**
-
-![gambar](Memorandum/MM_IOS/02MM-75.png) ![gambar](Memorandum/MM_IOS/02MM-18.png)
-
-2. Pilih memorandum yang akan diubah kemudian pilih icon **Option** dan pilih **Modify document**
-![gambar](Memorandum/MM_IOS/03MM-19.png)
-![gambar](Memorandum/MM_IOS/02MM-19.png) ![gambar](Memorandum/MM_IOS/02MM-20.png)
-
-3. Sistem akan menampilkan _form_ **Edit Memorandum.** Lakukan perubahan pada _form_ kemudian klik **Save** untuk menyimpan perubahan pada _form_ memorandum
-
-![gambar](Memorandum/MM_IOS/02MM-21.png) ![gambar](Memorandum/MM_IOS/02MM-22.png)
-
-4. Setelah selesai, klik **Edit document** untuk melakukan perubahan pada isi konten memorandum
-
-![gambar](Memorandum/MM_IOS/02MM-24.png)
-
-5. Sistem akan menampilkan tampilan _preview_ memorandum dalam bentuk Word yang dapat di edit. Untuk melakukan _editing_ terhadap isi surat klik **Edit**
-
-![gambar](Memorandum/MM_IOS/02MM-25.png)
-
-6. Sistem akan menampilkan _pop up \_notifikasi editing dokumen, klik **Yes** untuk menutup \_pop up_ notifikasi
-
-![gambar](Memorandum/MM_IOS/02MM-26.png)
-
-7. Surat keluar yang sudah di ubah akan tersimpan dimenu “**Draft – Surat Keluar**”
-
-**Kirim Memorandum**
-
-Langkah – langkah untuk mengirim memorandum via IOS adalah sebagai berikut.
-
-1. Pada tampilan _preview_ memorandum, klik **Send document** untuk mengirim surat ke pejabat tujuan
-
-![gambar](Memorandum/MM_IOS/02MM-11.png)
-
-2. Sistem menyimpan perubahan dan memorandum akan tersimpan di menu “**Sent Item - Memorandum**”

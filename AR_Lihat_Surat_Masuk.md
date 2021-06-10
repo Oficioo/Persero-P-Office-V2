@@ -27,20 +27,15 @@ Langkah - langkah untuk melihat daftar dokumem Surat Masuk via Teams adalah seba
 
 2.  Sistem menampilkan dokumen surat masuk yang tersimpan di menu _Archive_
 
-## **P-Office Versi Android**
+## **P-Office Versi Android dan iOS**
 
-Langkah - langkah untuk melihat daftar dokumem Surat Masuk via Android adalah sebagai berikut :
+Langkah - langkah untuk melihat daftar dokumem Surat Masuk via Android dan iOS adalah sebagai berikut :
 
-1. Klik menu **Archive** pilih submenu **Surat Masuk**
+1. Klik menu **Archive** pilih Berlabel **Surat Masuk**
    
-![gambar](Archive/AR_Android/SM/A01.jpg) ![gambar](Archive/AR_Android/SM/A02.jpg)
+![gambar](Archive/AR_Android/FM/02A01.jpg) 
+
+![gambar](Archive/AR_Android/FM/02A02.jpg)
 
 2. Sistem menampilkan dokumen surat masuk yang tersimpan di menu Archive
 
-## **P-Office Versi IOS**
-
-1. Klik menu **Archive** dan pilih tab **Surat Masuk**
-
-![gambar](Archive/AR_IOS/A-1.1.png) ![gambar](Archive/AR_IOS/A-1.2.png)
- 
-2. Sistem menampilkan dokumen surat masuk yang tersimpan di menu Archive

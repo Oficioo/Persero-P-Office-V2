@@ -61,9 +61,9 @@ Langkah-langkah untuk Custom disposisi Memorandum via Teams adalah sebagai berik
 
 ![gambar](Memorandum/MM_Teams/MM69.png)
 
-## **P-Office Versi Android**
+## **P-Office Versi Android dan iOS**
 
-Langkah-langkah untuk Custom disposisi Memorandum via Android adalah sebagai berikut :
+Langkah-langkah untuk Custom disposisi Memorandum via Android dan iOS adalah sebagai berikut :
 
 1. Klik menu **Inbox** dan pilih tab **Memorandum**
 
@@ -89,26 +89,3 @@ Langkah-langkah untuk Custom disposisi Memorandum via Android adalah sebagai ber
 
 ![gambar](Memorandum/MM_Android/Customdisposisi/A09.jpg)
 
-## **P-Office Versi IOS**
-
-Langkah-langkah untuk melakukan Custom disposisi memorandum via IOS adalah sebagai berikut :
-
-1. Klik menu **Inbox** dan pilih tab **Memorandum**
-
-![gambar](Memorandum/MM_IOS/MM-85.png) ![gambar](Memorandum/MM_IOS/MM-86.png)
-
-2. Pilih memorandum yang akan didisposisikan kemudian pilih tab **Option** dan pilih **Disposition**
-
-![gambar](Memorandum/MM_IOS/MM-59.png) ![gambar](Memorandum/MM_IOS/MM-60.png)
-
-3. Sistem menampilkan form disposisi. Klik icon “**+ Add Disposition**” pada field **Forward To.** Isikan informasi disposisi dan perintah untuk masing-masing penerima disposisi
-
-![gambar](Memorandum/MM_IOS/MM-87.png)
-
-4. Sistem menampilkan daftar pejabat yang dapat dipilih untuk didisposikan kemudian klik **Submit**
-
-![gambar](Memorandum/MM_IOS/MM-88.png)
-
-5. Isikan perintah dan keterangan pada masing-masing penerima disposisi. Tambahkan lampiran disposisi jika diperlukan. Fitur **Same Comment For All** dapat digunakan _user_ untuk memberikan komentar yang sama untuk masing-masing pejabat penerima disposisi. Klik **Save** untuk menyimpan perubahan dan klik **Send** untuk mengirim disposisi.
-
-![gambar](Memorandum/MM_IOS/MM-89.png)

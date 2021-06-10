@@ -53,9 +53,9 @@ Langkah - langkah untuk mengesahkan fax keluar via Teams adalah sebagai berikut:
 6.	Fax keluar yang sudah disetujui akan tersimpan di menu **“Sent Item – Fax keluar”** pengiriman sedangkan Fax keluar akan tersimpan di menu **“Inbox – Fax keluar”** penerima
 
 
-## **P-Office Versi Android**
+## **P-Office Versi Android dan iOS**
 
-Langkah - langkah untuk mengesahkan fax keluar via Android adalah sebagai berikut:
+Langkah - langkah untuk mengesahkan fax keluar via Android dan iOS adalah sebagai berikut:
 
 1. Klik menu **Draft - Direct** dan pilih tab **Fax Keluar**
 
@@ -79,21 +79,4 @@ Langkah - langkah untuk mengesahkan fax keluar via Android adalah sebagai beriku
 
 6. Fax keluar yang sudah disetujui akan tersimpan di menu **“Sent Item – Direct”** berlabel Fax Keluar pengiriman sedangkan Fax keluar akan tersimpan di menu **“Inbox – Direct”** berlabel Fax Keluar penerima
 
-## **P-Office Versi IOS**
-
-Langkah - langkah untuk mengesahkan fax keluar via IOS adalah sebagai berikut:
-
-1. Klik menu **Draf - Direct** dan pilih berlabel **Fax Keluar**
-
-![gambar](FaxKeluar/FK_Android/NomorFK/02A01.png) ![gambar](FaxKeluar/FK_Android/NomorFK/02A02.png)
-
-2. Pilih fax keluar yang akan ditindak lanjuti kemudian pada **Detail** terdapat informasi nomor surat yang masih bersifat sementara. Nomor inilah yang akan ter-_generate_ jika _user_ menyetujui fax keluar. Pilih icon **Option** dan pilih **Sign Documet**
-
-![gambar](FaxKeluar/FK_Android/NomorFK/02A04.png) ![gambar](FaxKeluar/FK_Android/NomorFK/02A05.png)  
-
-3. Sistem menampilkan *form* Signing Documents. Isikan komentar, NIK dan Pass Phrase kemudian klik **Send**
-
-![gambar](FaxKeluar/FK_Android/NomorFK/02A09.png)
-
-4. Nomor surat keluar akan ter-_generate_ sesuai dengan nomor sementara pada detail. Surat keluar yang sudah disetujui akan tersimpan di menu “**Sent Item - Direct**” berlabel Fax Keluar pengirim sedangkan surat keluar akan tersimpan di menu “**Inbox - Direct**” berlabel Fax Keluar penerima.
 

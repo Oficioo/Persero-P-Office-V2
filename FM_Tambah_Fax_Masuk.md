@@ -42,9 +42,9 @@ Langkah - langkah untuk tambah fax masuk via Teams adalah sebagai berikut:
 
 4. Sistem berhasil menyimpan perubahan
 
-## **P-Office Versi Android**
+## **P-Office Versi Android dan iOS**
 
-Langkah-langkah untuk menambah fax masuk via Android adalah sebagai berikut :
+Langkah-langkah untuk menambah fax masuk via Android dan iOS adalah sebagai berikut :
 
 1. Klik icon **(+)**
 
@@ -62,24 +62,3 @@ Langkah-langkah untuk menambah fax masuk via Android adalah sebagai berikut :
 
 ![gambar](FaxMasuk/FM_Android/TambahFM/02A05.png)
 
-## **P-Office Versi IOS**
-
-Langkah-langkah untuk menambah fax masuk via IOS adalah sebagai berikut :
-
-1. Klik icon **(+)**
-
-![gambar](FaxMasuk/FM_IOS/02FM-2.png)
-
-2. Pilih jenis surat “**Fax Masuk**”
-
-![gambar](FaxMasuk/FM_IOS/02FM-3.png)
-
-3. Isi form tambah fax masuk kemudian Klik **Next** untuk melanjutkan pengisian fax masuk
-
-![gambar](FaxMasuk/FM_IOS/02FM-4.1.png) ![gambar](FaxMasuk/FM_IOS/02FM-4.2.png)
-
-4. Klik **Save Mail** untuk menyimpan form surat dan surat akan tersimpan di menu “**Draft – Fax Masuk**”. Klik **Send Mail** untuk mengirim fax masuk dan fax masuk akan tersimpan di menu “**Sent Item – Fax Masuk**”
-
-![gambar](FaxMasuk/FM_IOS/02FM-5.1.png) ![gambar](FaxMasuk/FM_IOS/02FM-5.2.png)
-
-5. Sistem berhasil menyimpan perubahan

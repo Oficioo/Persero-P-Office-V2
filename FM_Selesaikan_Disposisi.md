@@ -53,9 +53,9 @@ Langkah - langkah untuk menyelesaikan disposisi fax masuk via Teams adalah sebag
 
 5. Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi.
 
-## **P-Office Versi Android**
+## **P-Office Versi Android dan iOS**
 
-Langkah-langkah untuk menyelesaikan disposisi fax masuk via Android adalah sebagai berikut :
+Langkah-langkah untuk menyelesaikan disposisi fax masuk via Android dan iOS adalah sebagai berikut :
 
 1. Klik menu **Inbox - Disposisi** dan pilih berlabel **Fax masuk**
 
@@ -70,23 +70,4 @@ Langkah-langkah untuk menyelesaikan disposisi fax masuk via Android adalah sebag
 ![gambar](FaxMasuk/FM_Android/Selesaidisposisi/02A05.png)
 
 4. Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di *history* disposisi.
-
-## **P-Office Versi IOS**
-
-Langkah-langkah untuk menyelesaikan disposisi fax masuk via IOS adalah sebagai berikut :
-
-1. Klik menu **Inbox - Disposisi** dan pilih berlabel **Fax Masuk**
-
-![gambar](FaxMasuk/FM_Android/Selesaidisposisi/02A01.png) ![gambar](FaxMasuk/FM_Android/Selesaidisposisi/02A02.png) 
-
-2. Pilih disposisi yang akan diselesaikan kemudian pilih icon **Option** dan pilih **Finish**
-
-![gambar](FaxMasuk/FM_Android/Selesaidisposisi/02A03.png) ![gambar](FaxMasuk/FM_Android/Selesaidisposisi/02A04.png)  
-
-3. Sistem menampilkan pop up konfirmasi dan _user_ harus mengisi keterangan selesaikan disposisi kemudian klik **Send**
-
-![gambar](FaxMasuk/FM_Android/Selesaidisposisi/02A05.png)
-
-4. Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di *history* disposisi.
-
 

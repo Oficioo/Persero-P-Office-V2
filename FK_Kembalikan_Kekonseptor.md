@@ -41,9 +41,9 @@ Langkah - langkah untuk kembalikan kekonseptor via Teams adalah sebagai berikut:
 4. Sistem berhasil menyimpan perubahan. Fax keluar yang sudah di kirim akan tersimpan di menu **Sent Item- Fax Keluar** dan konseptor akan menerima fax keluar di menu **Draft - Fax Keluar**
 
 
-## **P-Office Versi Android**
+## **P-Office Versi Android dan iOS**
 
-Langkah - langkah untuk kembalikan kekonseptor via Android adalah sebagai berikut: 
+Langkah - langkah untuk kembalikan kekonseptor via Android dan iOS adalah sebagai berikut: 
 
 1. Klik menu **Inbox** dan pilih tab **Fax Keluar**
    
@@ -59,21 +59,7 @@ Langkah - langkah untuk kembalikan kekonseptor via Android adalah sebagai beriku
 
 4. Sistem berhasil menyimpan perubahan. Fax keluar yang sudah di kirim akan tersimpan di menu **Sent Item- Fax Keluar** dan konseptor akan menerima fax keluar di menu **Draft – Fax Keluar**
 
-## **P-Office Versi IOS**
 
-Langkah - langkah untuk kembalikan kekonseptor via IOS adalah sebagai berikut: 
-
-1. Klik menu **Inbox** dan pilih tab **Fax Keluar**
-
-![gambar](FaxKeluar/FK_IOS/FK-31.1.png) ![gambar](FaxKeluar/FK_IOS/FK-31.2.png)
-
-2. Pilih fax keluar yang akan ditindak lanjuti kemudian pilih icon **Option** dan pilih **Revise to Conceptor**
-
-![gambar](FaxKeluar/FK_IOS/FK-32.1.png) ![gambar](FaxKeluar/FK_IOS/FK-32.2.png)
-
-3.	Isikan komentar jika diperlukan kemudian klik **Send** untuk menyimpan perubahan. Fax keluar yang sudah di kirim akan tersimpan di menu **"Sent Item – Fax Keluar"**
-
-![gambar](FaxKeluar/FK_IOS/FK-33.png)
 
 
 

@@ -40,9 +40,9 @@ Langkah - langkah untuk menyetujui fax keluar via Teams adalah sebagai berikut:
 
 4. Sistem berhasil menyimpan perubahan. Fax keluar yang sudah di kirim akan tersimpan di menu **Sent Item - Fax Keluar**
 
-## **P-Office Versi Android**
+## **P-Office Versi Android dan iOS**
 
-Langkah - langkah untuk menyetujui fax keluar via Android adalah sebagai berikut:
+Langkah - langkah untuk menyetujui fax keluar via Android dan iOS adalah sebagai berikut:
 
 1. Klik menu **Draf - Direct** dan pilih berlabel **Fax Keluar**
 
@@ -58,18 +58,3 @@ Langkah - langkah untuk menyetujui fax keluar via Android adalah sebagai berikut
 
 4. Sistem berhasil menyimpan perubahan. Fax keluar yang sudah di kirim akan tersimpan di menu **Sent Item - Direct** berlabel Fax Keluar.
 
-## **P-Office Versi IOS**
-
-Langkah - langkah untuk menyetujui fax keluar via IOS adalah sebagai berikut:
-
-1. Klik menu **Draft - Direct** dan pilih berlabel **Fax Keluar**
-
-![gambar](FaxKeluar/FK_Android/SetujuFK/02A01.png) ![gambar](FaxKeluar/FK_Android/SetujuFK/02A02.png)
-
-2. Pilih fax keluar yang akan ditindak lanjuti kemudian pilih icon **Option** dan pilih **Approve Document**
-
-![gambar](FaxKeluar/FK_Android/SetujuFK/02A04.png)
-
-3.	Isikan komentar jika diperlukan kemudian klik **Send** untuk menyimpan perubahan. Fax keluar yang sudah di kirim akan tersimpan di menu **"Sent Item - Direct"**  berlabel Fax Keluar
-
-![gambar](FaxKeluar/FK_Android/SetujuFK/02A05.png)
