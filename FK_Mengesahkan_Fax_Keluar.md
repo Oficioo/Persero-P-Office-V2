@@ -14,17 +14,17 @@
 
 3. Klik **Approve** kemudian pilih **Send**
 
-![gambar](FaxKeluar/FK_Web/FK52.jpg)
+![gambar](FaxKeluar/FK_Web/02FK52.png)
 
-4. Sistem menampilkan *form* Validation of Digital Signature kemudian isikan alamat email untuk mengirim kode OTP validasi digital signature kemudian klik **Send OTP**
+4. Sistem menampilkan *pop up* Validation of Digital Signature
 
-![gambar](FaxKeluar/FK_Web/FK-CR02.png)
+![gambar](FaxKeluar/FK_Web/02FK-CR02.png)
 
-5. Buka email dan salin kode OTP pada form P-Office kemudian klik **Sign**
+5. Pada *pop up* Sign Document akan terdapat pilih Sign, pilih salah satu Sign yang ingin digunakan, lalu Buka email dan salin kode OTP pada form P-Office kemudian klik **Sign**
 
-![gambar](FaxKeluar/FK_Web/FK-CR03.png)
+![gambar](FaxKeluar/FK_Web/02FK-CR03.png)
 
-6. Surat keluar yang sudah disetujui akan tersimpan di menu **"Sent Item - Surat Keluar"** pengirim sedangkan surat keluar akan tersimpan di menu **"Inbox - Surat Keluar"** penerima
+6. Surat keluar yang sudah disetujui akan tersimpan di menu **"Sent Item - Direct"** dan pilih label Fax Keluar pengirim sedangkan surat keluar akan tersimpan di menu **"Inbox - Direct"** berlabel Fax Keluar penerima.
 
 ## **P-Office Versi Teams**
 
@@ -57,43 +57,43 @@ Langkah - langkah untuk mengesahkan fax keluar via Teams adalah sebagai berikut:
 
 Langkah - langkah untuk mengesahkan fax keluar via Android adalah sebagai berikut:
 
-1. Klik menu **Inbox** dan pilih tab **Fax Keluar**
+1. Klik menu **Draft - Direct** dan pilih tab **Fax Keluar**
 
-![gambar](FaxKeluar/FK_Android/NomorFK/A01.jpg) ![gambar](FaxKeluar/FK_Android/NomorFK/A02.jpg) 
+![gambar](FaxKeluar/FK_Android/NomorFK/02A01.png) ![gambar](FaxKeluar/FK_Android/NomorFK/02A02.png) 
 
-2. Pilih fax keluar yang akan ditindak lanjuti kemudian pada **Detail** terdapat informasi nomor surat yang masih bersifat sementara. Nomor inilah yang akan ter-_generate_ jika _user_ menyetujui fax keluar. Pilih icon **Option** dan pilih **Approve**
+2. Pilih fax keluar yang akan ditindak lanjuti kemudian pada **Detail** terdapat informasi nomor surat yang masih bersifat sementara. Nomor inilah yang akan ter-_generate_ jika _user_ menyetujui fax keluar. Pilih icon **Option** dan pilih **Sign Document**
 
-![gambar](FaxKeluar/FK_Android/NomorFK/A04.jpg) ![gambar](FaxKeluar/FK_Android/NomorFK/A05.jpg)  
+![gambar](FaxKeluar/FK_Android/NomorFK/02A04.png) ![gambar](FaxKeluar/FK_Android/NomorFK/02A05.png)  
 
-3. Pilih tombol **button** kemudian **Approve**
+3. Pilih tombol **button** kemudian **Sign Document**
    
-![gambar](FaxKeluar/FK_Android/NomorFK/A06.jpg) ![gambar](FaxKeluar/FK_Android/NomorFK/A07.jpg) 
+![gambar](FaxKeluar/FK_Android/NomorFK/02A06.png) ![gambar](FaxKeluar/FK_Android/NomorFK/02A07.png) 
 
 4. Sistem akan menampilkan form Validation of Digital Signature
    
-![gambar](FaxKeluar/FK_Android/NomorFK/A08.jpg)
+![gambar](FaxKeluar/FK_Android/NomorFK/02A08.png)
 
 5. Kemudian isikan NIK dan PassPhrase pada form P-Office kemudian klik **Send**
    
-![gambar](FaxKeluar/FK_Android/NomorFK/A09.jpg)
+![gambar](FaxKeluar/FK_Android/NomorFK/02A09.png)
 
-6. Fax keluar yang sudah disetujui akan tersimpan di menu **“Sent Item – Fax keluar”** pengiriman sedangkan Fax keluar akan tersimpan di menu **“Inbox – Fax keluar”** penerima
+6. Fax keluar yang sudah disetujui akan tersimpan di menu **“Sent Item – Direct”** berlabel Fax Keluar pengiriman sedangkan Fax keluar akan tersimpan di menu **“Inbox – Direct”** berlabel Fax Keluar penerima
 
 ## **P-Office Versi IOS**
 
 Langkah - langkah untuk mengesahkan fax keluar via IOS adalah sebagai berikut:
 
-1. Klik menu **Inbox** dan pilih tab **Fax Keluar**
+1. Klik menu **Draf - Direct** dan pilih berlabel **Fax Keluar**
 
-![gambar](FaxKeluar/FK_IOS/FK-34.1.png) ![gambar](FaxKeluar/FK_IOS/FK-34.2.png)
+![gambar](FaxKeluar/FK_Android/NomorFK/02A01.png) ![gambar](FaxKeluar/FK_Android/NomorFK/02A02.png)
 
-2. Pilih fax keluar yang akan ditindak lanjuti kemudian pada **Detail** terdapat informasi nomor surat yang masih bersifat sementara. Nomor inilah yang akan ter-_generate_ jika _user_ menyetujui fax keluar. Pilih icon **Option** dan pilih **Approve**
+2. Pilih fax keluar yang akan ditindak lanjuti kemudian pada **Detail** terdapat informasi nomor surat yang masih bersifat sementara. Nomor inilah yang akan ter-_generate_ jika _user_ menyetujui fax keluar. Pilih icon **Option** dan pilih **Sign Documet**
 
-![gambar](FaxKeluar/FK_IOS/FK-41.1.png) ![gambar](FaxKeluar/FK_IOS/FK-41.2.png)
+![gambar](FaxKeluar/FK_Android/NomorFK/02A04.png) ![gambar](FaxKeluar/FK_Android/NomorFK/02A05.png)  
 
-3. Sistem menampilkan *form* Approve Mail & Signing Documents. Isikan komentar, NIK dan Pass Phrase kemudian klik **Send**
+3. Sistem menampilkan *form* Signing Documents. Isikan komentar, NIK dan Pass Phrase kemudian klik **Send**
 
-![gambar](FaxKeluar/FK_IOS/FK-42.png)
+![gambar](FaxKeluar/FK_Android/NomorFK/02A09.png)
 
-4. Nomor surat keluar akan ter-_generate_ sesuai dengan nomor sementara pada detail. Surat keluar yang sudah disetujui akan tersimpan di menu “**Sent Item - Surat Keluar**” pengirim sedangkan surat keluar akan tersimpan di menu “**Inbox - Surat Keluar**” penerima.
+4. Nomor surat keluar akan ter-_generate_ sesuai dengan nomor sementara pada detail. Surat keluar yang sudah disetujui akan tersimpan di menu “**Sent Item - Direct**” berlabel Fax Keluar pengirim sedangkan surat keluar akan tersimpan di menu “**Inbox - Direct**” berlabel Fax Keluar penerima.
 

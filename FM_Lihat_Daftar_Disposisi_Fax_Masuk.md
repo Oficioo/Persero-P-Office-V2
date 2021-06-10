@@ -11,9 +11,9 @@
 
 Langkah - langkah untuk melihat daftar disposisi fax masuk via Web adalah sebagai berikut :
 
-1. Klik menu **Inbox / Disposisi** dan pilih tab **Fax Masuk**
+1. Klik menu **Inbox - Disposisi** dan pilih berlable **Fax Masuk**
 
-![gambar](FaxMasuk/FM_WEB/DaftarDisposisi01.png) 
+![gambar](FaxMasuk/FM_WEB/02DaftarDisposisi01.png) 
 
 ## **P-Office Versi Teams**
 
@@ -28,14 +28,14 @@ Langkah - langkah untuk melihat daftar disposisi fax masuk via Teams adalah seba
 
 Langkah-langkah untuk melihat daftar disposisi fax masuk via Android adalah sebagai berikut :
 
-1. Klik menu **Inbox / Disposisi** dan pilih tab **Fax Masuk**
+1. Klik menu **Inbox - Disposisi** dan pilih berlable **Fax Masuk**
 
-![gambar](FaxMasuk/FM_Android/DaftarDisposisi/A01.jpg) ![gambar](FaxMasuk/FM_Android/DaftarDisposisi/A02.jpg) 
+![gambar](FaxMasuk/FM_Android/DaftarDisposisi/02A01.png) ![gambar](FaxMasuk/FM_Android/DaftarDisposisi/02A02.png) 
 
 ## **P-Office Versi IOS**
 
 Langkah-langkah untuk melihat daftar disposisi fax masuk via IOS adalah sebagai berikut :
 
-1. Klik menu **Inbox / Disposisi** dan pilih tab **Fax Masuk**
+1. Klik menu **Inbox - Disposisi** dan pilih berlable **Fax Masuk**
    
-![gambar](FaxMasuk/FM_IOS/FM-20.1.png) ![gambar](FaxMasuk/FM_IOS/FM-20.2.png)
+![gambar](FaxMasuk/FM_Android/DaftarDisposisi/02A01.png) ![gambar](FaxMasuk/FM_Android/DaftarDisposisi/02A02.png)
