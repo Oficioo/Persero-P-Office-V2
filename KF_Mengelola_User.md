@@ -11,23 +11,22 @@ IT Admin dapat mengelola user pada aplikasi P-Office yang sudah didaftarkan pada
 
 Langkah - langkah untuk melihat daftar user pada aplikasi P-Office via Web adalah sebagai berikut:
 
-####  **Melihat Daftar User pada Aplikasi**
+#### **Melihat Daftar User pada Aplikasi**
 
-1. Pilih menu **Configuration** dan pilih submenu **Syncronization - Users**
+1. Pilih menu **Master** dan pilih submenu **Resource - Users**
 
-![gambar](SC_Konfigurasi/KF02.png)
+![gambar](SC_Konfigurasi/02KF02.png)
 
 2. Sistem menampilkan daftar user pada aplikasi P-Office
 
-
 #### **Mencari User pada Aplikasi**
 
-1. Pilih menu **Configuration** dan pilih submenu **Syncronization - Users**
+1. Pilih menu **Master** dan pilih submenu **Resource - Data - Users**
 
-![gambar](SC_Konfigurasi/KF03.png)
+![gambar](SC_Konfigurasi/02KF03.png)
 
 2. Ketikkan kata kunci pada kolom pencarian kemudian klik **Enter**
 
-![gambar](SC_Konfigurasi/KF04.png)
+![gambar](SC_Konfigurasi/02KF04.png)
 
 3. Sistem menampilkan hasil pencarian berdasarkan kata kunci

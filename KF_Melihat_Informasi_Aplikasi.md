@@ -8,8 +8,8 @@ IT Admin dapat melihat informasi aplikasi. Informasi yang ditampilkan yaitu alam
 
 Langkah - langkah untuk melihat informasi aplikasi via Web adalah sebagai berikut:
 
-1.    Pilih menu **Configuration** dan pilih submenu **Information - About**
-      
-![gambar](SC_Konfigurasi/KF01.png)
+1.  Klik menu **Info**
 
-2.    Sistem akan menampilkan informasi aplikasi antara lain alamat email, display name, unit organisasi, nama organisasi, kota, provinsi, country ID, valid licensi detail dan lisensi
+![gambar](SC_Konfigurasi/02KF01.png)
+
+2.  Sistem akan menampilkan informasi aplikasi antara lain version, tutorial and documentations, tutorial videos, ask for question via email
