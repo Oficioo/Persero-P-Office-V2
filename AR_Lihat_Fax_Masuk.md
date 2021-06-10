@@ -45,6 +45,9 @@ Langkah – langkah untuk melihat dokumen fax masuk via IOS adalah sebagai berik
 
 1. Klik menu **Archive** dan pilih tab **Fax Masuk**
 
-![gambar](Archive/AR_IOS/A-5.1.png) ![gambar](Archive/AR_IOS/A-5.2.png)
+![gambar](Archive/AR_IOS/02A51.JPG) 
+
+![gambar](Archive/AR_IOS/02A52.JPG)
+
 
 2. Sistem menampilkan dokumen fax masuk yang tersimpan di menu Archive

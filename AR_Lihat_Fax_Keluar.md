@@ -45,6 +45,8 @@ Langkah – langkah untuk melihat dokumen fax keluar via IOS adalah sebagai beri
 
 1. Klik menu **Archive** dan pilih tab **Fax Keluar**
 
-![gambar](Archive/AR_IOS/A-4.1.png) ![gambar](Archive/AR_IOS/A-4.2.png)
+![gambar](Archive/AR_IOS/02A41.JPG) 
+
+![gambar](Archive/AR_IOS/02A42.JPG)
 
 2. Sistem menampilkan dokumen Fax Keluar yang tersimpan di menu Archive
