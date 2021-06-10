@@ -65,11 +65,11 @@ Langkah - langkah untuk pengelolaan _template_ surat via Web adalah sebagai beri
 
 1.    Pilih menu **Master** dan pilih submenu **_Mail Template_**
 
-![gambar](DataMaster/SC_DataMaster/DM91.png)
+![gambar](DataMaster/SC_DataMaster/02DM91.png)
 
 2.    Klik checklist pada _template_ yang akan dihapus kemudian klik icon **Delete**
 
-![gambar](DataMaster/SC_DataMaster/DM92.png)
+![gambar](DataMaster/SC_DataMaster/02DM92.png)
 
 3.    Klik tombol **Cancel** untuk membatalkan proses
 
@@ -86,7 +86,7 @@ Langkah - langkah untuk pengelolaan _template_ surat via Web adalah sebagai beri
 
 1.    Pilih menu **Master** dan pilih submenu **_Mail Template_**
 
-![gambar](DataMaster/SC_DataMaster/DM95.png)
+![gambar](DataMaster/SC_DataMaster/02DM95.png)
 
 2.    Pilih _template_ surat yang akan diunduh. Klik tombol **Download** untuk mengunduh _template_ surat
 
