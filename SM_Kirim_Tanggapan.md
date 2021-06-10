@@ -48,7 +48,7 @@ Langkah - langkah untuk kirim tanggapan via Teams adalah sebagai berikut :
 5.    Sistem menyimpan perubahan dan informasi tanggapan disposisi akan tersimpan di detail disposisi
 
 
-## **P-Office Versi Android**
+## **P-Office Versi Mobile (Android & iOS)**
 
 Langkah - langkah untuk mengirim tanggapan via Android adalah sebagai berikut :
 
@@ -66,22 +66,4 @@ Langkah - langkah untuk mengirim tanggapan via Android adalah sebagai berikut :
 
 4. Sistem menyimpan perubahan dan informasi tanggapan disposisi akan tersimpan di detail disposisi
 
-
-## **P-Office Versi IOS**
-
-Langkah-langkah untuk mengirim tanggapan disposisi surat via IOS yaitu:
-
-1.	Klik menu **Disposisi** dan pilih tab **Surat Masuk**
-
-![gambar](SuratMasuk/SM_IOS/SM-65.png) ![gambar](SuratMasuk/SM_IOS/SM-66.png)
-
-2.	Pilih disposisi yang akan dikirim tanggapan kemudian pilih icon **Option** dan pilih **Send Response**
-
-![gambar](SuratMasuk/SM_IOS/SM-49.png)
-
-3.	Sistem menampilkan pop up konfirmasi dan _user_ harus mengisi keterangan kirim tanggapan disposisi kemudian klik **Send**
-
-![gambar](SuratMasuk/SM_IOS/SM-50.png)
-
-4.	Sistem menyimpan perubahan dan informasi tanggapan disposisi akan tersimpan di detail disposisi
 

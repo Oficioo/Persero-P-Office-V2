@@ -56,39 +56,20 @@ Langkah - langkah untuk selesaikan disposisi via Teams adalah sebagai berikut :
  5.    Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi
 
 
-## **P-Office Versi Android**
+## **P-Office Versi Mobile (Android & iOS)**
 
 Langkah - langkah untuk menyelesaikan disposisi surat masuk via Android adalah sebagai berikut:
 
-1. Klik menu **Disposisi** dan pilih tab **Surat Masuk** Pilih salah satu disposisi surat masuk yang akan dilihat informasinya
+1. Klik menu **Draft** lalu pilih **Disposisi** kemudian pilih surat yang berlabel **Surat Masuk** yang akan dilihat informasinya
 
-![gambar](SuratMasuk/SM_Android/Selesaidisposisi/A01.jpg) ![gambar](SuratMasuk/SM_Android/Selesaidisposisi/A001.jpg) 
+![gambar](SuratMasuk/SM_Android/Selesaidisposisi/02A01.jpg) ![gambar](SuratMasuk/SM_Android/Selesaidisposisi/02A001.jpg) 
 
-2. Pilih disposisi yang akan diselesaikan kemudian pilih icon **Option**
+2. Pada menu detail terdapat **Option** lalu pilih **Finish** 
 
-![gambar](SuratMasuk/SM_Android/Selesaidisposisi/A02.jpg) ![gambar](SuratMasuk/SM_Android/Selesaidisposisi/A03.jpg) 
+ ![gambar](SuratMasuk/SM_Android/Selesaidisposisi/02A03.jpg) 
 
 3. Pilih tombol **Finish** kemudian sistem akan menampilkan pop up konfirmasi dan _user_ harus mengisi komentar disposisi kemudian klik **Send**
 
-![gambar](SuratMasuk/SM_Android/Selesaidisposisi/A04.jpg) ![gambar](SuratMasuk/SM_Android/Selesaidisposisi/A05.jpg)  
+![gambar](SuratMasuk/SM_Android/Selesaidisposisi/02A05.jpg) !  
 
 4. Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di Sent Item-disposisi
-
-
-## **P-Office Versi IOS**
-
-Langkah-langkah untuk menyelesaikan surat masuk via IOS adalah sebagai berikut
-
-1.	Klik menu **Disposisi** dan pilih tab **Surat Masuk**
-
-![gambar](SuratMasuk/SM_IOS/SM-63.png) ![gambar](SuratMasuk/SM_IOS/SM-64.png)
-
-2.	Pilih disposisi yang akan diselesaikan kemudian pilih tab **Option** dan pilih **Finish**
-
-![gambar](SuratMasuk/SM_IOS/SM-47.png)
-
-3.	Sistem menampilkan pop up konfirmasi dan _user_ harus mengisi keterangan selesaikan disposisi kemudian klik **Send**
-
-![gambar](SuratMasuk/SM_IOS/SM-48.png)
-
-4.	Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi.

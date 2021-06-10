@@ -54,34 +54,12 @@ Langkah - langkah untuk tolak surat masuk via Teams adalah sebagai berikut :
 
 Langkah-langkah untuk menolak surat masuk adalah sebagai berikut.
 
-1. Klik menu **Inbox** dan pilih tab **Surat Masuk**
+1. Klik menu **Inbox** lalu **Direct** dan pilih surat yang berlabel **Surat Masuk** , kemudian Pilih surat masuk yang akan di Reject
    
-![gambar](SuratMasuk/SM_Android/TolakSM/A01.jpg)
+![gambar](SuratMasuk/SM_Android/TolakSM/02A01.jp) ![gambar](SuratMasuk/SM_Android/TolakSM/02A02.jpg)
 
-2. Pilih surat masuk yang akan ditolak kemudian pilih tombol **button** klik **Reject**
+3. Pada detail kli Option lalu pilih **Reject Document** maka Sistem menampilkan _pop up_ konfirmasi dan _user_ harus mengisi keterangan reject surat masuk kemudian klik **Send**
    
-![gambar](SuratMasuk/SM_Android/TolakSM/A02.jpg) ![gambar](SuratMasuk/SM_Android/TolakSM/A03.jpg)
-
-3. Klik tombol **Reject** maka Sistem menampilkan _pop up_ konfirmasi dan _user_ harus mengisi keterangan reject surat masuk kemudian klik **Send**
-   
-![gambar](SuratMasuk/SM_Android/TolakSM/A04.jpg) ![gambar](SuratMasuk/SM_Android/TolakSM/A05.jpg)
+![gambar](SuratMasuk/SM_Android/TolakSM/02A03.jpg) ![gambar](SuratMasuk/SM_Android/TolakSM/02A04.jpg)
 
 4. Sistem menyimpan perubahan dan informasi tolak surat masuk. Surat masuk yang sudah ditolak akan tersimpan dimenu **Rejected**
-
-## **P-Office Versi IOS**
-
-Langkah-langkah untuk menolak surat masuk via IOS adalah sebagai berikut
-
-1.	Klik menu **Inbox** dan pilih tab **Surat Masuk**
-
-![gambar](SuratMasuk/SM_IOS/SM-70.png) ![gambar](SuratMasuk/SM_IOS/SM-71.png)
-
-2.	Pilih surat masuk yang akan ditolak kemudian pilih tab **Option** dan pilih **Reject**
-
-![gambar](SuratMasuk/SM_IOS/SM-72.png)
-
-3.	Sistem menampilkan _pop up_ konfirmasi dan _user_ harus mengisi keterangan tolak surat masuk kemudian klik **Send**
-
-![gambar](SuratMasuk/SM_IOS/SM-73.png)
-
-4.	Sistem menyimpan perubahan dan informasi tolak surat masuk. Surat masuk yang tersimpan di menu “**Rejected – Surat Masuk**” user penolak dengan label **Rejected**

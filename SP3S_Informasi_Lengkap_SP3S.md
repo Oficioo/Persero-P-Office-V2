@@ -61,7 +61,7 @@ Pada tab **History**, ditampilkan riwayat SP3S yang terdapat informasi jabatan, 
 
 ![gambar](SP3S/SP3S_Teams/SP3S30.png)
 
-## **P-Office Versi Android**
+## **P-Office Versi Mobile (Android & iOS)**
 
 Langkah - langkah untuk informasi lengkap SP3S via Android adalah sebagai berikut :
 
@@ -86,29 +86,3 @@ Pada tab **Preview**, ditampilkan _preview_ SP3S yang sudah dibuat. _Preview_ SP
 Pada tab **History**, ditampilkan riwayat SP3S yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
 ![gambar](SP3S/SP3S_Android/InfoSP3S/02H01.jpg) ![gambar](SP3S/SP3S_Android/InfoSP3S/02H01-1.jpg)
-
-## **P-Office Versi IOS**
-
-Langkah - langkah untuk informasi lengkap SP3S via IOS adalah sebagai berikut :
-
-1.	Klik menu **Inbox/Draft/Sent Item** dan pilih tab **SP3S**. Pilih salah satu SP3S yang akan dilihat informasinya
-
-![gambar](SP3S/SP3S_IOS/SP3S-16.1.png) ![gambar](SP3S/SP3S_IOS/SP3S-16.2.png)
-
-#### **Preview SP3S**
-
-Pada tab **Preview**, ditampilkan preview SP3S yang sudah dibuat. Preview SP3S disesuaikan dengan template berdasarkan jenis surat.
-
-![gambar](SP3S/SP3S_IOS/SP3S-17.png)
-
-#### **Detail SP3S**
-
-Pada tab Detail, terdapat informasi nomor SP3S, jabatan PJS, Pejabat pengganti pertama, jangka waktu, pejabat pengganti kedua (jika ada), jangka waktu pejabat pengganti kedua (jika ada), task yang diizinkan dan task pengecualian.
-
-![gambar](SP3S/SP3S_IOS/SP3S-18.png)
-
-#### **History SP3S**
-
-Pada tab **History**, ditampilkan riwayat SP3S yang terdapat informasi jabatan, tanggal, tindakan dan komentar
-
-![gambar](SP3S/SP3S_IOS/SP3S-19.1.png) ![gambar](SP3S/SP3S_IOS/SP3S-19.2.png)
