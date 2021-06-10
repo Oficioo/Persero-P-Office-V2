@@ -17,25 +17,25 @@ Langkah - langkah untuk pengelolaan kategori surat via Web adalah sebagai beriku
 
 1.    Pilih menu **Master** dan pilih submenu **Mail Categories**
 
-![gambar](DataMaster/SC_DataMaster/DM57.png)
+![gambar](DataMaster/SC_DataMaster/02DM57.png)
 
 2.    Pilih tombol **Search** dan masukkan pencarian berdasarkan kata kunci, kemudian klik **Enter**
 
-![gambar](DataMaster/SC_DataMaster/DM58.png)
+![gambar](DataMaster/SC_DataMaster/02DM58.png)
 
 #### **Menambah Kategori Surat**
 
 1.    Pilih menu **Master** dan pilih submenu **Mail Categories**
 
-![gambar](DataMaster/SC_DataMaster/DM59.png)
+![gambar](DataMaster/SC_DataMaster/02DM59.png)
 
 2.    Pilih tombol **+ Add Mail Categories** untuk menambah kategori surat
 
-![gambar](DataMaster/SC_DataMaster/DM60.png)
+![gambar](DataMaster/SC_DataMaster/02DM60.png)
 
 3.    Isikan informasi kategori surat meliputi nama kemudian klik tombol **Submit.**
 
-![gambar](DataMaster/SC_DataMaster/DM61.png)
+![gambar](DataMaster/SC_DataMaster/02DM61.png)
 
 4.    Sistem menyimpan perubahan dan data akan muncul di halaman daftar kategori surat
 
@@ -45,19 +45,19 @@ Langkah - langkah untuk pengelolaan kategori surat via Web adalah sebagai beriku
 
 1.    Pilih menu **Master** dan pilih submenu **Mail Categories**
 
-![gambar](DataMaster/SC_DataMaster/DM62.png)
+![gambar](DataMaster/SC_DataMaster/02DM62.png)
 
 2.    Klik checklist pada kategori surat yang akan diubah kemudian klik tombol **Edit Mail Categories**
 
-![gambar](DataMaster/SC_DataMaster/DM63.png)
+![gambar](DataMaster/SC_DataMaster/02DM63.png)
 
 3.    Lakukan perubahan pada kategori surat, pilih **Cancel** untuk membatalkan proses
 
-![gambar](DataMaster/SC_DataMaster/DM64.png)
+![gambar](DataMaster/SC_DataMaster/02DM64.png)
 
 4.    Lakukan perubahan pada kategori surat kemudian klik tombol **Submit**
 
-![gambar](DataMaster/SC_DataMaster/DM65.png)
+![gambar](DataMaster/SC_DataMaster/02DM65.png)
 
 5.    Sistem menyimpan perubahan dan data akan muncul di halaman daftar kategori surat
 
@@ -66,11 +66,11 @@ Langkah - langkah untuk pengelolaan kategori surat via Web adalah sebagai beriku
 
 1.    Pilih menu **Master** dan pilih submenu **Mail Categories**
 
-![gambar](DataMaster/SC_DataMaster/DM66.png)
+![gambar](DataMaster/SC_DataMaster/02DM66.png)
 
 2.    Klik checklist pada kategori surat yang akan dihapus kemudian klik tombol **Delete Mail Categories**
 
-![gambar](DataMaster/SC_DataMaster/DM67.png)
+![gambar](DataMaster/SC_DataMaster/02DM67.png)
 
 3.    Klik tombol **Cancel** untuk membatalkan proses
 

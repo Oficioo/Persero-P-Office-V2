@@ -17,21 +17,21 @@ Langkah - langkah untuk pengelolaan klasifikasi surat via Web adalah sebagai ber
 
 1.    Pilih menu **Master** dan pilih submenu **Mail Classification**
 
-![gambar](DataMaster/SC_DataMaster/DM31.png)
+![gambar](DataMaster/SC_DataMaster/02DM31.png)
 
 2.    Pilih tombol **Search** dan masukkan pencarian berdasarkan kata kunci, kemudian klik **Enter**
 
-![gambar](DataMaster/SC_DataMaster/DM32.png)
+![gambar](DataMaster/SC_DataMaster/02DM32.png)
 
 #### **Menambah Klasifikasi Surat**
 
 1.    Pilih menu **Master** dan pilih submenu **Mail Classification**
 
-![gambar](DataMaster/SC_DataMaster/DM33.png)
+![gambar](DataMaster/SC_DataMaster/02DM33.png)
 
 2.    Pilih tombol **+ Add Mail Classification** untuk menambah klasifikasi surat
 
-![gambar](DataMaster/SC_DataMaster/DM34.png)
+![gambar](DataMaster/SC_DataMaster/02DM34.png)
 
 3.    Isikan informasi klasifikasi surat meliputi nama kemudian klik tombol **Submit.**
 
@@ -44,11 +44,11 @@ Langkah - langkah untuk pengelolaan klasifikasi surat via Web adalah sebagai ber
 
 1.    Pilih menu **Master** dan pilih submenu **Mail Classification**
 
-![gambar](DataMaster/SC_DataMaster/DM36.png)
+![gambar](DataMaster/SC_DataMaster/02DM36.png)
 
 2.    Klik checklist pada klasifikasi surat yang akan diubah kemudian klik tombol **Edit Mail Classification**
 
-![gambar](DataMaster/SC_DataMaster/DM37.png)
+![gambar](DataMaster/SC_DataMaster/02DM37.png)
 
 3.    Lakukan perubahan pada klasifikasi surat, pilih **Cancel** untuk membatalkan proses
 
