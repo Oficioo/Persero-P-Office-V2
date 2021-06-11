@@ -38,16 +38,15 @@ Langkah - langkah untuk recall disposisi fax masuk via Teams adalah sebagai beri
 
 Langkah-langkah untuk Recaall Fax masuk via Android dan iOS adalah sebagai berikut :
 
-1. Klik menu **Sent Item** dan pilih tab **Disposisi**
+1. Klik menu **Sent Item - Disposisi** dan pilih berlabel fax Masuk 
 
-![gambar](FaxMasuk/FM_Android/Recalldisposisi/A01.jpg) ![gambar](FaxMasuk/FM_Android/Recalldisposisi/A02.jpg)
+![gambar](FaxMasuk/FM_Android/Recalldisposisi/02A01.png) ![gambar](FaxMasuk/FM_Android/Recalldisposisi/02A02.png)
 
 2. Pilih fax masuk yang akan di-_recall_ ,pada **Detail** pilih icon **Option** kemudian **_Recall_.**
 
-![gambar](FaxMasuk/FM_Android/Recalldisposisi/A03.jpg) ![gambar](FaxMasuk/FM_Android/Recalldisposisi/A04.jpg)
+![gambar](FaxMasuk/FM_Android/Recalldisposisi/02A03.png) ![gambar](FaxMasuk/FM_Android/Recalldisposisi/02A04.png)
 
-3. Sistem menampilkan pop up **Recall** lalu klik **Recall** Fax masuk yang sudah di-_recall_ akan tersimpan di menu “**Draft - Disposisi**” penerima fax masuk / pendisposisi
+3. Sistem menampilkan pop up **Recall** lalu klik **Recall Disposisi** kemudian Fax masuk yang sudah di-_recall_ akan tersimpan di menu “**Draft - Disposisi**” penerima fax masuk / pendisposisi
 
-![gambar](FaxMasuk/FM_Android/Recalldisposisi/A05.jpg)
 
 
