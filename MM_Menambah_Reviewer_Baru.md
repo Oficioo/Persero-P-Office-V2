@@ -52,48 +52,22 @@ Langkah-langkah untuk menambah reviewer Memorandum via Teams adalah sebagai beri
 
 ![gambar](Memorandum/MM_Teams/MM52.png)
 
-## **P-Office Versi Android**
+## **P-Office Versi Android & IOS**
 
-Berikut ini video yang menjelaskan langkah - langkah approver untuk menambah reviewer baru **via Mobile**
+Berikut ini video yang menjelaskan langkah - langkah untuk Menambahkan Reviewer baru **via Mobile**
 
-</br>
-<a href="https://web.microsoftstream.com/embed/video/6966e975-78b1-43e3-9a50-1b762784919a?autoplay=false&amp;showinfo=false" target="_blank"><img src="https://github.com/gitakencana/Persero-P-Office/raw/master/Video/Thumbnail/TM08.jpg" alt="Watch the video"></a>
+1. Klik menu **Draft** dan pilih tab **Direct**
 
-1. Klik menu **Inbox** dan pilih tab **Memorandum**
+![gambar](Memorandum/MM_Android/Reviewermemo/02MM-19.png) 
 
-![gambar](Memorandum/MM_Android/Reviewermemo/A01.jpg) ![gambar](Memorandum/MM_Android/Reviewermemo/A02.jpg)
+2. Pilih memorandum yang akan ditindak lanjuti kemudian pilih ikon **titik tiga** lalu pilih **Use Template**
 
-1. Pilih memorandum yang akan ditindak lanjuti kemudian pilih ikon **tombol button**
-
-![gambar](Memorandum/MM_Android/Reviewermemo/A03.jpg) ![gambar](Memorandum/MM_Android/Reviewermemo/A04.jpg)
+![gambar](Memorandum/MM_Android/Reviewermemo/02MM-20.png) 
+![gambar](Memorandum/MM_Android/Reviewermemo/02MM-21.png)
 
 
 2. Klik tombol **Add Reviewer** dan pilih pejabat yang akan melakukan review dengan meng-klik **Add Reviewer**
 
-![gambar](Memorandum/MM_Android/Reviewermemo/A05.jpg) ![gambar](Memorandum/MM_Android/Reviewermemo/A06.jpg)
+![gambar](Memorandum/MM_Android/Reviewermemo/02MM-22.png) 
 
-3. Sistem akan menampilkan pejabat untuk dijadikan reviewer baru
-
-![gambar](Memorandum/MM_Android/Reviewermemo/A07.jpg) ![gambar](Memorandum/MM_Android/Reviewermemo/A08.jpg)
-
-4. Pilih **Send** untuk mengirimkan kepada pejabat/reviewer yang dituju dan memorandum akan tersimpan di menu “**Sent Item - Memorandum**”. Untuk pejabat/reviewer baru akan menerima memorandum di menu “**Inbox – Memorandum**”
-
-## **P-Office Versi IOS**
-
-Langkah-langkah untuk menambah reviewer memorandum via IOS adalah sebagai berikut :
-
-1. Klik menu **Inbox** dan pilih tab **Memorandum**
-
-![gambar](Memorandum/MM_IOS/Memo/R01.png) ![gambar](Memorandum/MM_IOS/Memo/R02.png)
-
-2. Pilih memorandum yang akan ditindak lanjuti kemudian pilih icon **Option** dan pilih **Add Reviewer**
-   
-![gambar](Memorandum/MM_IOS/Memo/R03.png) ![gambar](Memorandum/MM_IOS/Memo/R04.png)
-
-3. Klik **Add Reviewer** untuk menampilkan daftar pejabat yang akan dipilih sebagai reviewer baru
-
-![gambar](Memorandum/MM_IOS/Memo/R05.png)
-
-4. Klik Submit untuk mengirimkan kepada pejabat/reviewer yang dituju dan surat keluar akan tersimpan di menu “**Sent Item - Memorandum**”. Untuk pejabat/reviewer baru akan menerima surat keluar di menu “**Inbox – Memorandum**”
-
-![gambar](SuratKeluar/SK_IOS/SK-46.png)
+3. Sistem akan menampilkan pejabat untuk dijadikan reviewer baru lalu Pilih **Sumbit** untuk mengirimkan kepada pejabat/reviewer yang dituju dan memorandum akan tersimpan di menu “**Sent Item - Memorandum**”. Untuk pejabat/reviewer baru akan menerima memorandum di menu “**Inbox – Memorandum**”

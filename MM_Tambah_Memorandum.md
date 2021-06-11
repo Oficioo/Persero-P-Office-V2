@@ -67,15 +67,16 @@ Langkah-langkah untuk menambah Memorandum adalah sebagai berikut :
 
 1. 	Klik icon **(+)** untuk membuat memorandum
 
-![gambar](Memorandum/MM_Android/Tambahmemo/A01.jpg)
+![gambar](Memorandum/MM_Android/Tambahmemo/02MM-49.png)
 
 2. Pilih jenis surat “**Memorandum**”
    
-![gambar](Memorandum/MM_Android/Tambahmemo/A02.jpg)
+![gambar](Memorandum/MM_Android/Tambahmemo/02MM-50.png)
 
 3. Isi _form_ tambah memorandum. Terdapat bebarapa aksi untuk menindaklanjuti memorandum yang sudah diisi _form_nya yaitu **Save memorandum**, **Send Memorandum**dan **Save as Template Memorandum.**
 
-![gambar](Memorandum/MM_Android/Tambahmemo/A03.jpg) ![gambar](Memorandum/MM_Android/Tambahmemo/A04.jpg) ![gambar](Memorandum/MM_Android/Tambahmemo/A05.jpg)
+![gambar](Memorandum/MM_Android/Tambahmemo/02MM-51.png) 
+![gambar](Memorandum/MM_Android/Tambahmemo/02MM-52.png) 
 
 ### Simpan Memorandum
 
@@ -83,7 +84,8 @@ Langkah – langkah untuk menyimpan memorandum adalah sebagai berikut.
 
 1. Isi _form_ memorandum kemudian klik **Save Mail**
 
-![gambar](Memorandum/MM_Android/Tambahmemo/S01.jpg) ![gambar](Memorandum/MM_Android/Tambahmemo/S02.jpg)
+![gambar](Memorandum/MM_Android/Tambahmemo/02MM-52.png) 
+![gambar](Memorandum/MM_Android/Tambahmemo/02MM-53.png)
 
 2. Sistem akan menyimpan perubahaan dan memorandum akan tersimpan di menu **Draft-Memorandum**
 

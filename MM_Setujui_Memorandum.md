@@ -44,37 +44,20 @@ Langkah-langkah untuk menyetujui Memorandum via Teams adalah sebagai berikut :
 
 ## **P-Office Versi Android**
 
-Berikut ini terdapat video yang menjelaskan langkah - langkah untuk menyetujui memorandum **via Mobile**. Memorandum yang sudah di edit dan disetujui oleh reviewer akan terkirim ke approver untuk dilakukan tindak lanjut
+Berikut ini terdapat langkah - langkah untuk menyetujui memorandum **via Mobile**. Memorandum yang sudah di edit dan disetujui oleh reviewer akan terkirim ke approver untuk dilakukan tindak lanjut
 
-</br>
-<a href="https://web.microsoftstream.com/embed/video/d1d826ed-339a-440e-85dd-fb98da610815?autoplay=false&amp;showinfo=false" target="_blank"><img src="https://github.com/gitakencana/Persero-P-Office/raw/master/Video/Thumbnail/TM06.jpg" alt="Watch the video"></a>
+1. Klik menu **Inbox** dan pilih tab **Direct**
 
-1. Klik menu **Inbox** dan pilih tab **Memorandum**
+![gambar](Memorandum/MM_Android/Setujumemo/02MM-45.png) 
 
-![gambar](Memorandum/MM_Android/Setujumemo/A01.jpg) ![gambar](Memorandum/MM_Android/Setujumemo/A02.jpg)
+2. Pilih memorandum yang akan ditindak lanjuti kemudian pilih ikon **titik tiga**
+   
+![gambar](Memorandum/MM_Android/Setujumemo/02MM-46.png)
 
-2. Pilih memorandum yang akan ditindak lanjuti kemudian pilih ikon **tombol button**
+3. Pilih **Approve** dan pilih **Send**. Isikan komentar jika diperlukan
 
-![gambar](Memorandum/MM_Android/Setujumemo/A03.jpg) ![gambar](Memorandum/MM_Android/Setujumemo/A04.jpg)
-
-3. Klik tombol **Approve** dan pilih **Send**. Isikan komentar jika diperlukan
-
-![gambar](Memorandum/MM_Android/Setujumemo/A05.jpg) ![gambar](Memorandum/MM_Android/Setujumemo/A06.jpg)
+![gambar](Memorandum/MM_Android/Setujumemo/02MM-47.png)
+![gambar](Memorandum/MM_Android/Setujumemo/02MM-48.png) 
+![gambar](Memorandum/MM_Android/Setujumemo/02MM-49.png)
 
 4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item- Memorandum**
-
-## **P-Office Versi IOS**
-
-Langkah-langkah untuk menyetujui Memorandum via IOS adalah sebagai berikut
-
-1. Klik menu **Inbox** dan pilih tab **Memorandum**
-
-![gambar](Memorandum/MM_IOS/MM-35.png) ![gambar](Memorandum/MM_IOS/MM-36.png)
-
-2.	Pilih memorandum yang akan ditindak lanjuti kemudian pilih icon **Option** dan pilih **Approve**
-
-![gambar](Memorandum/MM_IOS/MM-37.png) ![gambar](Memorandum/MM_IOS/MM-38.png)
-
-3.	Isikan komentar jika diperlukan kemudian klik **Send** untuk menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Sent Item - Surat Keluar**
-
-![gambar](Memorandum/MM_IOS/MM-39.png)

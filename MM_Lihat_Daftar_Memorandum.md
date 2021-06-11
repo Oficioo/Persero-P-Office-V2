@@ -26,9 +26,10 @@ Langkah-langkah untuk melihat daftar memorandum via Teams adalah sebagai berikut
 
 Langkah-langkah untuk melihat daftar memorandum via Android adalah sebagai berikut :
 
-1. Klik menu **Inbox/Draft/Sent Item** dan pilih tab **Memorandum**
+1. Klik menu **Inbox/Draft/Sent Items** dan pilih tab **Memorandum**
 
-![gambar](Memorandum/MM_Android/Daftarmemo/A01.jpg) ![gambar](Memorandum/MM_Android/Daftarmemo/A02.jpg) 
+![gambar](Memorandum/MM_Android/Daftarmemo/02MM-09.png) 
+![gambar](Memorandum/MM_Android/Daftarmemo/02MM-10.png) 
 
 
 

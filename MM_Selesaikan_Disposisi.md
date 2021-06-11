@@ -51,38 +51,22 @@ Langkah-langkah untuk menyelesaikan disposisi memorandum via Teams adalah sebaga
 
 5. Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi.
 
-## **P-Office Versi Android**
+## **P-Office Versi Android & IOS**
 
 Langkah-langkah untuk menyelesaikan disposisi memorandum via Android adalah sebagai berikut :
 
-1. Klik menu **Inbox** dan pilih tab **Memorandum**
+1. Klik menu **Inbox** dan pilih tab **Disposisi**
 
-![gambar](Memorandum/MM_Android/Selesaidisposisi/A01.jpg) ![gambar](Memorandum/MM_Android/Selesaidisposisi/A02.jpg)
+![gambar](Memorandum/MM_Android/Selesaidisposisi/02MM-40.png)
 
-2. Pilih memorandum yang akan diselesaikan kemudian pilih icon **Option**
+2. Pilih memorandum yang akan diselesaikan kemudian pilih icon **Titik Tiga**
 
-![gambar](Memorandum/MM_Android/Selesaidisposisi/A03.jpg) ![gambar](Memorandum/MM_Android/Selesaidisposisi/A04.jpg)
+![gambar](Memorandum/MM_Android/Selesaidisposisi/02MM-41.png)
+![gambar](Memorandum/MM_Android/Selesaidisposisi/02MM-42.png) 
 
-3. Pilih tombol **Selesaikan** kemudian sistem menampilkan pop up konfirmasi dan _user_ harus mengisi keterangan selesaikan disposisi kemudian klik **Send**
+3. Pilih button **Finish** kemudian sistem menampilkan pop up konfirmasi dan _user_ harus mengisi keterangan selesaikan disposisi kemudian klik **Send**
 
-![gambar](Memorandum/MM_Android/Selesaidisposisi/A05.jpg) ![gambar](Memorandum/MM_Android/Selesaidisposisi/A06.jpg)
+![gambar](Memorandum/MM_Android/Selesaidisposisi/02MM-43.png) 
+![gambar](Memorandum/MM_Android/Selesaidisposisi/02MM-44.png)
 
 4. Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi
-
-## **P-Office Versi IOS**
-
-Langkah-langkah untuk menyelesaikan disposisi memorandum via IOS adalah sebagai berikut :
-
-1. Klik menu **Inbox** dan pilih tab **Memorandum**
-
-![gambar](Memorandum/MM_IOS/MM-35.png) ![gambar](Memorandum/MM_IOS/MM-36.png)
-
-2. Pilih memorandum yang akan diselesaikan kemudian pilih icon **Option** dan pilih **Finish**
-
-![gambar](Memorandum/MM_IOS/MM-CR05.png) ![gambar](Memorandum/MM_IOS/MM-CR06.png)
-
-3.	Sistem menampilkan pop up konfirmasi dan user harus mengisi keterangan selesaikan disposisi kemudian klik **Send**
-
-![gambar](Memorandum/MM_IOS/MM-CR07.png)
-
-4.	Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi
