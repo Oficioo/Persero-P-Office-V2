@@ -1,25 +1,41 @@
 Role yang sesuai
 
-- *Approver User*
-- *Reviewer User*
+- _Approver User_
+- _Reviewer User_
 
-*User* dapat mengembalikan memorandum ke sebelumnya jika hasil review belum / tidak sesuai. Surat akan dikembalikan ke satu level *reviewer* sebelumnya atau ke konseptor (apabila hanya ada satu *reviewer*). 
+_User_ dapat mengembalikan memorandum ke sebelumnya jika hasil review belum / tidak sesuai. Surat akan dikembalikan ke satu level _reviewer_ sebelumnya atau ke konseptor (apabila hanya ada satu _reviewer_).
 
-## **P-Office Versi Teams**
+## **P-Office Versi Web**
 
 Langkah-langkah untuk mengembalikan memorandum ke sebelumnya via Web adalah sebagai berikut :
 
-1. Klik menu **Inbox** dan pilih tab **Memorandum**
+<<<<<<< HEAD
+1. Klik menu **Draft** lalu klik **Direct** dan pilih surat yang berlabel **Memorandum**
+=======
+<<<<<<< HEAD
 
-![gambar](Memorandum/MM_Web/MM-39.png)
+1. # Klik menu **Draft** lalu klik **Direct** dan pilih surat yang berlabel **Memorandum**
+1. Klik menu **Draft** dan pilih label **Memorandum**
+   > > > > > > > bf30ebfe4905e0d4d59486d7c8a41c61957e9082
+>>>>>>> 07c6c57cbd904cb2d94c3cd262e2181ab6939f9c
 
-2. Pilih memorandum yang akan ditindak lanjuti kemudian pilih tab **Detail**
+![gambar](Memorandum/MM_Web/02MM-39.png)
 
-![gambar](Memorandum/MM_Web/MM-40.png)
+2. Pilih memorandum yang akan ditindak lanjuti kemudian pilih **Detail**
+
+![gambar](Memorandum/MM_Web/02MM-40.png)
 
 3. Klik tombol **Return Previous** dan pilih **Send**. Isikan komentar jika diperlukan
 
-![gambar](Memorandum/MM_Web/MM-41.png)
+![gambar](Memorandum/MM_Web/02MM-41.png)
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+![gambar](Memorandum/MM_Web/03MM-41.png)
+
+> > > > > > > bf30ebfe4905e0d4d59486d7c8a41c61957e9082
+>>>>>>> 07c6c57cbd904cb2d94c3cd262e2181ab6939f9c
 
 4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item - Memorandum** dan penerima pengembalian memorandum akan menerima memorandum di menu **Rejected - Memorandum**
 
@@ -41,38 +57,32 @@ Langkah-langkah untuk mengembalikan Memorandum kesebelumnya via Teams adalah seb
 
 4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item - Memorandum** dan penerima pengembalian memorandum akan menerima memorandum di menu **Rejected - Memorandum**
 
-## **P-Office Versi Android**
+## **P-Office Versi Android & IOS**
 
 Langkah-langkah untuk mengembalikan memorandum ke sebelumnya via Android adalah sebagai berikut :
 
-1. Klik menu **Inbox** dan pilih tab **Memorandum**
+<<<<<<< HEAD
+1. Klik menu **Inbox** dan pilih tab **Direct**
 
-![gambar](Memorandum/MM_Android/Kembalimemo/A01.jpg) ![gambar](Memorandum/MM_Android/Kembalimemo/A02.jpg)
+![gambar](Memorandum/MM_Android/Kembalimemo/02MM-01.png) 
 
-2. Pilih memorandum yang akan ditindak lanjuti kemudian pilih icon **Option**
+=======
+1. Klik menu **Draft** dan pilih label **Memorandum**
 
-![gambar](Memorandum/MM_Android/Kembalimemo/A03.jpg) ![gambar](Memorandum/MM_Android/Kembalimemo/A04.jpg)
+![gambar](Memorandum/MM_Android/Kembalimemo/02A01.png) ![gambar](Memorandum/MM_Android/Kembalimemo/02A02.png)
+>>>>>>> 07c6c57cbd904cb2d94c3cd262e2181ab6939f9c
+
+2. Pilih memorandum yang akan ditindak lanjuti.
+
+![gambar](Memorandum/MM_Android/Kembalimemo/02MM-02.png) 
 
 3. Klik tombol **Revise to Previous** dan pilih **Send**. Isikan komentar jika diperlukan
 
-![gambar](Memorandum/MM_Android/Kembalimemo/A05.jpg) ![gambar](Memorandum/MM_Android/Kembalimemo/A06.jpg)
+![gambar](Memorandum/MM_Android/Kembalimemo/02MM-03.png) 
+![gambar](Memorandum/MM_Android/Kembalimemo/02MM-04.png)
 
+<<<<<<< HEAD
+4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item- Direct** dan penerima pengembalian memorandum akan menerima memorandum di menu **Rejected - dan berlabel memorandum**
+=======
 4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item- Memorandum** dan penerima pengembalian memorandum akan menerima memorandum di menu **Rejected - Memorandum**
-
-## **P-Office Versi IOS**
-
-Langkah-langkah untuk mengembalikan memorandum ke sebelumnya via IOS adalah sebagai berikut :
-
-1.	Klik menu **Inbox** dan pilih tab **Memorandum**
-
-![gambar](Memorandum/MM_IOS/MM-77.png) ![gambar](Memorandum/MM_IOS/MM-78.png)
-
-2.	Pilih memorandum yang akan ditindak lanjuti kemudian pilih icon **Option** dan pilih **Revise to Previous**
-
-![gambar](Memorandum/MM_IOS/MM-40.png) ![gambar](Memorandum/MM_IOS/MM-41.png)
-
-3.	Isikan komentar jika diperlukan kemudian klik **Send** untuk menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item – Memorandum**
-
-![gambar](Memorandum/MM_IOS/MM-42.png)
-
-4.	Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item - Memorandum** dan penerima pengembalian memorandum akan menerima memorandum di menu **Rejected - Memorandum**
+>>>>>>> 07c6c57cbd904cb2d94c3cd262e2181ab6939f9c

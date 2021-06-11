@@ -48,40 +48,23 @@ Langkah - langkah untuk drafting fax masuk via Teams adalah sebagai berikut:
 ![gambar](FaxMasuk/FM_Teams/FM10.png)
 
 
-## **P-Office Versi Android**
+## **P-Office Versi Android dan iOS**
 
 Langkah-langkah untuk drafting fax masuk adalah sebagai berikut :
 
-1. Klik menu **Draft** dan pilih tab **Fax Masuk**
+1. Klik menu **Draft- Direct** dan pilih berlabel **Fax Masuk**
 
-![gambar](FaxMasuk/FM_Android/DraftFM/A01.jpg) ![gambar](FaxMasuk/FM_Android/DraftFM/A02.jpg) 
+![gambar](FaxMasuk/FM_Android/DraftFM/02A01.png) ![gambar](FaxMasuk/FM_Android/DraftFM/02A02.png) 
 
-2. Pilih fax masuk yang akan diubah. Pilih icon **Option** kemudian klik **Edit**
+2. Pilih fax masuk yang akan diubah. Pilih icon **Option** kemudian klik **Modify Document**
 
-![gambar](FaxMasuk/FM_Android/DraftFM/A03.jpg) ![gambar](FaxMasuk/FM_Android/DraftFM/A04.jpg)
+![gambar](FaxMasuk/FM_Android/DraftFM/02A03.png) ![gambar](FaxMasuk/FM_Android/DraftFM/02A04.png)
 
-3. Sistem akan menampilkan _form_ **Edit Correspondence**
+3. Sistem akan menampilkan _form_ **Edit Fax Masuk** lakukan edit yang ingin dilakukan perubahan.
 
-![gambar](FaxMasuk/FM_Android/DraftFM/A05.jpg)
+![gambar](FaxMasuk/FM_Android/DraftFM/02A05.png)
+![gambar](FaxMasuk/FM_Android/DraftFM/02A06.png)
 
-4. Lakukan perubahan pada _form_. Klik **Send** untuk mengirim fax masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu “**Sent Item – Fax masuk”**
+4. Lakukan perubahan pada _form_. Klik **Send Documet** untuk mengirim fax masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu “**Sent Item – Direct”** berlabel Fax Masuk.
    
-## **P-Office Versi IOS**
 
-Langkah-langkah untuk melakukan drafting fax masuk via IOS dalah sebagai berikut :
-
-1. Klik menu **Draft** dan pilih tab **Fax Masuk**
-
-![gambar](FaxMasuk/FM_IOS/FM-6.1.png) ![gambar](FaxMasuk/FM_IOS/FM-6.2.png)
-
-2. Pilih fax masuk yang akan diubah. Pilih icon **Option** kemudian klik **Edit**
-
-![gambar](FaxMasuk/FM_IOS/FM-7.1.png) ![gambar](FaxMasuk/FM_IOS/FM-7.2.png)
-
-3. Sistem akan menampilkan _form_ **Edit Correspondence**
-   
-![gambar](FaxMasuk/FM_IOS/FM-8.1.png) ![gambar](FaxMasuk/FM_IOS/FM-8.2.png)
-
-4. Lakukan perubahan pada _form_. Klik **Send** untuk mengirim fax masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu “**Sent Item – Fax Masuk”**
-
-![gambar](FaxMasuk/FM_IOS/FM-9.png)

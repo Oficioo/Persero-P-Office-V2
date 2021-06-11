@@ -13,21 +13,20 @@ Langkah - langkah untuk melihat daftar jabatan pada aplikasi P-Office via Web ad
 
 #### **Melihat Daftar Jabatan pada Aplikasi**
 
-1.    Pilih menu **Configuration** dan pilih submenu **Syncronization - Position**
+1.  Pilih menu **Master** dan pilih submenu **Resource - Data - Positions**
 
-![gambar](SC_Konfigurasi/KF09.png)
+![gambar](SC_Konfigurasi/02KF09.png)
 
-2.    Sistem menampilkan daftar user pada aplikasi P-Office
-
+2.  Sistem menampilkan daftar user pada aplikasi P-Office
 
 #### **Mencari Jabatan pada Aplikasi**
 
-1.    Pilih menu **Configuration** dan pilih submenu **Syncronization - Position**
+1.  Pilih menu **Master** dan pilih submenu **Resource - Data - Positions**
 
-![gambar](SC_Konfigurasi/KF10.png)
+![gambar](SC_Konfigurasi/02KF10.png)
 
-2.    Ketikkan kata kunci pada kolom pencarian kemudian klik **Enter**
+2.  Ketikkan kata kunci pada kolom pencarian kemudian klik **Enter**
 
-![gambar](SC_Konfigurasi/KF11.png)
+![gambar](SC_Konfigurasi/02KF11.png)
 
-3.    Sistem menampilkan hasil pencarian berdasarkan kata kunci
+3.  Sistem menampilkan hasil pencarian berdasarkan kata kunci

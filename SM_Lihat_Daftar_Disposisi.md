@@ -25,7 +25,7 @@ Langkah - langkah untuk melihat daftar disposisi via Teams adalah sebagai beriku
 ![gambar](SuratMasuk/SM_Teams/SM24.png)
 
 
-## **P-Office Versi Android**
+## **P-Office Versi Mobile (Android & iOS)**
 
 Langkah - langkah untuk melihat daftar disposisi via Android adalah sebagai berikut :
  
@@ -33,11 +33,3 @@ Langkah - langkah untuk melihat daftar disposisi via Android adalah sebagai beri
 
 ![gambar](SuratMasuk/SM_Android/Daftardisposisi/02A01.png) ![gambar](SuratMasuk/SM_Android/Daftardisposisi/02A02.png)
 
-
-## **P-Office Versi IOS**
-
-Langkah - langkah untuk melihat daftar disposisi via IOS adalah sebagai berikut :
-
-1. Klik menu **Disposition** dan pilih tab **Surat Masuk**
-   
-![gambar](SuratMasuk/SM_IOS/SM-25.png) ![gambar](SuratMasuk/SM_IOS/SM-26.png)

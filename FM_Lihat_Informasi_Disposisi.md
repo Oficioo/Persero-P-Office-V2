@@ -89,9 +89,9 @@ Pada tab **History**, ditampilkan riwayat fax masuk yang terdapat informasi jaba
 
 ![gambar](FaxMasuk/FM_Teams/FM46.png) 
 
-## **P-Office Versi Android**
+## **P-Office Versi Android dan iOS**
 
-Langkah-langkah untuk melihat informasi disposisi fax masuk via Android adalah sebagai berikut :
+Langkah-langkah untuk melihat informasi disposisi fax masuk via Android dan iOS adalah sebagai berikut :
 
 1. Klik menu **Disposisi** dan pilih label **Fax Masuk** Pilih salah satu fax masuk yang akan dilihat informasinya
 
@@ -123,36 +123,3 @@ Pada pilihan **History**, ditampilkan riwayat fax masuk yang terdapat informasi 
 
 ![gambar](FaxMasuk/FM_Android/Infodisposisi/02H01.png) ![gambar](FaxMasuk/FM_Android/Infodisposisi/02H02.png)
 
-# **P-Office Versi IOS**
-
-Langkah-langkah untuk melihat informasi disposisi fax masuk via IOS adalah sebagai berikut :
-
-1. Klik menu **Disposisi** dan pilih tab **Fax Masuk.** Pilih salah satu fax masuk yang akan dilihat informasinya
-
-![gambar](FaxMasuk/FM_Android/Infodisposisi/02A01.png)
-![gambar](FaxMasuk/FM_Android/Infodisposisi/02A02.png) 
-
-#### **Preview Fax Masuk**
-
-Pada tab **Surat**, ditampilkan informasi fax masuk fisik yang sudah di _scan_ dan kemudian diunggah oleh sekretaris / konseptor
-
-![gambar](FaxMasuk/FM_Android/Infodisposisi/02P01.png) 
-![gambar](FaxMasuk/FM_Android/Infodisposisi/P02.jpg)
-
-###### **Preview Lembar Penerus**
-
-Pada tab **Preview,** ditampilkan informasi lembar penerus disposisi yang berisi informasi daftar nama pejabat dan perintah disposisi yang harus dilakukan oleh pejabat penerima disposisi
-
-![gambar](FaxMasuk/FM_Android/Infodisposisi/02PL01.png) ![gambar](FaxMasuk/FM_Android/Infodisposisi/PL02.jpg)
-
-###### **Detail Fax Masuk**
-
-Pada **Detail**, terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat dan tujuan surat serta informasi disposisi yang mencakup lampiran disposisi, tujuan, tindak lanjut dan disposisi permasing-masing pejabat penerima disposisi
-
-![gambar](FaxMasuk/FM_Android/Infodisposisi/02D01.png)
-
-###### **History Fax Masuk**
-
-Pada pilihan **History**, ditampilkan riwayat fax masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar
-
-![gambar](FaxMasuk/FM_Android/Infodisposisi/02H01.png) ![gambar](FaxMasuk/FM_Android/Infodisposisi/02H02.png)

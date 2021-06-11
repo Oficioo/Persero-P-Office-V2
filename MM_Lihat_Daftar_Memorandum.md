@@ -10,9 +10,9 @@
 
 langkah untuk melihat daftar memorandum via Web adalah sebagai berikut
 
-1. Klik menu **Inbox / Draft / Sent Item** dan pilih tab **Memorandum**
+1. Klik menu **Inbox / Draft / Sent Item** dan pilih surat yang berlabel **Memorandum**
 
-![gambar](Memorandum/MM_Web/MM-1.png)
+![gambar](Memorandum/MM_Web/02MM-1.png)
 
 ## **P-Office Versi Teams**
 
@@ -22,20 +22,15 @@ Langkah-langkah untuk melihat daftar memorandum via Teams adalah sebagai berikut
 
 ![gambar](Memorandum/MM_Teams/MM01.png)
 
-## **P-Office Versi Android**
+## **P-Office Versi Android & IOS**
 
 Langkah-langkah untuk melihat daftar memorandum via Android adalah sebagai berikut :
 
-1. Klik menu **Inbox/Draft/Sent Item** dan pilih tab **Memorandum**
+1. Klik menu **Inbox/Draft/Sent Items** dan pilih tab **Memorandum**
 
-![gambar](Memorandum/MM_Android/Daftarmemo/A01.jpg) ![gambar](Memorandum/MM_Android/Daftarmemo/A02.jpg) 
+![gambar](Memorandum/MM_Android/Daftarmemo/02MM-09.png) 
+![gambar](Memorandum/MM_Android/Daftarmemo/02MM-10.png) 
 
-## **P-Office Versi IOS**
 
-Langkah – langkah untuk melihat daftar memorandum via IOS adalah sebagai berikut
-
-1.	Klik menu **Inbox / Draft / Sent Item** dan pilih tab **Memorandum**
-
-![gambar](Memorandum/MM_IOS/MM-1.png) ![gambar](Memorandum/MM_IOS/MM-2.png)
 
 

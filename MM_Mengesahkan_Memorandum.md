@@ -6,24 +6,24 @@
 
 ## **P-Office Versi Web**
 
-Berikut ini video tutorial yang menjelaskan langkah - langkah approver untuk mengesahkan memorandum **via Web**. Setelah memorandum disetujui dan disahkan maka nomor memorandum akan tergenerate secara otomatis
+Berikut langkah - langkah approver untuk mengesahkan memorandum **via Web**. Setelah memorandum disetujui dan disahkan maka nomor memorandum akan tergenerate secara otomatis
 
-</br>
-<a href="https://web.microsoftstream.com/embed/video/58097017-5016-429b-8335-2ff25866bee5?autoplay=false&amp;showinfo=false" target="_blank"><img src="https://github.com/gitakencana/Persero-P-Office/raw/master/Video/Thumbnail/TM01.png" alt="Watch the video"></a>
 
-1. Klik menu **Inbox** dan pilih tab **Memorandum**
+1. Klik menu **Draft** lalu pilih  **Direct**
 
-![gambar](Memorandum/MM_Web/MM-54.png)
+![gambar](Memorandum/MM_Web/02MM-54.png)
 
-2. Pilih memorandum yang akan ditindak lanjuti kemudian pilih tab **Detail**. Pada tab **Detail** terdapat informasi nomor surat yang masih bersifat sementara. Nomor inilah yang akan ter-*generate* jika *user* menyetujui memorandum
+1. Pilih memorandum yang akan ditindak lanjuti kemudian pilih tab **Detail**. Pada tab **Detail**
 
-![gambar](Memorandum/MM_Web/MM-55.png)
+![gambar](Memorandum/MM_Web/02MM-55.png)
 
-3. Klik **Approve** kemudian muncul popup dengan pilihan *without digital sign* atau **P-Sign** dan klik **Send**
+3. Klik **Approve Document** kemudian muncul popup dengan pilihan *without digital sign* atau **P-Sign** dan klik **Send**
 
-![gambar](Memorandum/MM_Web/MM-56.png)
+![gambar](Memorandum/MM_Web/02MM-56.png)
+![gambar](Memorandum/MM_Web/02MM-57.png) 
 
-4. Sistem menyimpan perubahan dan nomor memorandum akan ter-*generate* sesuai dengan nomor sementara pada detail. Memorandum yang sudah diseyujui akan tersimpan di menu **"Sent Item - Memorandum"** pengirim sedangkan memorandum akan tersimpan di menu **"Inbox - Memorandum"** penerima
+4. Sistem menyimpan perubahan dan nomor memorandum akan ter-*generate* sesuai dengan nomor sementara pada detail. Memorandum yang sudah diseyujui akan tersimpan di menu **"Sent Item - Direct"** pengirim sedangkan memorandum akan tersimpan di menu **"Inbox - Direct - pilih yang berlabel Memorandum"** penerima
+   
 
 ## **P-Office Versi Teams**
 
@@ -43,35 +43,17 @@ Langkah-langkah untuk mengesahkan nomor Memorandum via Teams adalah sebagai beri
 
 1. Sistem menyimpan perubahan dan nomor memorandum akan ter-*generate* sesuai dengan nomor sementara pada detail. Memorandum yang sudah diseyujui akan tersimpan di menu **"Sent Item - Memorandum"** pengirim sedangkan memorandum akan tersimpan di menu **"Inbox - Memorandum"** penerima
 
-## **P-Office Versi Android**
+## **P-Office Versi Android & IOS**
 
-Berikut ini video yang menjelaskan langkah - langkah approver untuk mengesahkan memorandum **via Mobile**. Setelah memorandum disetujui dan disahkan maka nomor memorandum akan tergenerate secara otomatis
+Berikut ini langkah - langkah approver untuk mengesahkan memorandum **via Mobile**. Setelah memorandum disetujui dan disahkan maka nomor memorandum akan tergenerate secara otomatis
 
-</br>
-<a href="https://web.microsoftstream.com/embed/video/fd636ae5-306a-44bf-9f10-dcc23646fa07?autoplay=false&amp;showinfo=false" target="_blank"><img src="https://github.com/gitakencana/Persero-P-Office/raw/master/Video/Thumbnail/TM07.jpg" alt="Watch the video"></a>
+1. Klik menu **Inbox**dan pilih tab **Direct**
 
-1. Klik menu **Inbox**dan pilih tab **Memorandum**
+![gambar](Memorandum/MM_Android/Nomormemo/02MM-23.png)
 
-![gambar](Memorandum/MM_Android/Nomormemo/A01.jpg)![gambar](Memorandum/MM_Android/Nomormemo/A02.jpg)
+2. Pilih memorandum yang akan ditindak lanjuti kemudian Pada detail pilih icon **titik Tiga** dan pilih **Finish** nomor surat akan ter-_generate_ jika _user_ menyetujui memorandum.
 
-2. Pilih memorandum yang akan ditindak lanjuti kemudian Pada detail terdapat informasi nomor surat akan ter-_generate_ jika _user_ menyetujui memorandum.
+![gambar](Memorandum/MM_Android/Nomormemo/02MM-24.png) 
+![gambar](Memorandum/MM_Android/Nomormemo/02MM-25.png)
 
-![gambar](Memorandum/MM_Android/Nomormemo/A03.jpg) ![gambar](Memorandum/MM_Android/Nomormemo/A04.jpg)
-
-3. Memorandum yang sudah disetujui akan tersimpan di menu “**Sent Item - Memorandum**” pengirim sedangkan memorandum akan tersimpan di menu “**Inbox - Memorandum**” penerima
-
-## **P-Office Versi IOS**
-
-Langkah-langkah untuk Mengesahkan nomor Memorandum via IOS adalah sebagai berikut :
-
-1. Klik menu **Inbox** dan pilih tab **Memorandum**
-
-![gambar](Memorandum/MM_IOS/Memo/N01.png) ![gambar](Memorandum/MM_IOS/Memo/N02.png) 
-
-2. Pilih memorandum yang akan ditindak lanjuti, pada detail memorandum terdapat informasi nomor surat yang masih bersifat sementara. Nomor inilah yang akan ter-_generate_ jika _user_ menyetujui surat keluar.
-
-![gambar](Memorandum/MM_IOS/Memo/N03.png) ![gambar](Memorandum/MM_IOS/Memo/N04.png) 
-
-3. Isikan komentar jika diperlukan kemudian klik **Send** untuk menyimpan perubahan. Nomor memorandum akan ter-_generate_ sesuai dengan nomor sementara pada detail. Memorandum yang sudah disetujui akan tersimpan di menu “**Sent Item - Memorandum**” pengirim sedangkan surat keluar akan tersimpan di menu “**Inbox - Memorandum**” penerima.
-
-![gambar](Memorandum/MM_IOS/Memo/N05.png) 
+3. Memorandum yang sudah diselesaikan akan tersimpan di menu “**Sent Item - Memorandum**” pengirim sedangkan memorandum akan tersimpan di menu “**Inbox - Direct - Memorandum**” penerima

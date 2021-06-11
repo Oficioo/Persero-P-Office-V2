@@ -141,7 +141,7 @@ Langkah - langkah untuk mengirim fax keluar adalah sebagai berikut
 
 ## **P-Office Versi Android dan iOS**
 
-Langkah - langkah untuk drafting fax keluar via Android adalah sebagai berikut:
+Langkah - langkah untuk drafting fax keluar via Android dan iOS adalah sebagai berikut:
 
 1. Klik menu **Draft** dan pilih Label**Fax Keluar**
 

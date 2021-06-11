@@ -22,18 +22,11 @@ Langkah - langkah untuk melihat daftar fax keluar via Teams adalah sebagai berik
 
 ![gambar](FaxKeluar/FK_Teams/FK01.png)
 
-## **P-Office Versi Android**
+## **P-Office Versi Android dan iOS**
 
-Langkah - langkah untuk melihat daftar fax keluar via Android adalah sebagai berikut :
+Langkah - langkah untuk melihat daftar fax keluar via Android dan iOS adalah sebagai berikut :
 
-1. Klik menu **Inbox / Draft / Sent Item** dan pilih tab **Fax Keluar**
+1. Klik menu **Inbox / Draft / Sent Item** dan pilih berlabel **Fax Keluar**
 
-![gambar](FaxKeluar/FK_Android/DaftarFK/A01.jpg) ![gambar](FaxKeluar/FK_Android/DaftarFK/A02.jpg)
+![gambar](FaxKeluar/FK_Android/DaftarFK/02A01.png) ![gambar](FaxKeluar/FK_Android/DaftarFK/02A02.png)
 
-## **P-Office Versi IOS**
-
-Langkah - langkah untuk melihat daftar fax keluar via IOS adalah sebagai berikut :
-
-1. Klik menu **Inbox / Draft / Sent Item** dan pilih tab **Fax Keluar**
-
-![gambar](FaxKeluar/FK_IOS/FK-1.1.png) ![gambar](FaxKeluar/FK_IOS/FK-1.2.png)

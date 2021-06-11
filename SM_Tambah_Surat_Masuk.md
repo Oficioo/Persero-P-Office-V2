@@ -42,7 +42,7 @@ Langkah - langkah untuk tambah surat masuk via Teams adalah sebagai berikut :
 
 4.  Sistem berhasil menyimpan perubahan
 
-## **P-Office Versi Android**
+## **P-Office Versi Mobile (Android & iOS**
 
 Langkah-langkah untuk tambah surat masuk adalah sebagai berikut.
 
@@ -60,22 +60,3 @@ Langkah-langkah untuk tambah surat masuk adalah sebagai berikut.
 
 4. Sistem berhasil menyimpan perubahan
 
-## **P-Office Versi IOS**
-
-Langkah-langkah untuk tambah surat masuk via IOS adalah sebagai berikut.
-
-1. Klik tanda **(+)** pada daftar surat
-
-![gambar](SuratMasuk/SM_IOS/SM-2.1.png)
-
-2. Pilih jenis surat “**Surat Masuk**” kemudian klik Next
-
-![gambar](SuratMasuk/SM_IOS/SM-4.png)
-
-3. Isi form tambah surat masuk. Klik **Next** untuk melanjutkan pengisian form surat masuk. Klik **Save As Draft** untuk menyimpan form surat dan surat akan tersimpan di menu “**Draft – Direct - Surat Masuk**”. Klik **Send a Mail** untuk mengirim surat masuk dan surat masuk akan tersimpan di menu “**Sent Item – Surat Masuk**”
-
-![gambar](SuratMasuk/SM_IOS/SM-5.png) ![gambar](SuratMasuk/SM_IOS/SM-6.png)
-
-![gambar](SuratMasuk/SM_IOS/CR-SM1.png)
-
-4. Sistem berhasil menyimpan perubahan

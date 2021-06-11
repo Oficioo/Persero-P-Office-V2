@@ -93,58 +93,25 @@ Langkah - langkah untuk disposisi surat masuk via Teams adalah sebagai berikut :
 
 5. Klik **Save** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu **“Draft – Surat masuk”**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **“Sent Item – Disposisi”**
 
-## **P-Office Via Android**
+## **P-Office Versi Mobile (Android & iOS)**
 
-Langkah - langkah untuk mendisposisikan surat masuk via Android adalah sebagai berikut :
+Langkah - langkah untuk mendisposisikan surat masuk via Mobile (Android & iOS) adalah sebagai berikut :
 
 **Disposisi melalui Menu Inbox**
 
-1. Klik menu **Inbox** dan pilih tab **Surat Masuk**
+1. Klik menu **Inbox** dan pilih label **Surat Masuk**
 
-![gambar](SuratMasuk/SM_Android/DispoSM/D01.jpg) ![gambar](SuratMasuk/SM_Android/DispoSM/D02.jpg)
+![gambar](SuratMasuk/SM_Android/DispoSM/02D01.png) ![gambar](SuratMasuk/SM_Android/DispoSM/02D02.png)
 
 2. Pilih surat masuk yang akan didisposisikan kemudian pilih icon **Option**
 
-![gambar](SuratMasuk/SM_Android/DispoSM/D03.jpg)
+![gambar](SuratMasuk/SM_Android/DispoSM/02D03.png)
 
 3. Klik tombol **Disposition** maka sistem menampilkan form disposisi. Isikan informasi disposisi dan perintah untuk masing-masing penerima disposisi
 
-![gambar](SuratMasuk/SM_Android/DispoSM/D04.jpg) ![gambar](SuratMasuk/SM_Android/DispoSM/D05.jpg)
+![gambar](SuratMasuk/SM_Android/DispoSM/02D04.png) ![gambar](SuratMasuk/SM_Android/DispoSM/02D05.png)
 
-4.Klik **Save** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu “**Draft – Surat masuk**”. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu “**Outbox – Disposisi**”
+4.Klik **Save as draft** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu “**Draft – Surat masuk**” atau Klik **Send disposition** untuk mengirim disposisi ke tujuan dan disposisi surat masuk akan tersimpan di menu “**Outbox – Disposisi**”
+
+![gambar](SuratMasuk/SM_Android/DispoSM/02D06.png)
    
-## **P-Office Via IOS**
-
-Langkah - langkah untuk mendisposisikan surat masuk via IOS adalah sebagai berikut:
-
-**Disposisi melalui Menu Inbox**
-
-1. Klik menu **Inbox** dan pilih tab **Surat Masuk**
-   
-![gambar](SuratMasuk/SM_IOS/SM-55.png) ![gambar](SuratMasuk/SM_IOS/SM-56.png)
-
-2. Pilih surat masuk yang akan didisposisikan, kemudian pilih tab **Option** dan pilih **Disposition**
-   
-![gambar](SuratMasuk/SM_IOS/SM-27.png) ![gambar](SuratMasuk/SM_IOS/SM-28.png)
-
-3. Sistem menampilkan form disposisi. Isikan informasi disposisi dan perintah untuk masing-masing penerima disposisi
-   
-![gambar](SuratMasuk/SM_IOS/SM-29.png)
-
-1. Klik **Save** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu “**Draft – Surat masuk**”. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu “**Outbox – Disposisi**”
-
-**Disposisi melalui Menu Disposisi**
-
-1. Klik menu **Disposisi** dan pilih tab **Surat Masuk**
-   
-![gambar](SuratMasuk/SM_IOS/SM-30.png) ![gambar](SuratMasuk/SM_IOS/SM-31.png)
-
-2. Pilih surat masuk yang akan didisposisikan kemudian pilih icon **Option** dan pilih **Disposition**
-   
-![gambar](SuratMasuk/SM_IOS/SM-57.png) ![gambar](SuratMasuk/SM_IOS/SM-32.png)
-
-3. Sistem menampilkan form disposisi. Isikan informasi disposisi dan perintah untuk masing-masing penerima disposisi.
-   
-![gambar](SuratMasuk/SM_IOS/SM-33.png) 
-
-4. Klik **Save** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu “**Draft – Surat masuk**”. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu “**Outbox – Disposisi**”.

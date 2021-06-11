@@ -73,7 +73,7 @@ Pada tab **History**, ditampilkan riwayat fax masuk yang terdapat informasi jaba
 
 ![gambar](FaxMasuk/FM_Teams/FM46.png)
 
-## **P-Office Versi Android**
+## **P-Office Versi Android dan iOS**
 
 Langkah-langkah untuk melihat informasi fax masuk adalah sebagai berikut :
 
@@ -103,28 +103,3 @@ Pada tab **History**, ditampilkan riwayat fax masuk yang terdapat informasi jaba
 
 ![gambar](FaxMasuk/FM_Android/InfoFM/02H01.png) ![gambar](FaxMasuk/FM_Android/InfoFM/02H02.png)
 
-## **P-Office Versi IOS**
-
-Langkah-langkah untuk melihat informasi fax masuk via IOS adalah sebagai berikut :
-
-1. Klik menu **Inbox/Draft/Outbox** dan pilih tab **Fax masuk.** Pilih salah satu fax masuk yang akan dilihat informasinya
-
-![gambar](FaxMasuk/FM_Android/InfoFM/02A01.png) ![gambar](FaxMasuk/FM_Android/InfoFM/02A02.png)
-
-##### **Preview Fax Masuk**
-
-Pada tab **Preview**, ditampilkan _preview_ fax masuk yang merupakan hasil unggahan yang diinputkan oleh sekretaris/konseptor.
-
-![gambar](FaxMasuk/FM_Android/InfoFM/02P01.png) ![gambar](FaxMasuk/FM_Android/InfoFM/P02.jpg)
-
-##### **Detail Fax Masuk**
-
-Pada tab **Detail**, terdapat informasi asal surat, perihal, file lampiran, kategori surat, resume, rekomendasi, nomor surat, klasifikasi surat, tanggal surat dan tujuan.
-
-![gambar](FaxMasuk/FM_Android/InfoFM/02D01.png)
-
-##### **History Fax Masuk**
-
-Pada **History**, ditampilkan riwayat fax masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar
-
-![gambar](FaxMasuk/FM_Android/InfoFM/02H01.png) ![gambar](FaxMasuk/FM_Android/InfoFM/02H02.png)

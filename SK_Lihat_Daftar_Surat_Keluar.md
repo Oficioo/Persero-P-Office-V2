@@ -23,21 +23,13 @@ Langkah - langkah untuk daftar surat keluar via Teams adalah sebagai berikut :
 
  ![gambar](SuratKeluar/SK_Teams/SK01.png)
 
-## **P-Office Versi Android**
+## **P-Office Versi Mobile (Android & iOS)**
 
-Langkah - langkah untuk melihat daftar surat keluar via Android adalah sebagai berikut :
+Langkah - langkah untuk melihat daftar surat keluar via Mobile(Android & iOS) adalah sebagai berikut :
 
-1. Klik menu **Inbox/ Draft/ Sent Item** dan pilih tab **Surat Keluar**
+1. Klik menu **Inbox/ Draft/ Sent Item** dan pilih surat berlabel **Surat Keluar**
 
-![gambar](SuratKeluar/SK_Android/DaftarSK/A01.jpg) ![gambar](SuratKeluar/SK_Android/DaftarSK/A02.jpg)
-
-## **P-Office Versi IOS**
-
-Langkah – langkah untuk melihat daftar surat keluar via IOS adalah sebagai berikut : 
-
-1.	Klik menu **Inbox / Draft / Sent Item** dan pilih tab **Surat Keluar**
-
-![gambar](SuratKeluar/SK_IOS/SK-1.png) ![gambar](SuratKeluar/SK_IOS/SK-2.png)
+![gambar](SuratKeluar/SK_Android/DaftarSK/02A01.png) ![gambar](SuratKeluar/SK_Android/DaftarSK/02A02.png)
 
 
 

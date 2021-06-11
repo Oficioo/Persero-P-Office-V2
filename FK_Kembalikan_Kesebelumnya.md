@@ -42,9 +42,11 @@ Langkah - langkah untuk kembalikan kesebelumnya via Teams adalah sebagai berikut
 4. Sistem berhasil menyimpan perubahan. Fax keluar yang sudah di kirim akan tersimpan di menu **Sent Item - Fax Keluar** dan penerima pengembalian fax keluar akan menerima fax keluar di menu **Draft - Fax Keluar**
 
 
-## **P-Office Versi Andoid dan iOS**
 
-Langkah - langkah untuk kembalikan kesebelumnya via Android adalah sebagai berikut:
+## **P-Office Versi Android dan iOS**
+
+
+Langkah - langkah untuk kembalikan kesebelumnya via Android dan iOS adalah sebagai berikut:
 
 1. Klik menu **Inbox** dan pilih Label **Fax Keluar**
 
@@ -59,4 +61,3 @@ Langkah - langkah untuk kembalikan kesebelumnya via Android adalah sebagai berik
 ![gambar](FaxKeluar/FK_Android/KembaliFK/02A05.png) ![gambar](FaxKeluar/FK_Android/KembaliFK/02A06.png)
 
 4. Sistem berhasil menyimpan perubahan. Fax keluar yang sudah di kirim akan tersimpan di menu **Sent Item - Fax Keluar** dan penerima pengembalian fax keluar akan menerima fax keluar di menu **Draft - Fax Keluar**
-

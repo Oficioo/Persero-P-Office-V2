@@ -146,7 +146,7 @@ Langkah – langkah untuk mengirim SP3S adalah sebagai berikut :
 
 2.	Sistem menyimpan perubahan dan SP3S akan tersimpan di menu **“Sent Item - SP3S”**
 
-## **P-Office Versi Android**
+## **P-Office Versi Mobile (Android & iOS)**
 
 Langkah - langkah untuk tambah SP3S via Android adalah sebagai berikut : 
 
@@ -196,49 +196,3 @@ Langkah – langkah untuk mengirim SP3S adalah sebagai berikut :
 ![gambar](SP3S/SP3S_Android/TambahSP3S/02K011.jpg)
 
 2. Sistem menyimpan perubahan dan SP3S akan tersimpan di menu “**Sent Item - Direct - SP3S**”
-
-## **P-Office Versi IOS**
-
-Langkah-langkah untuk menambah SP3S via IOS adalah sebagai berikut :
-
-1. Klik ikon **(+)** pada SP3S
-
-![gambar](SP3S/SP3S_IOS/SP3S-2.png)
-
-2.	Pilih jenis surat **“SP3S”**
-
-![gambar](SP3S/SP3S_IOS/SP3S-3.png)
-
-3.	Isi form tambah SP3S. Klik **Next** untuk melanjutkan pengisian form
-
-![gambar](SP3S/SP3S_IOS/SP3S-4.1.png) ![gambar](SP3S/SP3S_IOS/SP3S-4.2.png)
-
-4.	Terdapat beberapa aksi untuk menindaklanjuti SP3S yang sudah diisi formnya yaitu **Save, Edit dan Send SP3S**
-
-#### **Simpan SP3S**
-
-Langkah – langkah untuk menyimpan SP3S adalah sebagai beriku :
-
-1.	Isi form SP3S kemudian klik **Save**
-
-![gambar](SP3S/SP3S_IOS/SP3S-5.1.png) ![gambar](SP3S/SP3S_IOS/SP3S-5.2.png)
-
-2.	Sistem akan menampilkan tampilan preview SP3S dalam bentuk Word yang dapat di edit. Untuk melakukan editing terhadap isi surat klik Edit/Send 
-
-![gambar](SP3S/SP3S_IOS/SP3S-6.png)
-
-3.	Pilih **Edit Content** untuk melakukan perubahan isi konten, kemudian pada pop up notifikasi Editing Document pilih **Yes** untuk menyelesaikan perubahan
-
-![gambar](SP3S/SP3S_IOS/SP3S-7.1.png) ![gambar](SP3S/SP3S_IOS/SP3S-7.2.png)
-
-4.	Klik Close untuk menutup editing SP3S, SP3S yang disimpan akan tersimpan di menu **“Draft – SP3S”**
-
-#### **Kirim SP3S**
-
-Langkah – langkah untuk mengirim SP3S adalah sebagai berikut :
-
-1.	Pada tampilan preview SP3S, klik Send untuk mengirim surat ke pejabat tujuan
-
- ![gambar](SP3S/SP3S_IOS/SP3S-8.png)
-
-2.	Sistem menyimpan perubahan dan SP3S akan tersimpan di menu **“Sent Item - SP3S”**
