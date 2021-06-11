@@ -58,5 +58,3 @@ Langkah-langkah untuk mengembalikan Memorandum ke konseptor via Android dan iOS 
 ![gambar](Memorandum/MM_Android/Konseptormemo/02A05.png) ![gambar](Memorandum/MM_Android/Konseptormemo/02A06.png)
 
 4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item - Memorandum** dan konseptor akan menerima memorandum di menu **Rejected – Memorandum**
-
-

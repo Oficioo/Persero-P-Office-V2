@@ -154,31 +154,35 @@ Langkah – langkah untuk mengirim surat keluar adalah sebagai berikut :
 
 2.	Sistem menyimpan perubahan dan surat keluar akan tersimpan di menu **“Sent Item - Surat Keluar”**
 
-## **P-Office Versi Android dan iOS**
+## **P-Office Versi Mobile (Android & iOS)**
 
-Langkah - langkah untuk menambah surat keluar via Android dan iOS adalah sebagai berikut :
+Langkah - langkah untuk menambah surat keluar via Mobile (Android & iOS) adalah sebagai berikut :
 
 1. Klik tanda **(+)** pada surat keluar
    
-![gambar](SuratKeluar/SK_Android/TambahSK/A01.jpg)
+![gambar](SuratKeluar/SK_Android/TambahSK/02A01.png)
 
-2. Pilih jenis surat “**Surat Keluar**” lalu klik **Selanjutnya**
+2. Pilih jenis surat “**Surat Keluar**” lalu klik **Next**
 
-![gambar](SuratKeluar/SK_Android/TambahSK/A02.jpg) 
+![gambar](SuratKeluar/SK_Android/TambahSK/02A02.png) 
 
-3. Isi _form_ tambah surat keluar. Terdapat bebarapa aksi untuk menindaklanjuti surat keluar yang sudah diisi yaitu **Simpan Surat Keluar**, **Kirim Surat Keluar** dan **Save as Template Surat Keluar**
+3. Isi _form_ tambah surat keluar lalu klik tombol **Next**. Terdapat beberapa aksi untuk menindaklanjuti surat keluar yang sudah diisi yaitu **Save as draft**, **Save as Template**, dan **Send document**
 
-![gambar](SuratKeluar/SK_Android/TambahSK/A03.jpg) ![gambar](SuratKeluar/SK_Android/TambahSK/A04.jpg) ![gambar](SuratKeluar/SK_Android/TambahSK/A05.jpg)![gambar](SuratKeluar/SK_Android/TambahSK/A06.jpg)
+![gambar](SuratKeluar/SK_Android/TambahSK/02A03.png)
+![gambar](SuratKeluar/SK_Android/TambahSK/02A04.png) ![gambar](SuratKeluar/SK_Android/TambahSK/02A05.png) ![gambar](SuratKeluar/SK_Android/TambahSK/02A06.png)![gambar](SuratKeluar/SK_Android/TambahSK/02A07.png)  ![gambar](SuratKeluar/SK_Android/TambahSK/02A08.png)
 
 **Simpan Surat Keluar**
 
 Langkah – langkah untuk menyimpan surat keluar adalah sebagai berikut.
 
-1. Isi _form_ surat keluar kemudian klik **Save Mail**
+1. Isi _form_ surat keluar kemudian klik **Save**
 
-![gambar](SuratKeluar/SK_Android/TambahSK/S01.jpg) ![gambar](SuratKeluar/SK_Android/TambahSK/S02.jpg)
+![gambar](SuratKeluar/SK_Android/TambahSK/02A03.png)
+![gambar](SuratKeluar/SK_Android/TambahSK/02A04.png)
+![gambar](SuratKeluar/SK_Android/TambahSK/02A05.png)
 
-2. Surat keluar akan tersimpan di menu **Draft - Surat Keluar** 
+2. Surat keluar akan tersimpan di menu **Draft - Direct** label **Surat Keluar** 
 
-![gambar](SuratKeluar/SK_Android/TambahSK/S03.jpg) ![gambar](SuratKeluar/SK_Android/TambahSK/S04.jpg) ![gambar](SuratKeluar/SK_Android/TambahSK/S05.jpg)
+![gambar](SuratKeluar/SK_Android/TambahSK/02A09.png)
+![gambar](SuratKeluar/SK_Android/TambahSK/02A10.png)
 

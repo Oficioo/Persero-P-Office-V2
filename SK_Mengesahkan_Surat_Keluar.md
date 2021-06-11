@@ -24,7 +24,7 @@ Berikut ini video tutorial yang menjelaskan langkah-langkah untuk mengesahkan su
 
 ![gambar](SuratKeluar/SK_Web/02SK54.png)
 
-4. Pilih **Sign Doucument** menggunakan Peruri/BSSN/tanpa Digital Sign
+4. Pilih **Sign Document** menggunakan Peruri/BSSN/tanpa Digital Sign
 
 ![gambar](SuratKeluar/SK_Web/02SK57.png)
 
@@ -64,29 +64,29 @@ Langkah-langkah untuk mengesahkan surat keluar via Teams adalah sebagai berikut:
 6.	Surat keluar yang sudah disetujui akan tersimpan di menu **“Sent Item – Surat keluar”** pengirim
 
 
-## **P-Office Versi Android dan iOS**
+## **P-Office Versi Mobile (Android & iOS)**
 
-Langkah-langkah untuk mengesahkan surat keluar via Android dan iOS adalah sebagai berikut:
+Langkah-langkah untuk mengesahkan surat keluar via Mobile (Android & iOS) adalah sebagai berikut:
 
-1. Klik menu **Inbox-Direct** dan pilih tab **Surat Keluar**
+1. Klik menu **Draft - Direct** dan pilih label **Surat Keluar**
 
-![gambar](SuratKeluar/SK_Android/NomorSK/A01.jpg) ![gambar](SuratKeluar/SK_Android/NomorSK/A02.jpg)
+![gambar](SuratKeluar/SK_Android/NomorSK/02A01.png) ![gambar](SuratKeluar/SK_Android/NomorSK/02A02.png)
 
 2. Pilih surat keluar yang akan ditindak lanjuti kemudian pilih tab **Detail**
 
-![gambar](SuratKeluar/SK_Android/NomorSK/A03.jpg) !
+![gambar](SuratKeluar/SK_Android/NomorSK/02A03.png) ![gambar](SuratKeluar/SK_Android/NomorSK/02A04.png)
 
-3. Pilih tombol **button** kemudian **Approve** 
+3. Pilih tombol **Sign document**
 
-![gambar](SuratKeluar/SK_Android/NomorSK/A06.jpg) ![gambar](SuratKeluar/SK_Android/NomorSK/A07.jpg)
+![gambar](SuratKeluar/SK_Android/NomorSK/02A05.png)
 
-4. Sistem akan menampilkan form Approve Mail & Signing Documents
+4. Sistem akan menampilkan form Signing Documents kemudian klik **Next**
    
-![gambar](SuratKeluar/SK_Android/NomorSK/A08.jpg)
+![gambar](SuratKeluar/SK_Android/NomorSK/02A06.png)
 
-5. Kemudian isikan **NIK** dan **PassPhrase** pada form P-Office kemudian klik **Send**
+5. Kemudian isikan **NIK** dan **PassPhrase** pada form P-Office kemudian klik **Next**
    
-![gambar](SuratKeluar/SK_Android/NomorSK/A09.jpg)
+![gambar](SuratKeluar/SK_Android/NomorSK/02A07.png)
 
 Surat keluar yang sudah disetujui akan tersimpan di menu “**Sent Item - Surat Keluar**” pengirim sedangkan surat keluar akan tersimpan di menu “**Inbox - Surat Keluar**” penerima.
 
