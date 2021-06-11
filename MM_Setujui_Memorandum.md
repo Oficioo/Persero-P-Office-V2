@@ -9,20 +9,18 @@ Role yang sesuai
 
 Berikut ini terdapat video yang menjelaskan langkah - langkah untuk menyetujui memorandum **via Web**. Memorandum yang sudah di edit dan disetujui oleh reviewer akan terkirim ke approver untuk dilakukan tindak lanjut
 
-</br>
-<a href="https://web.microsoftstream.com/embed/video/58097017-5016-429b-8335-2ff25866bee5?autoplay=false&amp;showinfo=false" target="_blank"><img src="https://github.com/gitakencana/Persero-P-Office/raw/master/Video/Thumbnail/TM03.png" alt="Watch the video"></a>
 
-1. Klik menu **Inbox** dan pilih tab **Memorandum**
+1. Klik menu **Inbox** dan pilih tab **Direct**
 
-![gambar](Memorandum/MM_Web/MM-36.png)
+![gambar](Memorandum/MM_Web/02MM-36.png)
 
 2. Pilih memorandum yang akan ditindak lanjuti kemudian pilih tab **Detail**
 
-![gambar](Memorandum/MM_Web/MM-37.png)
+![gambar](Memorandum/MM_Web/02MM-37.png)
 
-3. Klik tombol **Approve** dan pilih **Send**. Isikan komentar jika diperlukan
+3. Klik tombol **Finish** dan Isikan komentar jika diperlukan dan pilih Button **Finish**
 
-![gambar](Memorandum/MM_Web/MM-38.png)
+![gambar](Memorandum/MM_Web/02MM-38.png)
 
 4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item - Memorandum**
 
@@ -42,7 +40,7 @@ Langkah-langkah untuk menyetujui Memorandum via Teams adalah sebagai berikut :
 
 ![gambar](Memorandum/MM_Teams/MM38.png)
 
-4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item - Memorandum**
+4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item - Direct**
 
 ## **P-Office Versi Android**
 

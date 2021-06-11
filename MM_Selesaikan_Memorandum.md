@@ -7,27 +7,25 @@
 
 *User* dapat menyelesaikan disposisi memorandum jika *user* tidak akan melanjutkan untuk mendisposisikan memorandum ke pejabat lain atau memorandum selesai pada *user* tersebut. Langkah-langkah untuk menyelesaikan memorandum adalah sebagai berikut
 
-## **P-Office Versi Teams**
+## **P-Office Versi Web**
 
 Langkah-langkah untuk menyelesaikan disposisi memorandum via Web adalah sebagai berikut :
 
-1. Klik menu **Inbox** dan pilih tab **Memorandum**
+1. Klik menu **Inbox** dan pilih tab **Direct**
 
-![gambar](Memorandum/MM_Web/MM-84.png)
+![gambar](Memorandum/MM_Web/02MM-64.png)
 
-2. Pilih memorandum yang akan diselesaikan kemudian pilih tab **Detail**
+2. Pilih memorandum yang akan diselesaikan kemudian pilih tab **Detail** Lalu pilih button **Disposition**
 
-![gambar](Memorandum/MM_Web/MM-85.png)
+![gambar](Memorandum/MM_Web/02MM-65.png)
 
-3. Pilih tombol **Finish** kemudian klik **Send**
+3. Pilih Button **+Add** kemudian pilih pejabat yang akan di disposisikan **Send**
 
-![gambar](Memorandum/MM_Web/MM-85.png)
+![gambar](Memorandum/MM_Web/02MM-66.png)
 
-![gambar](Memorandum/MM_Web/MM-87.png)
+4. Sistem menampilkan pop up konfirmasi user yang akan menerima disposisi kemudian klik **Send Disposition**.
 
-4. Sistem menampilkan pop up konfirmasi dan user harus mengisi keterangan selesaikan disposisi kemudian klik **Save**.
-
-![gambar](Memorandum/MM_Web/MM-88.png)
+![gambar](Memorandum/MM_Web/02MM-67.png)
 
 5. Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi.
 

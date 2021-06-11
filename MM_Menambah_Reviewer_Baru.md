@@ -8,25 +8,25 @@
 
 Langkah - langkah untuk menambah reviewer memorandum vvia Web adalah sebagai berikut :
 
-1. Klik menu **Inbox** dan pilih tab **Memorandum**
+1. Klik menu **Inbox** dan pilih **Direct**
 
-![gambar](Memorandum/MM_Web/MM-49.png)
+![gambar](Memorandum/MM_Web/02MM-49.png)
 
 2. Pilih memorandum yang akan ditindak lanjuti kemudian pilih tab **Detail**
 
-![gambar](Memorandum/MM_Web/MM-50.png)
+![gambar](Memorandum/MM_Web/02MM-50.png)
 
-3. Klik tombol **Add Reviewer** dan pilih pejabat yang akan melakukan review dengan meng-klik tombol "+" pada field **Add Reviewer**
+1. Klik Button **Modify Document**
 
-![gambar](Memorandum/MM_Web/MM-51.png)
+![gambar](Memorandum/MM_Web/02MM-51.png)
 
-4. Sistem akan menampilkan pejabat untuk dijadikan reviewer baru
+4. Scrool kebawah untuk melihat **Reviewer** lalu klik Button **+Add** Sistem akan menampilkan pejabat untuk dijadikan reviewer baru
 
-![gambar](Memorandum/MM_Web/MM-52.png)
+![gambar](Memorandum/MM_Web/02MM-52.png)
 
-5. Pilih **Send** untuk mengirimkan kepada pejabat/reviewer yang dituju dan memorandum akan tersimpan di menu **"Sent Item - Memorandum"**. Untuk pejabat/reviewer baru akan menerima memorandum di menu **"Inbox - Memorandum"**
+5. Pilih **Send Documnet** untuk mengirimkan kepada pejabat/reviewer yang dituju dan memorandum akan tersimpan di menu **"Sent Item - Direct - Memorandum"**. Untuk pejabat/reviewer baru akan menerima memorandum di menu **"Inbox - Memorandum"**
 
-![gambar](Memorandum/MM_Web/MM-53.png)
+![gambar](Memorandum/MM_Web/02MM-53.png)
 
 ## **P-Office Versi Teams**
 
