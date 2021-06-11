@@ -46,7 +46,11 @@ Langkah - langkah untuk drafting surat masuk via Teams adalah sebagai berikut :
 4. Lakukan perubahan pada _form_. Klik **Send** untuk mengirim surat masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu “**Sent Item – Surat Masuk”**
 
 
+<<<<<<< HEAD
 # **P-Office Versi Mobile (Android & iOS)**
+=======
+## **P-Office Versi Android dan iOS**
+>>>>>>> e563a7c18f3facb1984cb9abaf447ff36ce05048
 
 Langkah-langkah untuk Drafting surat masuk via Mobile (Android & iOS) adalah sebagai berikut.
 
@@ -65,22 +69,4 @@ Langkah-langkah untuk Drafting surat masuk via Mobile (Android & iOS) adalah seb
 4. Lakukan perubahan pada _form_. Klik **Send document** untuk mengirim surat masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu “**Sent Item - Direct** label **Surat Masuk”**
 
 ![gambar](SuratMasuk/SM_Android/DraftSM/02A08.png)
-
-## **P-Office Versi IOS**
-
-Langkah-langkah untuk Drafting surat masuk adalah sebagai berikut.
-
-1. Klik menu **Draft** dan pilih tab **Surat Masuk**
-   
-![gambar](SuratMasuk/SM_IOS/SM-8.png) ![gambar](SuratMasuk/SM_IOS/SM-9.png)
-
-2.	Pilih surat masuk yang akan diubah. Pilih icon **Option** kemudian klik **Edit**
-
-![gambar](SuratMasuk/SM_IOS/SM-10.png)
-
-3.	Sistem akan menampilkan _form_ **Edit Surat Masuk**
-
-![gambar](SuratMasuk/SM_IOS/SM-11.png) ![gambar](SuratMasuk/SM_IOS/CR-SM1.png)
-
-4.	Lakukan perubahan pada _form_. Klik **Send a Mail** untuk mengirim surat masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu “**Sent Item – Surat Masuk”**
 

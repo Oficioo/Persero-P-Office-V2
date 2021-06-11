@@ -1,38 +1,37 @@
 **Role yang sesuai**
 
-- *Approver User*
-- *Reviewer User*
+- _Approver User_
+- _Reviewer User_
 
-
-*User* dapat melakukan *custom* penerima disposisi terhadap pejabat penerima yang akan menerima perintah disposisi. Secara *default* pejabat yang akan menerima disposisi adalah pejabat yang ada dibawahnya. Tetapi terdapat *case* jika *user* membutuhkan *custom* penerima disposisi sehingga disediakan fitur untuk memilih pejabat selain pejabat yang ada dibawahnya.
+_User_ dapat melakukan _custom_ penerima disposisi terhadap pejabat penerima yang akan menerima perintah disposisi. Secara _default_ pejabat yang akan menerima disposisi adalah pejabat yang ada dibawahnya. Tetapi terdapat _case_ jika _user_ membutuhkan _custom_ penerima disposisi sehingga disediakan fitur untuk memilih pejabat selain pejabat yang ada dibawahnya.
 
 ## **P-Office Versi Web**
 
 Langkah-langkah untuk melakukan Custom disposisi memorandum via Web adalah sebagai berikut
 
-1. Klik menu **Inbox** dan pilih tab **Memorandum**
+1. Klik menu **Inbox** dan pilih label **Memorandum**
 
-![gambar](Memorandum/MM_Web/MM-65.png)
+![gambar](Memorandum/MM_Web/02MM-65.png)
 
 2. Pilih memorandum yang akan didisposisikan kemudian pilih tab **Detail**
 
-![gambar](Memorandum/MM_Web/MM-67.png)
+![gambar](Memorandum/MM_Web/02MM-67.png)
 
-3. Klik tombol **Disposition** dan pilih **Send**
+3. Klik tombol **Disposition**
 
-![gambar](Memorandum/MM_Web/MM-68.png)
+![gambar](Memorandum/MM_Web/02MM-68.png)
 
 4. Sistem menampilkan form disposisi. Klik icon "+" pada field **Forward To**. Isikan informasi disposisi dan perintah untuk masing-masing penerima disposisi.
 
-![gambar](Memorandum/MM_Web/MM-69.png)
+![gambar](Memorandum/MM_Web/02MM-69.png)
 
 5. Sistem menampilkan daftar pejabat yang dapat dipilih untuk didisposikan
 
-![gambar](Memorandum/MM_Web/MM-70.png)
+![gambar](Memorandum/MM_Web/02MM-70.png)
 
-6. Isikan perintah dan keterangan pada masing - masing penerima disposisi. Tambahkan lampiran disposisi jika diperlukan. Fitur **Save Comment For All Untuk Semua** dapat digunakan *user* untuk memberikan komentar yang sama untuk masing-masing pejabat penerima disposisi. Klik **Save** untuk menyimpan perubahan dan klik **Send** untuk mengirim disposisi.
+6. Isikan perintah dan keterangan pada masing - masing penerima disposisi. Tambahkan lampiran disposisi jika diperlukan. Fitur **Save Comment For All Untuk Semua** dapat digunakan _user_ untuk memberikan komentar yang sama untuk masing-masing pejabat penerima disposisi. Klik **Save as draft** untuk menyimpan perubahan dan klik **Send disposition** untuk mengirim disposisi.
 
-![gambar](Memorandum/MM_Web/MM-71.png)
+![gambar](Memorandum/MM_Web/02MM-71.png)
 
 ## **P-Office Versi Teams**
 
@@ -58,13 +57,13 @@ Langkah-langkah untuk Custom disposisi Memorandum via Teams adalah sebagai berik
 
 ![gambar](Memorandum/MM_Teams/MM68.png)
 
-6. Isikan perintah dan keterangan pada masing - masing penerima disposisi. Tambahkan lampiran disposisi jika diperlukan. Fitur **Save Comment For All Untuk Semua** dapat digunakan *user* untuk memberikan komentar yang sama untuk masing-masing pejabat penerima disposisi. Klik **Save** untuk menyimpan perubahan dan klik **Send** untuk mengirim disposisi.
+6. Isikan perintah dan keterangan pada masing - masing penerima disposisi. Tambahkan lampiran disposisi jika diperlukan. Fitur **Save Comment For All Untuk Semua** dapat digunakan _user_ untuk memberikan komentar yang sama untuk masing-masing pejabat penerima disposisi. Klik **Save** untuk menyimpan perubahan dan klik **Send** untuk mengirim disposisi.
 
 ![gambar](Memorandum/MM_Teams/MM69.png)
 
-## **P-Office Versi Android**
+## **P-Office Versi Android dan iOS**
 
-Langkah-langkah untuk Custom disposisi Memorandum via Android adalah sebagai berikut :
+Langkah-langkah untuk Custom disposisi Memorandum via Android dan iOS adalah sebagai berikut :
 
 1. Klik menu **Inbox** dan pilih tab **Memorandum**
 
@@ -90,26 +89,3 @@ Langkah-langkah untuk Custom disposisi Memorandum via Android adalah sebagai ber
 
 ![gambar](Memorandum/MM_Android/Customdisposisi/A09.jpg)
 
-## **P-Office Versi IOS**
-
-Langkah-langkah untuk melakukan Custom disposisi memorandum via IOS adalah sebagai berikut :
-
-1. Klik menu **Inbox** dan pilih tab **Memorandum**
-
-![gambar](Memorandum/MM_IOS/MM-85.png) ![gambar](Memorandum/MM_IOS/MM-86.png)
-
-2. Pilih memorandum yang akan didisposisikan kemudian pilih tab **Option** dan pilih **Disposition**
-
-![gambar](Memorandum/MM_IOS/MM-59.png) ![gambar](Memorandum/MM_IOS/MM-60.png)
-
-3. Sistem menampilkan form disposisi. Klik icon “**+ Add Disposition**” pada field **Forward To.** Isikan informasi disposisi dan perintah untuk masing-masing penerima disposisi
-
-![gambar](Memorandum/MM_IOS/MM-87.png)
-
-4. Sistem menampilkan daftar pejabat yang dapat dipilih untuk didisposikan kemudian klik **Submit**
-   
-![gambar](Memorandum/MM_IOS/MM-88.png)
-
-5. Isikan perintah dan keterangan pada masing-masing penerima disposisi. Tambahkan lampiran disposisi jika diperlukan. Fitur **Same Comment For All** dapat digunakan _user_ untuk memberikan komentar yang sama untuk masing-masing pejabat penerima disposisi. Klik **Save** untuk menyimpan perubahan dan klik **Send** untuk mengirim disposisi.
-
-![gambar](Memorandum/MM_IOS/MM-89.png)

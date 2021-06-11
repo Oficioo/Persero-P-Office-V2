@@ -6,24 +6,24 @@
 
 ## **P-Office Versi Web**
 
-Berikut ini video tutorial yang menjelaskan langkah - langkah approver untuk mengesahkan memorandum **via Web**. Setelah memorandum disetujui dan disahkan maka nomor memorandum akan tergenerate secara otomatis
+Berikut langkah - langkah approver untuk mengesahkan memorandum **via Web**. Setelah memorandum disetujui dan disahkan maka nomor memorandum akan tergenerate secara otomatis
 
-</br>
-<a href="https://web.microsoftstream.com/embed/video/58097017-5016-429b-8335-2ff25866bee5?autoplay=false&amp;showinfo=false" target="_blank"><img src="https://github.com/gitakencana/Persero-P-Office/raw/master/Video/Thumbnail/TM01.png" alt="Watch the video"></a>
 
-1. Klik menu **Inbox** dan pilih tab **Memorandum**
+1. Klik menu **Draft** lalu pilih  **Direct**
 
-![gambar](Memorandum/MM_Web/MM-54.png)
+![gambar](Memorandum/MM_Web/02MM-54.png)
 
-2. Pilih memorandum yang akan ditindak lanjuti kemudian pilih tab **Detail**. Pada tab **Detail** terdapat informasi nomor surat yang masih bersifat sementara. Nomor inilah yang akan ter-*generate* jika *user* menyetujui memorandum
+1. Pilih memorandum yang akan ditindak lanjuti kemudian pilih tab **Detail**. Pada tab **Detail**
 
-![gambar](Memorandum/MM_Web/MM-55.png)
+![gambar](Memorandum/MM_Web/02MM-55.png)
 
-3. Klik **Approve** kemudian muncul popup dengan pilihan *without digital sign* atau **P-Sign** dan klik **Send**
+3. Klik **Approve Document** kemudian muncul popup dengan pilihan *without digital sign* atau **P-Sign** dan klik **Send**
 
-![gambar](Memorandum/MM_Web/MM-56.png)
+![gambar](Memorandum/MM_Web/02MM-56.png)
+![gambar](Memorandum/MM_Web/02MM-57.png) 
 
-4. Sistem menyimpan perubahan dan nomor memorandum akan ter-*generate* sesuai dengan nomor sementara pada detail. Memorandum yang sudah diseyujui akan tersimpan di menu **"Sent Item - Memorandum"** pengirim sedangkan memorandum akan tersimpan di menu **"Inbox - Memorandum"** penerima
+4. Sistem menyimpan perubahan dan nomor memorandum akan ter-*generate* sesuai dengan nomor sementara pada detail. Memorandum yang sudah diseyujui akan tersimpan di menu **"Sent Item - Direct"** pengirim sedangkan memorandum akan tersimpan di menu **"Inbox - Direct - pilih yang berlabel Memorandum"** penerima
+   
 
 ## **P-Office Versi Teams**
 

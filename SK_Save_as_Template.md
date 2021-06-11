@@ -48,9 +48,15 @@ Langkah - langkah untuk save as template via Teams adalah sebagai berikut :
 
 5.	Lakukan perubahan pada surat, klik **Save** untuk menyimpan perubahan dan surat akan tersimpan di menu **“Draft – Surat Keluar”** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **“Sent Item – Surat Keluar”**.
 
+<<<<<<< HEAD
 ## **P-Office Versi Mobile (Android & iOS)**
 
 Langkah – langkah untuk save as template via Mobile (Android & iOS) adalah sebagai berikut : 
+=======
+## **P-Office Versi Android dan iOS**
+
+Langkah – langkah untuk save as template via Android dan iOS adalah sebagai berikut : 
+>>>>>>> e563a7c18f3facb1984cb9abaf447ff36ce05048
 
 1. 	Isi _form_ surat keluar dan klik **Next** lalu klik **Save as Template**
 
@@ -73,6 +79,7 @@ Langkah – langkah untuk save as template via Mobile (Android & iOS) adalah seb
 
 ![gambar](SuratKeluar/SK_Android/TempSK/02A09.png) ![gambar](SuratKeluar/SK_Android/TempSK/02A10.png)
 
+<<<<<<< HEAD
 ## **P-Office Versi IOS**
 
 Langkah – langkah untuk Save as Template via IOS adalah sebagai berikut :
@@ -97,3 +104,5 @@ Langkah – langkah untuk Save as Template via IOS adalah sebagai berikut :
 5.	Klik **Save as Draft** untuk menyimpan perubahan dan surat akan tersimpan di menu **“Draft – Surat Keluar”** sebagai draft atau klik **Send document** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **“Sent Item – Surat Keluar”.**
 
 ![gambar](SuratKeluar/SK_Android/TempSK/02A09.png) ![gambar](SuratKeluar/SK_Android/TempSK/02A10.png)
+=======
+>>>>>>> e563a7c18f3facb1984cb9abaf447ff36ce05048

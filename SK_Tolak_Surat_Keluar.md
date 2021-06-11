@@ -40,9 +40,15 @@ Langkah - langkah untuk tolak surat keluar via Teams adalah sebagai berikut :
  
 4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah ditolak akan otomatis terhapus akan tersimpan di menu **“Rejected – Memorandum”** user penolak dengan label **Rejected**
 
+<<<<<<< HEAD
 ## **P-Office Versi Mobile (Android & iOS)**
 
 Langkah-langkah untuk menolak surat keluar via Mobile (Android & iOS) adalah sebagai berikut :
+=======
+## **P-Office Versi Android dan iOS**
+
+Langkah-langkah untuk menolak surat keluar via Android dan iOS adalah sebagai berikut :
+>>>>>>> e563a7c18f3facb1984cb9abaf447ff36ce05048
 
 1. Klik menu **Draft - Direct** dan pilih label **Surat Keluar**
 
@@ -58,6 +64,7 @@ Langkah-langkah untuk menolak surat keluar via Mobile (Android & iOS) adalah seb
 
 4. Sistem berhasil menyimpan perubahan surat keluar yang sudah di tolak akan tersimpan dimenu “**Rejected- Surat keluar”** user penolak pada label “**Rejected**”
 
+<<<<<<< HEAD
 ## **P-Office Versi IOS**
 
 Langkah-langkah untuk menolak surat keluar via IOS adalah sebagai berikut
@@ -75,3 +82,5 @@ Langkah-langkah untuk menolak surat keluar via IOS adalah sebagai berikut
 
 ![gambar](SuratKeluar/SK_Android/TolakSK/02A05.png)
 
+=======
+>>>>>>> e563a7c18f3facb1984cb9abaf447ff36ce05048

@@ -4,7 +4,7 @@ Berikut adalah role _approver_ dalam aplikasi P-Office antara lain adalah sebaga
 ### **Surat Masuk**
 
 Pada modul ini mendukung proses input Surat Masuk oleh sekretaris berdasarkan berkas fisik yang diterima dan kemudian dikirimkan ke pejabat penerima surat. Pejabat tersebut dapat meneruskan surat dengan mendisposisikan surat kepada pejabat tujuan lainnya ataupun pejabat yang ada di bawahnya.
-Hal-hal yang dapat dilakukan oleh *approver* dalam mengelola Surat Masuk antara lain:
+Hal-hal yang dapat dilakukan oleh *Approver* dalam mengelola Surat Masuk antara lain:
 
 - [Melihat Daftar Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratmasuk/135d71654b6d43d5b4217cbb69ae74a7)
 - [Melihat Informasi lengkap Surat Masuk](https://docs.poffice.pertamina.com/Categories/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver#!/Posts/f4e57290-e6b5-4f7b-a02b-21d91f81ff0f/approver-suratmasuk/59c8f5d18c214cb49ddf54071ce12cbe)

@@ -64,9 +64,15 @@ Langkah-langkah untuk mengesahkan surat keluar via Teams adalah sebagai berikut:
 6.	Surat keluar yang sudah disetujui akan tersimpan di menu **“Sent Item – Surat keluar”** pengirim
 
 
+<<<<<<< HEAD
 ## **P-Office Versi Mobile (Android & iOS)**
 
 Langkah-langkah untuk mengesahkan surat keluar via Mobile (Android & iOS) adalah sebagai berikut:
+=======
+## **P-Office Versi Android dan iOS**
+
+Langkah-langkah untuk mengesahkan surat keluar via Android dan iOS adalah sebagai berikut:
+>>>>>>> e563a7c18f3facb1984cb9abaf447ff36ce05048
 
 1. Klik menu **Draft - Direct** dan pilih label **Surat Keluar**
 
@@ -90,6 +96,7 @@ Langkah-langkah untuk mengesahkan surat keluar via Mobile (Android & iOS) adalah
 
 Surat keluar yang sudah disetujui akan tersimpan di menu “**Sent Item - Surat Keluar**” pengirim sedangkan surat keluar akan tersimpan di menu “**Inbox - Surat Keluar**” penerima.
 
+<<<<<<< HEAD
 ## **P-Office Versi IOS**
 
 Langkah-langkah untuk mengesahkan surat keluar via IOS adalah sebagai berikut :
@@ -108,3 +115,5 @@ Langkah-langkah untuk mengesahkan surat keluar via IOS adalah sebagai berikut :
 ![gambar](SuratKeluar/SK_Android/NomorSK/02A07.png)
 
 4. Nomor surat keluar akan ter-_generate_ sesuai dengan nomor sementara pada detail. Surat keluar yang sudah disetujui akan tersimpan di menu “**Sent Item - Surat Keluar**” pengirim
+=======
+>>>>>>> e563a7c18f3facb1984cb9abaf447ff36ce05048

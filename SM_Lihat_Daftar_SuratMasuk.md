@@ -27,7 +27,7 @@ Langkah - langkah untuk melihat surat masuk via Teams adalah sebagai berikut :
 ![gambar](SuratMasuk/SM_Teams/SM01.png)
 
 
-## **P-Office Versi Android**
+## **P-Office Versi Mobile (Android & iOS)**
 
 Langkah - langkah untuk melihat daftar surat masuk via Android adalah sebagai berikut :
 
@@ -35,11 +35,4 @@ Langkah - langkah untuk melihat daftar surat masuk via Android adalah sebagai be
 
 ![gambar](SuratMasuk/SM_Android/DSM/02A01.png) ![gambar](SuratMasuk/SM_Android/DSM/02A02.png)
 
-    
-## **P-Office Versi IOS**
 
-Langkah-langkah untuk melihat daftar surat masuk via IOS adalah sebagai berikut :
-
-1.	Klik menu **Inbox** dan pilih tab **Surat Masuk**. Sistem akan menampilkan daftar surat masuk yang ditujukan pada suatu _user_
-
-![gambar](SuratMasuk/SM_IOS/SM-1.png) ![gambar](SuratMasuk/SM_IOS/SM-2.png)

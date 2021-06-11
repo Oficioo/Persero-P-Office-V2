@@ -61,54 +61,31 @@ Langkah - langkah untuk custom disposisi fax masuk via Teams adalah sebagai beri
 
 ![gambar](FaxMasuk/FM_Teams/FM38.png)
 
-## **P-Office Versi Android**
+## **P-Office Versi Android dan iOS**
 
-Langkah-langkah untuk Custom Disposisi fax masuk via Android adalah sebagai berikut :
+Langkah-langkah untuk Custom Disposisi fax masuk via Android dan iOS adalah sebagai berikut :
 
-1. Klik menu **Inbox** dan pilih tab **Fax Masuk**
+1. Klik menu **Inbox - Direct** dan pilih berlabel **Fax Masuk**
 
-![gambar](FaxMasuk/FM_Android/Customdisposisi/A01.jpg) ![gambar](FaxMasuk/FM_Android/Customdisposisi/A02.jpg)
+![gambar](FaxMasuk/FM_Android/Customdisposisi/02A01.png) ![gambar](FaxMasuk/FM_Android/Customdisposisi/02A02.png)
 
 2. Pilih fax masuk yang akan didisposisikan kemudian pilih icon **Option**
 
-![gambar](FaxMasuk/FM_Android/Customdisposisi/A03.jpg) ![gambar](FaxMasuk/FM_Android/Customdisposisi/A04.jpg)
+![gambar](FaxMasuk/FM_Android/Customdisposisi/02A03.png) 
 
 3. Klik tombol **Disposition**
 
-![gambar](FaxMasuk/FM_Android/Customdisposisi/A06.jpg)
+![gambar](FaxMasuk/FM_Android/Customdisposisi/02A04.png)
 
-4. Sistem menampilkan form disposisi. Klik icon **“+”** pada field **Forward To**. Isikan informasi disposisi dan perintah untuk masing-masing penerima disposisi.
+4. Sistem menampilkan form disposisi. Klik icon **“+”**. Isikan informasi disposisi dan perintah untuk masing-masing penerima disposisi.
 
-![gambar](FaxMasuk/FM_Android/Customdisposisi/A07.jpg)
+![gambar](FaxMasuk/FM_Android/Customdisposisi/02A07.png)
 
 5. Sistem menampilkan daftar pejabat yang dapat dipilih untuk didisposikan
 
-![gambar](FaxMasuk/FM_Android/Customdisposisi/A08.jpg)
+![gambar](FaxMasuk/FM_Android/Customdisposisi/02A08.png)
 
-6. Isikan perintah dan keterangan pada masing-masing penerima disposisi. Tambahkan lampiran disposisi jika diperlukan. Fitur **Same All Comment** dapat digunakan _user_ untuk memberikan komentar yang sama untuk masing-masing pejabat penerima disposisi. Klik **Save**  menyimpan perubahan dan klik **Send** untuk mengirim disposisi.
+6. Isikan perintah dan keterangan pada masing-masing penerima disposisi. Tambahkan lampiran disposisi jika diperlukan. Fitur **Same All Comment** dapat digunakan _user_ untuk memberikan komentar yang sama untuk masing-masing pejabat penerima disposisi dan _user_ dapat menambahkan attachment di kolom **Attachment**. Klik **Save**  menyimpan perubahan dan klik **Send** untuk mengirim disposisi.
 
-![gambar](FaxMasuk/FM_Android/Customdisposisi/A09.jpg)
+![gambar](FaxMasuk/FM_Android/Customdisposisi/02A09.png)
 
-## **P-Office Versi IOS**
-
-Langkah-langkah untuk melakukan Custom disposisi fax masuk via IOS adalah sebagai berikut : 
-
-1. Klik menu **Inbox** dan pilih tab **Fax Masuk**
-
-![gambar](FaxMasuk/FM_IOS/FM-27.1.png) ![gambar](FaxMasuk/FM_IOS/FM-27.2.png)
-
-2. Pilih fax masuk yang akan didisposisikan kemudian pilih icon **Option** dan pilih **Disposition**
-
-![gambar](FaxMasuk/FM_IOS/FM-28.1.png) ![gambar](FaxMasuk/FM_IOS/FM-28.1.png)
-
-3. Menampilkan form disposisi. Klik icon “**+ Add Disposition**” pada field **Forward To.** Isikan informasi disposisi dan perintah untuk masing-masing penerima disposisi.
-
-![gambar](FaxMasuk/FM_IOS/FM-29.png)
-
-4. Sistem menampilkan daftar pejabat yang dapat dipilih untuk didisposikan kemudian klik **Submit** untuk menambah pejabat penerima disposisi
-
-![gambar](FaxMasuk/FM_IOS/FM-30.png)
-
-5. Isikan perintah dan keterangan pada masing-masing penerima disposisi. Tambahkan lampiran disposisi jika diperlukan. **Same Comment For All** dapat digunakan _user_ untuk memberikan komentar yang sama untuk masing-masing pejabat penerima disposisi. Klik **Save** untuk menyimpan perubahan dan klik **Send** untuk mengirim disposisi.
-
-![gambar](FaxMasuk/FM_IOS/FM-31.png)

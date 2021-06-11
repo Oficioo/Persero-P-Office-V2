@@ -50,51 +50,26 @@ Langkah - langkah untuk tambah reviewer via Teams adalah sebagai berikut:
 ![gambar](FaxKeluar/FK_Teams/FK53.png) 
 
 
-## **P-Office Versi Android**
+## **P-Office Versi Android dan iOS**
 
-Langkah - langkah untuk tambah reviewer via Android adalah sebagai berikut:
+Langkah - langkah untuk tambah reviewer via Android dan iOS adalah sebagai berikut:
 
-1. Klik menu **Inbox** dan pilih tab **Fax Keluar**
+1. Klik menu **Draft-Direct** dan pilih surat berlabel **Fax Keluar**
 
-![gambar](FaxKeluar/FK_Android/ReviewerFK/A01.jpg) ![gambar](FaxKeluar/FK_Android/ReviewerFK/A02.jpg)
+![gambar](FaxKeluar/FK_Android/ReviewerFK/02A01.png) ![gambar](FaxKeluar/FK_Android/ReviewerFK/02A02.png)
 
 2. Pilih fax keluar yang akan ditindak lanjuti kemudian pada **Detail** klik icon **Option** kemudian pilih **Add Reviewer**
 
-![gambar](FaxKeluar/FK_Android/ReviewerFK/A03.jpg) ![gambar](FaxKeluar/FK_Android/ReviewerFK/A04.jpg)
+![gambar](FaxKeluar/FK_Android/ReviewerFK/02A03.png) ![gambar](FaxKeluar/FK_Android/ReviewerFK/02A04.png)
 
 3. Klik tombol **Add Reviewer** dan pilih pejabat yang akan melakukan review dengan meng-klik pada field **Add Reviewer**
    
-![gambar](FaxKeluar/FK_Android/ReviewerFK/A05.jpg)
+![gambar](FaxKeluar/FK_Android/ReviewerFK/02A05.png)
 
 4. Sistem akan menampilkan pejabat untuk dijadikan reviewer baru
 
-![gambar](FaxKeluar/FK_Android/ReviewerFK/A06.jpg)
+![gambar](FaxKeluar/FK_Android/ReviewerFK/02A06.png)
 
-5. Pilih **Send** untuk mengirimkan kepada pejabat/reviewer yang dituju dan fax keluar akan tersimpan di menu “**Sent Item - Fax Keluar**”. Untuk pejabat/reviewer baru akan menerima fax keluar di menu “**Inbox – Fax Keluar**”. Untuk penomoran fax keluar proesenya akan tetap berada di role approver/pemilik KBO, sehingga setelah flow penambahan reviewer baru selesai, fax keluar akan kembali ke approver/pemilik KBO
+5. Pilih **Send** untuk mengirimkan kepada pejabat/reviewer yang dituju dan fax keluar akan tersimpan di menu “**Sent Item - Direct**” berlable Fax Keluar. Untuk pejabat/reviewer baru akan menerima fax keluar di menu “**Inbox – Direct**” berlabel Fax Keluar. Untuk penomoran fax keluar proesenya akan tetap berada di role approver/pemilik KBO, sehingga setelah flow penambahan reviewer baru selesai, fax keluar akan kembali ke approver/pemilik KBO
 
-## **P-Office Versi IOS**
-
-Langkah - langkah untuk tambah reviewer via IOS adalah sebagai berikut:
-
-1. Klik menu **Inbox** dan pilih tab **Fax Keluar**
-
-![gambar](FaxKeluar/FK_IOS/FK-34.1.png) ![gambar](FaxKeluar/FK_IOS/FK-34.2.png)
-
-2. Pilih fax keluar yang akan ditindak lanjuti kemudian pilih icon **Option** dan pilih **Add Reviewer**
-
-![gambar](FaxKeluar/FK_IOS/FK-37.1.png) ![gambar](FaxKeluar/FK_IOS/FK-37.2.png)
-
-3.	Klik **Add Reviewer** untuk menampilkan daftar pejabat yang akan dipilih sebagai reviewer baru
-
-![gambar](FaxKeluar/FK_IOS/FK-38.png)
-
-4.  Sistem menampilkan daftar pejabat yang akan ditambah sebagai reviewer baru, checklist pada pejabat kemudian klik **Submit**
-
-![gambar](FaxKeluar/FK_IOS/FK-39.png)
-
-5.  Isikan komentar jika diperlukan, kemudian klik **Send** untuk mengirimkan fax keluar ke reviewer baru
-
-![gambar](FaxKeluar/FK_IOS/FK-40.png)
-
-6.  Fax keluar yang sudah dikirimkan kepada reviewer baru akan tersimpan di menu **"Sent Item - Fax Keluar"** pejabat pengirim fax keluar. Sedangkan untuk pejabat reviewer baru akan terima di menu **"Inbox - Fax Keluar"**. Untuk penomoran fax keluar proesenya akan tetap berada di role approver/pemilik KBO, sehingga setelah flow penambahan reviewer baru selesai, fax keluar akan kembali ke approver/pemilik KBO
 

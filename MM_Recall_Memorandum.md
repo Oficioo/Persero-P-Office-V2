@@ -9,13 +9,13 @@
 
 Langkah - langkah untuk melakukan recall disposisi memorandum via Web adalah sebagai berikut
 
-1. Klik menu **Sent Item** dan pilih tab **Disposisi**
+1. Klik menu **Sent Items** lalu pilih **Direct**
 
-![gambar](Memorandum/MM_Web/MM-78.png)
+![gambar](Memorandum/MM_Web/02MM-78.png)
 
-2. Pilih memorandum yang akan di-recall kemudian klik tab **Detail** kemudian klik ***Recall***. Memorandum yang sudah di-*recall* akan tersimpan di menu **"Draft - Disposisi"** penarik disposisi
+2. Pilih memorandum yang akan di-recall kemudian klik tab **Detail** kemudian klik Button ***Disable***. Memorandum yang sudah di-*disable* akan tersimpan di menu **"Draft - Direct"** penarik disposisi
 
-![gambar](Memorandum/MM_Web/MM-79.png)
+![gambar](Memorandum/MM_Web/02MM-79.png)
 
 ## **P-Office Versi Teams**
 
