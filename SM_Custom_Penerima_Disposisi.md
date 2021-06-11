@@ -62,9 +62,9 @@ Langkah - langkah untuk Custom penerima disposisi via Teams adalah sebagai berik
 ![gambar](SuratMasuk/SM_Teams/SM38.png)
 
 
-## **P-Office Versi Android**
+## **P-Office Versi Android dan iOS**
 
-Langkah - langkah untuk melakukan custom penerima disposisi masuk via Android adalah sebagai berikut :
+Langkah - langkah untuk melakukan custom penerima disposisi masuk via Android dan iOS adalah sebagai berikut :
 
 1. Klik menu **Inbox** dan pilih tab **Surat masuk**
 
@@ -86,26 +86,3 @@ Langkah - langkah untuk melakukan custom penerima disposisi masuk via Android ad
    
 ![gambar](SuratMasuk/SM_Android/Customdisposisi/A08.jpg)
 
-## **P-Office Versi IOS**
-
-Langkah-langkah untuk melakukan Custom penerima disposisi surat masuk via IOS adalah sebagai berikut :
-
-1.	Klik menu **Inbox** dan pilih tab **Surat masuk**
-
-![gambar](SuratMasuk/SM_IOS/SM-58.png) ![gambar](SuratMasuk/SM_IOS/SM-59.png)
-
-2.	Pilih surat masuk yang akan didisposisikan kemudian pilih tab **Option** dan pilih **Disposition**
-
-![gambar](SuratMasuk/SM_IOS/SM-34.png)
-
-3.	Sistem menampilkan form disposisi. Klik icon “**+ Add Disposition**” pada field **Forward To.** Isikan informasi disposisi dan perintah untuk masing-masing penerima disposisi.
-
-![gambar](SuratMasuk/SM_IOS/SM-35.png)
-
-4. Sistem menampilkan daftar pejabat yang dapat dipilih untuk didisposikan kemudian klik **Submit**
-
-![gambar](SuratMasuk/SM_IOS/SM-36.png)
-
-5. Isikan perintah dan keterangan pada masing-masing penerima disposisi. Tambahkan lampiran disposisi jika diperlukan. Fitur **Same Comment For All** dapat digunakan _user_ untuk memberikan komentar yang sama untuk masing-masing pejabat penerima disposisi. Klik **Simpan** untuk menyimpan perubahan dan klik **Send**  mengirim disposisi.
-
-![gambar](SuratMasuk/SM_IOS/SM-37.png)

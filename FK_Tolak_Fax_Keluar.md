@@ -40,9 +40,9 @@ Langkah - langkah untuk tolak fax keluar via Teams adalah sebagai berikut:
 4.	Sistem berhasil menyimpan perubahan. Fax keluar yang sudah di tolak akan akan akan terhapus dari aplikasi akan tersimpan di menu **“Rejected – Memorandum”** user penolak dengan label **Rejected**.
 
 
-## **P-Office Versi Android**
+## **P-Office Versi Android dan iOS**
 
-Langkah - langkah untuk tolak fax keluar via Android adalah sebagai berikut:
+Langkah - langkah untuk tolak fax keluar via Android dan iOS adalah sebagai berikut:
 
 1. Klik menu **Inbox** dan pilih tab **Fax Keluar**
 
@@ -59,21 +59,4 @@ Langkah - langkah untuk tolak fax keluar via Android adalah sebagai berikut:
 5. Sistem berhasil menyimpan perubahan fax keluar yang sudah di tolak akan tersimpan dimenu “**Rejected- Fax Keluar”** user penolak pada label “**Rejected”**
 
 
-## **P-Office Versi Android**
-
-Langkah - langkah untuk tolak fax keluar via Android adalah sebagai berikut:
-
-1. Klik menu **Inbox** dan pilih tab **Fax Keluar**
-
-![gambar](FaxKeluar/FK_IOS/FK-34.1.png) ![gambar](FaxKeluar/FK_IOS/FK-34.2.png)
-
-2. Pilih fax keluar yang akan ditindak lanjuti kemudian pilih icon **Option** dan pilih **Reject**
-
-![gambar](FaxKeluar/FK_IOS/FK-35.1.png) ![gambar](FaxKeluar/FK_IOS/FK-35.2.png)
-
-3.	Isikan komentar jika diperlukan kemudian klik **Send** untuk menyimpan perubahan
-
-![gambar](FaxKeluar/FK_IOS/FK-36.png)
-
-4. Sistem berhasil menyimpan perubahan fax keluar yang sudah di tolak akan tersimpan dimenu “**Rejected- Fax Keluar”** user penolak pada label “**Rejected”**
 

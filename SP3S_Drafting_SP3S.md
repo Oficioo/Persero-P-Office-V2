@@ -143,101 +143,55 @@ Langkah – langkah untuk mengirim SP3S adalah sebagai berikut.
 
 2.	Sistem menyimpan perubahan dan SP3S akan tersimpan di menu **“Sent Item - SP3S”**
 
-## **P-Office Versi Android**
+## **P-Office Versi Mobile (Android & iOS)**
 
 Langkah - langkah untuk Drafting SP3S via Android adalah sebagai berikut : 
 
-1. Klik menu **Draft** dan pilih tab **SP3S**
+1. Klik menu **Draft** lalu **Direct** dan pilih surat yang berlabel **SP3S**
 
-![gambar](SP3S/SP3S_Android/DraftSP3S/A01.jpg) ![gambar](SP3S/SP3S_Android/DraftSP3S/A02.jpg)
+![gambar](SP3S/SP3S_Android/DraftSP3S/02A01.jpg) ![gambar](SP3S/SP3S_Android/DraftSP3S/02A02.jpg)
 
-2. Pilih SP3S yang akan diubah. pada  tab **Detail** pilih **tombol button**
+2. Pilih SP3S yang akan diubah ,lalu muncul tampilan **Detail** 
 
-![gambar](SP3S/SP3S_Android/DraftSP3S/A03.jpg) ![gambar](SP3S/SP3S_Android/DraftSP3S/A04.jpg)
+![gambar](SP3S/SP3S_Android/DraftSP3S/02A03.jpg) ![gambar](SP3S/SP3S_Android/DraftSP3S/02A04.jpg) 
 
-3. Pada icon **Option** pilih **Edit** lalu tampil form SP3S
+3. Pada icon **Option** pilih **Modify Document** lalu tampil form SP3S
 
-![gambar](SP3S/SP3S_Android/DraftSP3S/A05.jpg) ![gambar](SP3S/SP3S_Android/DraftSP3S/A06.jpg)
+![gambar](SP3S/SP3S_Android/DraftSP3S/02A05.jpg) ![gambar](SP3S/SP3S_Android/DraftSP3S/02A06.jpg)
 
-4. Lakukan perubahan pada _form_. Klik **Save** untuk menyimpan perubahan pada _form_ SP3S. Surat yang disimpan akan tersimpan di menu “**Draft – SP3S”**
+4. Lakukan perubahan pada _form_. Klik **Save as Draft** untuk menyimpan perubahan pada _form_ SP3S. Surat yang disimpan akan tersimpan di menu “**Draft – Direct -SP3S”**
    
-![gambar](SP3S/SP3S_Android/DraftSP3S/A07.jpg)
+![gambar](SP3S/SP3S_Android/DraftSP3S/02A08-1.jpg)
 
-5. Klik **Edit Content** untuk mengubah isi SP3S
+5. Klik **Edit Document** untuk mengubah isi SP3S
 
-![gambar](SP3S/SP3S_Android/DraftSP3S/A08.jpg)![gambar](SP3S/SP3S_Android/DraftSP3S/A09.jpg)
+![gambar](SP3S/SP3S_Android/DraftSP3S/02A08.jpg)![gambar](SP3S/SP3S_Android/DraftSP3S/02A09.jpg)
 
-6. Sistem menampilkan tampilan _preview_ SP3S dalam bentuk Word yang dapat di edit. Untuk melakukan _editing_ terhadap isi surat klik **Edit Konten** kemudian sistem akan menampilkan _pop up_ konfirmasi 
+6. Sistem menampilkan tampilan _preview_ SP3S dalam bentuk Word yang dapat di edit.
+
 
 #### **[Edit] Ubah Online**
 
 Langkah – langkah untuk mengubah isi SP3S secara _online_ adalah sebagai berikut.
 
-1. Klik **Edit/Send** untuk mengubah isi surat secara _online_
+1. Klik **Edit Document** untuk mengubah isi surat secara _online_ 
 
-![gambar](SP3S/SP3S_Android/DraftSP3S/U01.jpg) ![gambar](SP3S/SP3S_Android/DraftSP3S/U02.jpg)
+![gambar](SP3S/SP3S_Android/DraftSP3S/02U01.jpg)  ![gambar](SP3S/SP3S_Android/DraftSP3S/02U02.jpg)
 
-2. Lakukan perubahan pada isi surat lalu sistem akan menampilkan pop up P-Office Editing Document pilij **Yes**
+2. Isi surat akan otomatis tersimpan. Jika surat akan disimpan sebagai draft klik **Save as Draft**
 
-![gambar](SP3S/SP3S_Android/DraftSP3S/U03.jpg) ![gambar](SP3S/SP3S_Android/DraftSP3S/U4.jpg)
+![gambar](SP3S/SP3S_Android/DraftSP3S/02U05.jpg)
 
-3. Isi surat akan otomatis tersimpan. Jika surat akan disimpan sebagai draft, maka klik **Close.**
-
-![gambar](SP3S/SP3S_Android/DraftSP3S/U05.jpg)
-
-4. Surat yang sudah selesai diubah maka akan tersimpan di menu “**Draft – SP3S”**
+3. Surat yang sudah selesai diubah maka akan tersimpan di menu “**Draft – Direct - SP3S”**
 
 #### **Kirim SP3S**
 
 Langkah – langkah untuk mengirim SP3S adalah sebagai berikut.
 
-1. Pada tampilan _preview_ SP3S, klik **Send** untuk mengirim surat ke pejabat tujuan
+1. Pada tampilan **Modify Document** SP3S, klik **Send Document** untuk mengirim surat ke pejabat tujuan
 
-![gambar](SP3S/SP3S_Android/DraftSP3S/K01.jpg)
+![gambar](SP3S/SP3S_Android/DraftSP3S/02K01.jpg)
 
-2. Sistem menyimpan perubahan dan SP3S akan tersimpan di menu “**Sent Item - SP3S**”
+2. Sistem menyimpan perubahan dan SP3S akan tersimpan di menu “**Sent Item - Direct - SP3S**”
 
-## **P-Office Versi IOS**
-
-Langkah-langkah untuk melakukan drafting SP3S via IOS adalah sebagai berikut.
-
-1.	Klik menu **Draft** dan pilih tab **SP3S**
-
-![gambar](SP3S/SP3S_IOS/SP3S-9.1.png) ![gambar](SP3S/SP3S_IOS/SP3S-9.2.png) 
-
-2.	Pilih SP3S yang akan diubah. Pilih icon **Option** kemudian klik **Edit**
-
-![gambar](SP3S/SP3S_IOS/SP3S-10.1.png) ![gambar](SP3S/SP3S_IOS/SP3S-10.2.png)
-
-3.	Sistem akan menampilkan form **Edit** SP3S
-
-![gambar](SP3S/SP3S_IOS/SP3S-11.1.png) ![gambar](SP3S/SP3S_IOS/SP3S-11.2.png)
-   
-4.	Lakukan perubahan pada form. Klik Save Mail untuk menyimpan perubahan pada form SP3S. Surat yang disimpan akan tersimpan di menu **“Draft – SP3S”**
-
-![gambar](SP3S/SP3S_IOS/SP3S-12.png)
-
-5.	Klik **Edit Content** untuk mengubah isi SP3S
-
-![gambar](SP3S/SP3S_IOS/SP3S-13.png)
-
-6.	Sistem akan menampilkan tampilan preview SP3S dalam bentuk Word yang dapat di edit. Untuk melakukan editing terhadap isi surat klik **Edit/Send**
-
-![gambar](SP3S/SP3S_IOS/SP3S-14.1.png) ![gambar](SP3S/SP3S_IOS/SP3S-14.2.png) 
-
-7.	Pilih **Edit Content** untuk melakukan perubahan isi konten, kemudian pada pop up notifikasi Editing Document pilih **Yes** untuk menyelesaikan perubahan
-
-![gambar](SP3S/SP3S_IOS/SP3S-14.3.png) ![gambar](SP3S/SP3S_IOS/SP3S-14.4.png) 
-
-8.	Klik **Close** untuk menutup editing SP3S, SP3S yang disimpan akan tersimpan di menu **“Draft – SP3S”**
-
-#### **Kirim SP3S**
-
-Langkah – langkah untuk mengirim SP3S adalah sebagai berikut.
-
-1.	Pada tampilan preview SP3S, klik **Kirim** untuk mengirim surat ke pejabat tujuan
-
-![gambar](SP3S/SP3S_IOS/SP3S-15.png) 
-
-2.	Sistem menyimpan perubahan dan SP3S akan tersimpan di menu **“Sent Item - SP3S”**
 

@@ -41,9 +41,9 @@ Langkah - langkah untuk kembalikan konseptor via Teams adalah sebagai berikut :
 
 4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Sent Item - Surat keluar** dan penerima pengembalian surat keluar akan menerima surat keluar di menu **Draft - Surat keluar**
 
-## **P-Office Versi Android**
+## **P-Office Versi Android dan iOS**
 
-Langkah-langkah untuk melihat informasi surat keluar via Android adalah sebagai berikut :
+Langkah-langkah untuk melihat informasi surat keluar via Android dan iOS adalah sebagai berikut :
 
 1. Klik menu **Inbox **dan pilih tab **Surat keluar**
 
@@ -59,18 +59,3 @@ Langkah-langkah untuk melihat informasi surat keluar via Android adalah sebagai 
 
 4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Sent Item- Surat Keluar**dan konseptor akan menerima surat keluar di menu **Draft – Surat Keluar**
 
-## **P-Office Versi IOS**
-
-Langkah-langkah untuk mengembalikan surat keluar ke konseptor via IOS adalah sebagai berikut
-
-1.	Klik menu **Inbox** dan pilih tab **Surat keluar**
-
-![gambar](SuratKeluar/SK_IOS/SK-66.png) ![gambar](SuratKeluar/SK_IOS/SK-67.png)
-
-2.	Pilih surat keluar yang akan ditindak lanjuti kemudian pilih icon **Option** dan pilih **Revise to Conceptor**
-
-![gambar](SuratKeluar/SK_IOS/SK-68.png) ![gambar](SuratKeluar/SK_IOS/SK-40.png)
-
-3.	Isikan komentar jika diperlukan kemudian klik **Send** untuk menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Rejected - Surat Keluar**
-
-![gambar](SuratKeluar/SK_IOS/SK-41.png)

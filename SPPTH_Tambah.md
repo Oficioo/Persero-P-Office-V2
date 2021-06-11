@@ -154,9 +154,9 @@ Langkah – langkah untuk mengirim SPPTH adalah sebagai berikut.
 
 2. Sistem menyimpan perubahan dan SPPTH akan tersimpan di menu **“Sent Item”**
 
-## **P-Office Versi Android**
+## **P-Office Versi Mobile (Android & iOS)**
 
-Langkah - langkah untuk tambah SPPTH via Android adalah sebagai berikut :
+Langkah - langkah untuk tambah SPPTH via Android dan iOS adalah sebagai berikut :
 
 1. Klik ikon **(+)** pada SPPTH
 
@@ -210,46 +210,6 @@ Langkah – langkah untuk mengubah isi SPPTH secara online adalah sebagai beriku
 #### **Kirim SPPTH**
 
 Langkah – langkah untuk mengirim SPPTH adalah sebagai berikut.
-
-1. Pada tampilan _preview_ SPPTH, klik **Send Document** untuk mengirim SPPTH ke _approver_
-
-![gambar](SPPTH/SPPTH_Android/TambahSPPTH/02K01.jpg)
-
-2. Sistem menyimpan perubahan dan SPPTH akan tersimpan di menu “**Sent Item**”
-
-## **P-Office Versi IOS**
-
-Langkah - langkah untuk menambah SPPTH via IOS adalah sebagai berikut
-
-1. Klik ikon **(+)** pada SPPTH
-
-![gambar](SPPTH/SPPTH_Android/TambahSPPTH/02A01.jpg)
-
-2. Pilih jenis surat “**SPPTH**”
-
-![gambar](SPPTH/SPPTH_Android/TambahSPPTH/02A02.jpg)
-
-3. Isi _form_ tambah SPPTH. pilih **Next** terdapat aksi untuk menindaklanjuti SPPTH yang sudah diisi _form_ nya yaitu **Save as Draft** dan **Send Document**.
-
-![gambar](SPPTH/SPPTH_Android/TambahSPPTH/02A03.jpg) ![gambar](SPPTH/SPPTH_Android/TambahSPPTH/02A04.jpg)
-
-#### **Simpan SPPTH**
-
-Langkah – langkah untuk menyimpan SPPTH adalah sebagai berikut :
-
-. Isi _form_ SPPTH kemudian klik **Next**
-
-![gambar](SPPTH/SPPTH_Android/TambahSPPTH/02S01.jpg) 
-
-2. Sistem akan menampilkan pilihan aksi yaitu **Save as Draft** dan **Send Document**. Pilih **Save as Draft** untuk menyimpan SPPTH.
-
-![gambar](SPPTH/SPPTH_Android/TambahSPPTH/02S02.jpg)
-
-3. Surat yang sudah selesai diubah maka akan tersimpan di menu **“Draft”**
-
-#### **Kirim SPPTH**
-
-Langkah – langkah untuk mengirim SPPTH adalah sebagai berikut :
 
 1. Pada tampilan _preview_ SPPTH, klik **Send Document** untuk mengirim SPPTH ke _approver_
 

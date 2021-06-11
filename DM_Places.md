@@ -15,17 +15,17 @@ Langkah-langkah untuk pengelolaan tempat/lokasi surat via Web adalah sebagai ber
 
 1. Pilih menu **Master** dan pilih submenu **Places**
 
-![gambar](DataMaster/SC_DataMaster/DM110.png)
+![gambar](DataMaster/SC_DataMaster/02DM110.png)
 
 2. Pilih tombol **Search** dan masukkan pencarian berdasarkan kata kunci, kemudian klik **Enter**
 
-![gambar](DataMaster/SC_DataMaster/DM111.png)
+![gambar](DataMaster/SC_DataMaster/02DM111.png)
 
 #### Menambah Tempat
 
 1. Pilih menu **Master** dan pilih submenu **Places**
 
-![gambar](DataMaster/SC_DataMaster/DM112.png)
+![gambar](DataMaster/SC_DataMaster/02DM112.png)
 
 2. Pilih tombol &quot;+&quot; untuk menambah tempat
 
@@ -41,19 +41,19 @@ Langkah-langkah untuk pengelolaan tempat/lokasi surat via Web adalah sebagai ber
 
 1. Pilih menu **Master** dan pilih submenu **Places**
 
-![gambar](DataMaster/SC_DataMaster/DM115.png)
+![gambar](DataMaster/SC_DataMaster/02DM115.png)
 
 2. Klik checklist pada tempat yang akan diubah kemudian klik icon **Ubah**
 
-![gambar](DataMaster/SC_DataMaster/DM116.png)
+![gambar](DataMaster/SC_DataMaster/02DM116.png)
 
 3. Lakukan perubahan pada tempat, pilih **Cancel** untuk membatalkan proses
 
-![gambar](DataMaster/SC_DataMaster/DM117.png)
+![gambar](DataMaster/SC_DataMaster/02DM117.png)
 
 4. Lakukan perubahan pada tempat kemudian klik tombol **Submit**
 
-![gambar](DataMaster/SC_DataMaster/DM118.png)
+![gambar](DataMaster/SC_DataMaster/02DM118.png)
 
 5. Sistem menyimpan perubahan dan data akan muncul di halaman daftar tempat
 
@@ -61,11 +61,11 @@ Langkah-langkah untuk pengelolaan tempat/lokasi surat via Web adalah sebagai ber
 
 1. Pilih menu **Master** dan pilih submenu **Mail Categories**
 
-![gambar](DataMaster/SC_DataMaster/DM119.png)
+![gambar](DataMaster/SC_DataMaster/02DM119.png)
 
 2. Klik checklist pada tempat yang akan dihapus kemudian klik icon **Delete**
 
-![gambar](DataMaster/SC_DataMaster/DM120.png)
+![gambar](DataMaster/SC_DataMaster/02DM120.png)
 
 3. Klik tombol **Cancel** untuk membatalkan proses
 

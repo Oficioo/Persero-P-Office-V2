@@ -27,9 +27,9 @@ Langkah - langkah untuk melihat daftar dokumem Fax keluar via Teams adalah sebag
 
 2.  Sistem menampilkan dokumen fax keluar yang tersimpan di menu Archive
 
-## **P-Office Versi Android**
+## **P-Office Versi Android dan iOS**
 
-Langkah - langkah untuk melihat daftar dokumem Fax keluar via Android adalah sebagai berikut :
+Langkah - langkah untuk melihat daftar dokumem Fax keluar via Android dan iOS adalah sebagai berikut :
 
 1. Klik menu **Archive** pilih submenu **Fax Keluar**
    
@@ -38,13 +38,3 @@ Langkah - langkah untuk melihat daftar dokumem Fax keluar via Android adalah seb
 ![gambar](Archive/AR_Android/FK/02A02.jpg)
 
 2. Sistem menampilkan dokumen surat masuk yang tersimpan di menu Archive
-
-## **P-Office Versi IOS**
-
-Langkah – langkah untuk melihat dokumen fax keluar via IOS adalah sebagai berikut:
-
-1. Klik menu **Archive** dan pilih tab **Fax Keluar**
-
-![gambar](Archive/AR_IOS/A-4.1.png) ![gambar](Archive/AR_IOS/A-4.2.png)
-
-2. Sistem menampilkan dokumen Fax Keluar yang tersimpan di menu Archive

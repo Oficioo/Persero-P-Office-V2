@@ -8,19 +8,19 @@
 
 Langkah - langkah untuk menyetujui SPPTH via Web adalah sebagai berikut
 
-1. Klik menu **Inbox** dan pilih tab **SPPTH**
+1. Klik menu **Draft** dan pilih surat berlabel **SPPTH**.
 
-![gambar](SPPTH/SPPTH_Web/TH29.png)
+![gambar](SPPTH/SPPTH_Web/02TH29.png)
 
-2. Pilih SPPTH yang akan disetujui kemudian pilih tab **Detail**
+2. Pilih SPPTH yang akan disetujui kemudian pilih tab **Detail**.
 
-![gambar](SPPTH/SPPTH_Web/TH30.png)
+![gambar](SPPTH/SPPTH_Web/02TH30.png)
 
-3. Klik tombol **Approve** dan pilih **Send.** Isikan komentar jika diperlukan
+3. Klik tombol **Sign Document** dan pilih provider sign yang akan digunakan. 
 
-![gambar](SPPTH/SPPTH_Web/TH31.png)
+![gambar](SPPTH/SPPTH_Web/02TH31.png)
 
-4. Sistem berhasil menyimpan perubahan. SPPTH yang sudah di kirim akan tersimpan di menu **Sent Item - SPPTH**
+4. Sistem berhasil menyimpan perubahan. SPPTH yang sudah di kirim akan tersimpan di menu **Sent Item**
 
 ## **P-Office Versi Teams**
 
@@ -40,39 +40,21 @@ Langkah - langkah untuk setujui SPPTH via Teams adalah sebagai berikut :
 
 4.	Sistem berhasil menyimpan perubahan. SPPTH yang sudah di kirim akan tersimpan di menu Sent Item – SPPTH
 
-## **P-Office Versi Android**
+## **P-Office Versi Mobile (Android & iOS)**
 
-Langkah - langkah untuk setujui SPPTH via Android adalah sebagai berikut :
+Langkah - langkah untuk setujui SPPTH via Android dan iOS adalah sebagai berikut :
 
-1. Klik menu **Inbox** dan pilih tab **SPPTH**
+1. Klik menu **Draft** dan pilih surat berlabel **SPPTH** yang akan disetujui.
    
-![gambar](SPPTH/SPPTH_Android/SetujuiSPPTH/A01.jpg) ![gambar](SPPTH/SPPTH_Android/SetujuiSPPTH/A02.jpg)
+![gambar](SPPTH/SPPTH_Android/SetujuiSPPTH/02A01.jpg) ![gambar](SPPTH/SPPTH_Android/SetujuiSPPTH/02A02.jpg)
 
-1. Pilih SPPTH yang akan disetujui kemudian pada tab **Detail** pilih icon **Option**
+2. Pilih _icon_ **Option** Kemudian pilih **Sign Document**.
 
-![gambar](SPPTH/SPPTH_Android/SetujuiSPPTH/A03.jpg)
+![gambar](SPPTH/SPPTH_Android/SetujuiSPPTH/02A03.jpg) ![gambar](SPPTH/SPPTH_Android/SetujuiSPPTH/02A04.jpg)
 
-3. Klik tombol **Approve** kemudian sistem menampilkan pop up dan isikan komentar jika di perlukan lalu pilih **Send.**
+3. Pilih provider _sign_ yang akan digunakan kemudian pilih **Send**.
 
-![gambar](SPPTH/SPPTH_Android/SetujuiSPPTH/A04.jpg) ![gambar](SPPTH/SPPTH_Android/SetujuiSPPTH/A05.jpg)
+ ![gambar](SPPTH/SPPTH_Android/SetujuiSPPTH/02A05.jpg)
 
-4. Sistem berhasil menyimpan perubahan. SPPTH yang sudah di kirim akan tersimpan di menu **Sent Item – SPPTH**
-
-## **P-Office Versi IOS**
-
-Langkah - langkah untuk setujui SPPTH via IOS adalah sebagai berikut :
-
-1.	Klik menu **Inbox** dan pilih tab **SPPTH**
-  
-![gambar](SPPTH/SPPTH_IOS/SPPTH-21.1.png) ![gambar](SPPTH/SPPTH_IOS/SPPTH-21.2.png)
-
-2.	Pilih SPPTH yang akan disetujui kemudian pilih icon **Option** dan pilih **Approve**
-  
-![gambar](SPPTH/SPPTH_IOS/SPPTH-22.1.png) ![gambar](SPPTH/SPPTH_IOS/SPPTH-22.1.png)
-
-3.	Isikan komentar jika diperlukan kemudian klik **Send**
- 
-![gambar](SPPTH/SPPTH_IOS/SPPTH-23.png)
-
-4.	Sistem berhasil menyimpan perubahan. SPPTH yang sudah di kirim akan tersimpan di menu **Sent Item – SPPTH**
+4. Sistem berhasil menyimpan perubahan. SPPTH yang sudah disetujui akan tersimpan di menu **Sent Item**.
 

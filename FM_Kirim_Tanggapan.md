@@ -11,23 +11,23 @@
 
 Langkah - langkah untuk kirim tanggapan disposisi fax masuk via Web adalah sebagai berikut :
 
-1. Klik menu **Disposisi** dan pilih tab **Fax Masuk**
+1. Klik menu **Inbox - Disposisi** dan pilih berlabel **Fax Masuk**
 
-![gambar](FaxMasuk/FM_WEB/TanggapanFM01.png) 
+![gambar](FaxMasuk/FM_WEB/02TanggapanFM01.png) 
 
 2. Pilih disposisi yang akan dikirim tanggapan kemudian pilih tab **Detail**
    
-![gambar](FaxMasuk/FM_WEB/TanggapanFM02.png) 
+![gambar](FaxMasuk/FM_WEB/02TanggapanFM02.png) 
 
-3. Pilih tombol **Send Response** kemudian klik **Send**
+3. Pilih tombol **Send Response**.
 
-![gambar](FaxMasuk/FM_WEB/TanggapanFM03.png) 
+![gambar](FaxMasuk/FM_WEB/02TanggapanFM03.png) 
 
-4. Sistem menampilkan pop up konfirmasi dan *user* harus mengisi keterangan kirim tanggapan disposisi kemudian klik **Save**.
+4. Sistem menampilkan pop up konfirmasi dan *user* harus mengisi keterangan kirim tanggapan disposisi dan *user* dapat menambahkan lampiran jika diinginkan, kemudian klik **Save Respon**.
    
-![gambar](FaxMasuk/FM_WEB/TanggapanFM04.png) 
+![gambar](FaxMasuk/FM_WEB/02TanggapanFM04.png) 
 
-5. Sistem menyimpan perubahan dan informasi tanggapan disposisi akan tersimpan di detail disposisi.
+5. Sistem menyimpan perubahan dan informasi tanggapan disposisi akan tersimpan di **History** disposisi.
 
 ## **P-Office Versi Teams**
 
@@ -53,38 +53,21 @@ Langkah - langkah untuk kirim tanggapan fax masuk via Teams adalah sebagai berik
 
 5. Sistem menyimpan perubahan dan informasi tanggapan disposisi akan tersimpan di detail disposisi.
 
-## **P-Office Versi Android**
+## **P-Office Versi Android dan iOS**
 
-Langkah-langkah untuk kirim tanggapan fax masuk via Android adalah sebagai berikut :
+Langkah-langkah untuk kirim tanggapan fax masuk via Android dan iOS adalah sebagai berikut :
 
-1. Klik menu **Disposisi** dan pilih tab **Fax Masuk**
+1. Klik menu **Inbox - Disposisi** dan pilih berlabel **Fax Masuk**
 
-![gambar](FaxMasuk/FM_Android/tanggapdisposisi/A01.jpg) ![gambar](FaxMasuk/FM_Android/tanggapdisposisi/A02.jpg)
+![gambar](FaxMasuk/FM_Android/tanggapdisposisi/02A01.png) ![gambar](FaxMasuk/FM_Android/tanggapdisposisi/02A02.png)
 
 2. Pilih disposisi yang akan dikirim tanggapan kemudian pilih ikon **tombol button**
 
-![gambar](FaxMasuk/FM_Android/tanggapdisposisi/A03.jpg) ![gambar](FaxMasuk/FM_Android/tanggapdisposisi/A04.jpg)
+![gambar](FaxMasuk/FM_Android/tanggapdisposisi/02A03.png) ![gambar](FaxMasuk/FM_Android/tanggapdisposisi/02A04.PNG)
 
-3. Pilih tombol **Send Response** kemudian Sistem menampilkan pop up konfirmasi dan _user_ harus mengisi keterangan kirim tanggapan disposisi kemudian klik **Send**
+3. Pilih tombol **Send Response** kemudian Sistem menampilkan pop up konfirmasi dan _user_ harus mengisi keterangan atau dapat melampirkan document, lalu kirim tanggapan disposisi kemudian klik **Send**
 
-![gambar](FaxMasuk/FM_Android/tanggapdisposisi/A05.jpg) ![gambar](FaxMasuk/FM_Android/tanggapdisposisi/A06.jpg)
+![gambar](FaxMasuk/FM_Android/tanggapdisposisi/02A05.PNG) ![gambar](FaxMasuk/FM_Android/tanggapdisposisi/02A06.PNG)
 
 4. Sistem menyimpan perubahan dan informasi tanggapan disposisi akan tersimpan di detail disposisi.
 
-## **P-Office Versi IOS**
-
-Langkah-langkah untuk kirim tanggapan disposisi fax masuk via IOS adalah sebagai berikut :
-
-1. Klik menu **Disposisi** dan pilih tab **Fax Masuk**
-
-![gambar](FaxMasuk/FM_IOS/FM-42.1.png) ![gambar](FaxMasuk/FM_IOS/FM-42.2.png)
-
-2. Pilih disposisi yang akan dikirim tanggapan kemudian pilih icon **Option** dan pilih **Send Response**
-
-![gambar](FaxMasuk/FM_IOS/FM-43.1.png) ![gambar](FaxMasuk/FM_IOS/FM-43.2.png)
-
-4. Sistem menampilkan pop up konfirmasi dan _user_ harus mengisi keterangan tanggapan disposisi kemudian klik **Save**
-
-![gambar](FaxMasuk/FM_IOS/FM-44.png)
-
-5. Sistem menyimpan perubahan dan informasi tanggapan disposisi akan tersimpan di detail disposisi.

@@ -56,34 +56,13 @@ Langkah - langkah untuk selesaikan surat masuk via Teams adalah sebagai berikut 
 
 Langkah - langkah untuk menyelesaikan surat masuk menu via Android adalah sebagai berikut :
 
-1. 	Klik menu **Inbox** dan pilih tab **Surat masuk**
+1. 	Klik menu **Inbox** lalu **Direct** dan pilih surat yang berlabel **Surat masuk**
 
-![gambar](SuratMasuk/SM_Android/SelesaiSM/A01.jpg)
+![gambar](SuratMasuk/SM_Android/SelesaiSM/02A01.jpg) ![gambar](SuratMasuk/SM_Android/SelesaiSM/02A02.jpg)
 
-2. 	Pilih surat masuk yang akan diselesaikan kemudian pilih ikon **tombol button**
+2. 	Pilih surat masuk yang akan diselesaikan kemudian pilih **Option** kemudian klik **Finish** maka Sistem menampilkan _pop up_ konfirmasi dan _user_ harus mengisi keterangan kemudian klik **Send**
 
-![gambar](SuratMasuk/SM_Android/SelesaiSM/A02.jpg)
 
-3.  Pilih **Finish** maka Sistem menampilkan _pop up_ konfirmasi dan _user_ harus mengisi keterangan selesaikan disposisi kemudian klik **Send** kemudian klik **Send**
+![gambar](SuratMasuk/SM_Android/SelesaiSM/A02.jpg) ![gambar](SuratMasuk/SM_Android/SelesaiSM/02A03.jpg) ![gambar](SuratMasuk/SM_Android/SelesaiSM/02A04.jpg)
 
-![gambar](SuratMasuk/SM_Android/SelesaiSM/A03.jpg) ![gambar](SuratMasuk/SM_Android/SelesaiSM/A04.jpg)
-
-4. Sistem menyimpan perubahan dan informasi selesai akan tersimpan di **Sent Item-Surat Masuk**.
-
-## **P-Office Versi IOS**
-
-Langkah-langkah untuk menyelesaikan surat masuk via IOS adalah sebagai berikut:
-
-1.	Klik menu **Inbox** dan pilih tab **Surat masuk**
-
-![gambar](SuratMasuk/SM_IOS/SM-66.png) ![gambar](SuratMasuk/SM_IOS/SM-67.png)
-
-2.	Pilih surat masuk yang akan diselesaikan kemudian pilih tab **Option** dan pilih **Finish**
-
-![gambar](SuratMasuk/SM_IOS/SM-68.png)
-
-3.	Sistem menampilkan _pop up_ konfirmasi dan _user_ harus mengisi keterangan selesaikan disposisi kemudian klik **Send**.
-
-![gambar](SuratMasuk/SM_IOS/SM-69.png)
-
-4. Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi.
+4. Sistem menyimpan perubahan dan informasi selesai akan tersimpan di **Sent Item - Direct - Surat Masuk**.

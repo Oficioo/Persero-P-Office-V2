@@ -128,9 +128,9 @@ Langkah – langkah untuk mengubah isi SPPTH secara online adalah sebagai beriku
 
 4.    Surat yang sudah selesai diubah maka akan tersimpan di menu **“Inbox – SPPTH”**
 
-## **P-Office Versi Android**
+## **P-Office Versi Mobile (Android & iOS)**
 
-Langkah - langkah untuk tambah SPPTH via Android adalah sebagai berikut :
+Langkah - langkah untuk tambah SPPTH via Android dan iOS adalah sebagai berikut :
 
 1. Klik menu **Inbox** dan pilih tab **SPPTH**
 
@@ -171,38 +171,4 @@ Langkah – langkah untuk mengubah isi SPPTH secara _online_ adalah sebagai beri
 ![gambar](SPPTH/SPPTH_Android/RevisiSPPTH/U04.jpg)
 
 4. Surat yang sudah selesai diubah maka akan tersimpan di menu “**Draft – SPPTH”**
-
-## **P-Office Versi IOS**
-
-Langkah-langkah untuk melakukan revisi SPPTH via IOS adalah sebagai berikut :
-
-1.	Klik menu **Inbox** dan pilih tab **SPPTH**
-  
-![gambar](SPPTH/SPPTH_IOS/SPPTH-27.1.png) ![gambar](SPPTH/SPPTH_IOS/SPPTH-27.2.png)
-
-2.	Pilih SPPTH yang akan disetujui kemudian pilih icon **Option** dan pilih **Revise**
-
-![gambar](SPPTH/SPPTH_IOS/SPPTH-28.1.png) ![gambar](SPPTH/SPPTH_IOS/SPPTH-28.2.png)
-  
-3.	Sistem akan menampilkan form **Edit** SPPTH
-  
-![gambar](SPPTH/SPPTH_IOS/SPPTH-29.png)
-
-4.	Lakukan perubahan pada form. Klik **Save Mail** untuk menyimpan perubahan pada form SP3S. Surat yang disimpan akan tersimpan di menu **"Draft – SPPTH"**
-
-![gambar](SPPTH/SPPTH_IOS/SPPTH-30.png)
-
-5.	Klik **Edit Content** untuk mengubah isi SPPTH
- 
-![gambar](SPPTH/SPPTH_IOS/SPPTH-31.png)
-
-6.	Sistem akan menampilkan tampilan preview SPPTH dalam bentuk Word yang dapat di edit. Untuk melakukan editing terhadap isi surat klik **Edit/Send** 
-
-![gambar](SPPTH/SPPTH_IOS/SPPTH-32.png)
- 
-7.	Pilih Edit Content untuk melakukan perubahan isi konten, kemudian pada pop up notifikasi Editing Document pilih **Yes** untuk menyelesaikan perubahan
-   
-![gambar](SPPTH/SPPTH_IOS/SPPTH-33.1.png) ![gambar](SPPTH/SPPTH_IOS/SPPTH-33.2.png)
-
-8.	Klik **Close** untuk menutup editing SPPTH, SPPTH yang disimpan akan tersimpan di menu **Inbox – SPPTH**
 
