@@ -60,19 +60,3 @@ Langkah-langkah untuk melihat informasi surat keluar via Mobile (Android & iOS) 
 
 4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Sent Item- Surat Keluar**
 
-## **P-Office Versi IOS**
-
-Langkah-langkah untuk menyetujui surat keluar via IOS adalah sebagai berikut :
-
-1.	Klik menu **Draft - Direct** dan pilih label **Surat Keluar**
-
-![gambar](SuratKeluar/SK_Android/SetujuSK/02A01.png) ![gambar](SuratKeluar/SK_Android/SetujuSK/02A02.png)
-
-2.	Pilih surat keluar yang akan ditindak lanjuti kemudian pilih icon **Option** dan pilih **Approve document**
-
-![gambar](SuratKeluar/SK_Android/SetujuSK/02A04.png)
-![gambar](SuratKeluar/SK_Android/SetujuSK/02A05.png) 
-
-3.	Isikan komentar jika diperlukan kemudian klik **Send** untuk menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Sent Item - Surat Keluar**
-
-![gambar](SuratKeluar/SK_Android/SetujuSK/02A06.png)

@@ -77,7 +77,7 @@ Pada tab **History**, ditampilkan riwayat surat keluar yang terdapat informasi j
 
 Langkah-langkah untuk melihat informasi surat keluar via Mobile (Android & iOS) adalah sebagai berikut :
 
-1. 	Klik menu **Inbox/Draft/Sent Item** dan pilih tab **Surat Keluar.**
+1. 	Klik menu **Inbox/Draft/Sent Item** dan pilih  label **Surat Keluar.**
    
 ![gambar](SuratKeluar/SK_Android/InfoSK/02A01.png) ![gambar](SuratKeluar/SK_Android/InfoSK/02A02.png)
 
@@ -99,28 +99,3 @@ Pada pilihan **History**, ditampilkan riwayat surat keluar yang terdapat informa
 
 ![gambar](SuratKeluar/SK_Android/InfoSK/02H01.png) ![gambar](SuratKeluar/SK_Android/InfoSK/02H02.png)
 
-## **P-Office Versi IOS**
-
-Langkah-langkah untuk melihat informasi surat keluar via IOS adalah sebagai berikut :
-
-1.	Klik menu **Inbox/Draft/Sent Item** dan pilih label **Surat Keluar.** Pilih salah satu surat keluar yang akan dilihat informasinya
-
-![gambar](SuratKeluar/SK_Android/InfoSK/02A01.png) ![gambar](SuratKeluar/SK_Android/InfoSK/02A02.png)
-
-**Preview Surat Keluar**
-
-Pada tombol **Preview**, ditampilkan _preview_ surat keluar yang sudah dibuat. _Preview_ surat keluar disesuaikan dengan template berdasarkan jenis surat.
-
-![gambar](SuratKeluar/SK_Android/InfoSK/02P01.png) ![gambar](SuratKeluar/SK_Android/InfoSK/02P02.png)
-
-**Detail Surat Keluar**
-
-Pada **Detail**, terdapat informasi asal surat, perihal, file lampiran, nomor surat, klasifikasi surat, tanggal surat, tujuan surat dan _reviewer_
-
-![gambar](SuratKeluar/SK_Android/InfoSK/02D01.png) ![gambar](SuratKeluar/SK_Android/InfoSK/02D02.png)
-
-**History Surat Keluar**
-
-Pada pilihan **History**, ditampilkan riwayat surat keluar yang terdapat informasi jabatan, tanggal, tindakan dan komentar
-
-![gambar](SuratKeluar/SK_Android/InfoSK/02H01.png) ![gambar](SuratKeluar/SK_Android/InfoSK/02H02.png)

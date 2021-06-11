@@ -111,7 +111,7 @@ Langkah - langkah untuk mendisposisikan surat masuk via Mobile (Android & iOS) a
 
 ![gambar](SuratMasuk/SM_Android/DispoSM/02D04.png) ![gambar](SuratMasuk/SM_Android/DispoSM/02D05.png)
 
-4.Klik **Save** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu “**Draft – Surat masuk**”. Klik **Send disposition** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu “**Outbox – Disposisi**”
+4.Klik **Save as draft** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu “**Draft – Surat masuk**” atau Klik **Send disposition** untuk mengirim disposisi ke tujuan dan disposisi surat masuk akan tersimpan di menu “**Outbox – Disposisi**”
 
 ![gambar](SuratMasuk/SM_Android/DispoSM/02D06.png)
    

@@ -48,7 +48,7 @@ Langkah - langkah untuk drafting surat masuk via Teams adalah sebagai berikut :
 
 # **P-Office Versi Mobile (Android & iOS)**
 
-Langkah-langkah untuk Drafting surat masuk via Mobile (Android & iOS) adalah sebagai berikut.
+Langkah-langkah untuk Drafting surat masuk via Mobile (Android & iOS) adalah sebagai berikut:
 
 1. Klik menu **Draft - Direct** dan pilih label **Surat Masuk**
 

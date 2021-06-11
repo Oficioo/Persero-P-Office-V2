@@ -103,4 +103,3 @@ Pada tab **History**, ditampilkan riwayat surat masuk yang terdapat informasi ja
 
 ![gambar](SuratMasuk/SM_Android/InfoSM/02H01.png) ![gambar](SuratMasuk/SM_Android/InfoSM/02H02.png)
 
-

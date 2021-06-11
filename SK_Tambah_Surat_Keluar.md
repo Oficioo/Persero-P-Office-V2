@@ -179,51 +179,10 @@ Langkah – langkah untuk menyimpan surat keluar adalah sebagai berikut.
 
 ![gambar](SuratKeluar/SK_Android/TambahSK/02A03.png)
 ![gambar](SuratKeluar/SK_Android/TambahSK/02A04.png)
-[gambar](SuratKeluar/SK_Android/TambahSK/02A05.png)
+![gambar](SuratKeluar/SK_Android/TambahSK/02A05.png)
 
-2. Surat keluar akan tersimpan di menu **Draft - Surat Keluar** 
+2. Surat keluar akan tersimpan di menu **Draft - Direct** label **Surat Keluar** 
 
 ![gambar](SuratKeluar/SK_Android/TambahSK/02A09.png)
 ![gambar](SuratKeluar/SK_Android/TambahSK/02A10.png)
 
-## **P-Office Versi IOS**
-
-Langkah-langkah untuk menambah surat keluar via IOS adalah sebagai berikut : 
-
-1.	Klik tanda **(+)** pada surat keluar
-
-![gambar](SuratKeluar/SK_Android/TambahSK/02A01.png)
-
-2.	Pilih jenis surat “**Surat Keluar**” kemudian pilih **Next**
-
-![gambar](SuratKeluar/SK_Android/TambahSK/02A02.png)
-
-3.	Isi _form_ tambah surat keluar lalu klik tombol **Next**. Terdapat beberapa aksi untuk menindaklanjuti surat keluar yang sudah diisi yaitu **Save as draft**, **Save as Template**, dan **Send document**
-
-![gambar](SuratKeluar/SK_Android/TambahSK/02A03.png)
-![gambar](SuratKeluar/SK_Android/TambahSK/02A04.png) ![gambar](SuratKeluar/SK_Android/TambahSK/02A05.png) ![gambar](SuratKeluar/SK_Android/TambahSK/02A06.png)![gambar](SuratKeluar/SK_Android/TambahSK/02A07.png)  ![gambar](SuratKeluar/SK_Android/TambahSK/02A08.png)
-
-**Simpan Surat Keluar**
-
-Langkah – langkah untuk menyimpan surat keluar adalah sebagai berikut.
-
-1.  Isi _form_ surat keluar kemudian klik **Save**
-
-![gambar](SuratKeluar/SK_Android/TambahSK/02A03.png)
-![gambar](SuratKeluar/SK_Android/TambahSK/02A04.png) ![gambar](SuratKeluar/SK_Android/TambahSK/02A05.png) 
-
-2.  Pilih **Save as Draft** untuk menyimpan form surat keluar sebagai draft
-
-![gambar](SuratKeluar/SK_Android/TambahSK/02A06.png)
-
-3.  Sistem akan menampilkan tampilan form surat keluar yang dapat di edit. Untuk melakukan editing terhadap isi surat klik **Edit document**
-
-![gambar](SuratKeluar/SK_Android/TambahSK/02A11.png)
-
-4.	Pilih **Edit Content**, kemudian aplikasi akan menampilkan editor Word Online. Lakukan perubahan pada isi konten, kemudian close editor Word Online. Sistem akan menampilkan pop up notifikasi editing dokumen, klik **Yes** untuk menutup pop up notifikasi
-
-![gambar](SuratKeluar/SK_Android/TambahSK/02A12.png)
-![gambar](SuratKeluar/SK_Android/TambahSK/02A13.png)
-![gambar](SuratKeluar/SK_Android/TambahSK/02A14.png)
-
-5.	Surat keluar yang sudah di ubah akan tersimpan di menu **“Draft – Surat Keluar”**

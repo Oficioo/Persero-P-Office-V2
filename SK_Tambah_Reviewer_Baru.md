@@ -70,27 +70,10 @@ Langkah-langkah untuk menambahkan Reviewer baru surat keluar via Mobile (Android
 
 4. Sistem akan menampilkan pejabat untuk dijadikan reviewer baru
 
-![gambar](SuratKeluar/SK_Android/ReviewerSK/02A07.png) ![gambar](SuratKeluar/SK_Android/ReviewerSK/02A08.png)
+![gambar](SuratKeluar/SK_Android/ReviewerSK/02A07.png) 
 
 5. Pilih **Submit** untuk mengirimkan kepada pejabat/reviewer yang dituju dan surat keluar akan tersimpan di menu “**Sent Item - Surat Keluar**”. Untuk pejabat/reviewer baru akan menerima surat keluar di menu **Draft – Direct** label **Surat Keluar**
 
-## **P-Office Versi IOS**
-
-Langkah-langkah untuk menambah reviewer surat keluar via IOS adalah sebagai berikut
-
-1.	Klik menu **Draft - Direct** dan pilih label **Surat Keluar**
-
-![gambar](SuratKeluar/SK_Android/ReviewerSK/02A01.png) ![gambar](SuratKeluar/SK_Android/ReviewerSK/02A02.png)
-
-2.	Pilih surat keluar yang akan ditindak lanjuti kemudian pilih icon **Option** dan pilih **Add Reviewer**
-
-![gambar](SuratKeluar/SK_Android/ReviewerSK/02A04.png)
-![gambar](SuratKeluar/SK_Android/ReviewerSK/02A05.png)
-
-3.	Klik **+Add** untuk menampilkan daftar pejabat yang akan dipilih sebagai reviewer baru
-
-![gambar](SuratKeluar/SK_Android/ReviewerSK/02A06.png)
-
-4.	Klik **Submit** untuk mengirimkan kepada pejabat/reviewer yang dituju dan surat keluar akan tersimpan di menu “**Sent Item - Surat Keluar**”. Untuk pejabat/reviewer baru akan menerima surat keluar di menu “**Draft – Direct**” label **Surat Keluar**
-
 ![gambar](SuratKeluar/SK_Android/ReviewerSK/02A08.png)
+
+

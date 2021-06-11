@@ -90,21 +90,3 @@ Langkah-langkah untuk mengesahkan surat keluar via Mobile (Android & iOS) adalah
 
 Surat keluar yang sudah disetujui akan tersimpan di menu “**Sent Item - Surat Keluar**” pengirim sedangkan surat keluar akan tersimpan di menu “**Inbox - Surat Keluar**” penerima.
 
-## **P-Office Versi IOS**
-
-Langkah-langkah untuk mengesahkan surat keluar via IOS adalah sebagai berikut :
-
-1.	Klik menu **Draft - Direct** dan pilih label **Surat Keluar**
-
-![gambar](SuratKeluar/SK_Android/NomorSK/02A01.png) ![gambar](SuratKeluar/SK_Android/NomorSK/02A02.png)
-
-2.	Pilih surat keluar yang akan ditindak lanjuti, pada detail surat keluar terdapat informasi nomor surat yang masih bersifat sementara. Nomor inilah yang akan ter-_generate_ jika _user_ menyetujui surat keluar.
-
-![gambar](SuratKeluar/SK_Android/NomorSK/02A03.png) ![gambar](SuratKeluar/SK_Android/NomorSK/02A04.png)
-
-3. Sistem menampilkan *form* Signing Documents. Isikan komentar, NIK dan Pass Phrase kemudian klik **Next**
-
-![gambar](SuratKeluar/SK_Android/NomorSK/02A06.png)
-![gambar](SuratKeluar/SK_Android/NomorSK/02A07.png)
-
-4. Nomor surat keluar akan ter-_generate_ sesuai dengan nomor sementara pada detail. Surat keluar yang sudah disetujui akan tersimpan di menu “**Sent Item - Surat Keluar**” pengirim

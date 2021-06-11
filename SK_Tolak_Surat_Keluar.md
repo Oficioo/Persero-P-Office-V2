@@ -58,20 +58,5 @@ Langkah-langkah untuk menolak surat keluar via Mobile (Android & iOS) adalah seb
 
 4. Sistem berhasil menyimpan perubahan surat keluar yang sudah di tolak akan tersimpan dimenu “**Rejected- Surat keluar”** user penolak pada label “**Rejected**”
 
-## **P-Office Versi IOS**
 
-Langkah-langkah untuk menolak surat keluar via IOS adalah sebagai berikut
-
-1.	Klik menu **Draft - Direct** dan pilih label **Surat Keluar**
-
-![gambar](SuratKeluar/SK_Android/TolakSK/02A01.png) ![gambar](SuratKeluar/SK_Android/TolakSK/02A02.png)
-
-2.	Pilih surat keluar yang akan ditindak lanjuti kemudian pilih icon **Option** dan pilih **Reject**
-
-![gambar](SuratKeluar/SK_Android/TolakSK/02A03.png)
-![gambar](SuratKeluar/SK_Android/TolakSK/02A04.png)
-
-3.	Isikan komentar jika diperlukan kemudian klik **Send** untuk menyimpan perubahan. Surat keluar yang sudah ditolak akan otomatis terhapus akan tersimpan di menu **“Rejected – Memorandum”** user penolak dengan label **Rejected**
-
-![gambar](SuratKeluar/SK_Android/TolakSK/02A05.png)
 
