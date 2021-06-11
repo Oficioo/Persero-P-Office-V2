@@ -74,10 +74,10 @@ Langkah - langkah untuk pengelolaan kategori surat via Web adalah sebagai beriku
 
 3.    Klik tombol **Cancel** untuk membatalkan proses
 
-![gambar](DataMaster/SC_DataMaster/DM68.png)
+![gambar](DataMaster/SC_DataMaster/02DM68.png)
 
 4.    Klik tombol **Ya** untuk menghapus kategori surat. Sistem menyimpan perubahan dan data akan terhapus dari daftar kategori surat
 
-![gambar](DataMaster/SC_DataMaster/DM69.png)
+![gambar](DataMaster/SC_DataMaster/02DM69.png)
 
 

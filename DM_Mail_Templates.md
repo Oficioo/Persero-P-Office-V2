@@ -71,13 +71,13 @@ Langkah - langkah untuk pengelolaan _template_ surat via Web adalah sebagai beri
 
 ![gambar](DataMaster/SC_DataMaster/02DM92.png)
 
-3.    Klik tombol **Cancel** untuk membatalkan proses
+3.    Klik tombol **No** untuk membatalkan proses
 
-![gambar](DataMaster/SC_DataMaster/DM93.png)
+![gambar](DataMaster/SC_DataMaster/02DM93.png)
 
 4.    Klik tombol **Ya** untuk menghapus _template_
 
-![gambar](DataMaster/SC_DataMaster/DM94.png)
+![gambar](DataMaster/SC_DataMaster/02DM94.png)
 
 5.    Sistem menyimpan perubahan dan data akan terhapus dari daftar _template_
 

@@ -67,12 +67,12 @@ Langkah-langkah untuk pengelolaan tempat/lokasi surat via Web adalah sebagai ber
 
 ![gambar](DataMaster/SC_DataMaster/02DM120.png)
 
-3. Klik tombol **Cancel** untuk membatalkan proses
+3. Klik tombol **No** untuk membatalkan proses
 
-![gambar](DataMaster/SC_DataMaster/DM121.png)
+![gambar](DataMaster/SC_DataMaster/02DM121.png)
 
 4. Klik tombol **Ya** untuk menghapus tempat
 
-![gambar](DataMaster/SC_DataMaster/DM122.png)
+![gambar](DataMaster/SC_DataMaster/02DM122.png)
 
 5. Sistem menyimpan perubahan dan data akan terhapus dari daftar tempat

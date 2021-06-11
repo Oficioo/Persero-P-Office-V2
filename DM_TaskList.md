@@ -72,11 +72,11 @@ Langkah - langkah untuk pengelolaan _task list_ SP3S via Web adalah sebagai beri
 
 3.    Klik tombol **Cancel** untuk membatalkan proses
 
-![gambar](DataMaster/SC_DataMaster/DM81.png)
+![gambar](DataMaster/SC_DataMaster/02DM81.png)
 
-4.    Klik tombol **Ya** untuk menghapus _task list. _Sistem menyimpan perubahan dan data akan terhapus dari daftar _task list_
+4.    Klik tombol **Save** untuk menghapus _task list. _Sistem menyimpan perubahan dan data akan terhapus dari daftar _task list_
 
-![gambar](DataMaster/SC_DataMaster/DM82.png)
+![gambar](DataMaster/SC_DataMaster/02DM82.png)
 
 ## **P-Office Versi Mobile Android**
 
@@ -95,8 +95,8 @@ Langkah - langkah untuk pengelolaan _task list_ SP3S via Android adalah sebagai 
 
 3.    Klik tombol **Cancel** untuk membatalkan proses
 
-![gambar](DataMaster/SC_DataMaster/DM81.png)
+![gambar](DataMaster/SC_DataMaster/02DM81.png)
 
-4.    Klik tombol **Ya** untuk menghapus _task list. _Sistem menyimpan perubahan dan data akan terhapus dari daftar _task list_
+4.    Klik tombol **Save** untuk menghapus _task list. _Sistem menyimpan perubahan dan data akan terhapus dari daftar _task list_
 
-![gambar](DataMaster/SC_DataMaster/DM82.png)
+![gambar](DataMaster/SC_DataMaster/02DM82.png)

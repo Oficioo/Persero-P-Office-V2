@@ -71,10 +71,10 @@ Langkah - langkah untuk pengelolaan kode simpan via Web adalah sebagai berikut
 
 ![gambar](DataMaster/SC_DataMaster/02DM28.png)
 
-3.	  Klik tombol **Tidak** untuk membatalkan proses
+3.	  Klik tombol **No** untuk membatalkan proses
 
-![gambar](DataMaster/SC_DataMaster/DM29.png)
+![gambar](DataMaster/SC_DataMaster/02DM29.png)
 
 4.    Klik tombol **Ya** untuk menghapus kode simpan. Sistem menyimpan perubahan dan data akan terhapus dari daftar kode simpan
 
-![gambar](DataMaster/SC_DataMaster/DM30.png)
+![gambar](DataMaster/SC_DataMaster/02DM30.png)

@@ -73,8 +73,8 @@ Langkah - langkah untuk melakukan pengelolaan justifikasi via Web adalah sebagai
 
 3.    Klik tombol **Cancel** untuk membatalkan proses
 
-![gambar](DataMaster/SC_DataMaster/DM134.png)
+![gambar](DataMaster/SC_DataMaster/02DM134.png)
 
 4.    Klik tombol **Ya** untuk menghapus tempat. Sistem menyimpan perubahan dan data akan terhapus dari daftar tempat
 
-![gambar](DataMaster/SC_DataMaster/DM135.png)
+![gambar](DataMaster/SC_DataMaster/02DM135.png)
