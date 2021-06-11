@@ -100,7 +100,7 @@ Langkah - langkah untuk melihat informasi disposisi surat masuk via Android adal
 
 Pada bagian detail **Surat Masuk** terdapat **Option** untuk melakukan **Preview** disposisi surat masuk.
 
-![gambar](SuratMasuk/SM_Android/Informasidisposisi/02P01.jpg) ![gambar](SuratMasuk/SM_Android/Informasidisposisi/P02.jpg)
+![gambar](SuratMasuk/SM_Android/Informasidisposisi/02P01.jpg) ![gambar](SuratMasuk/SM_Android/Informasidisposisi/02A05.png)
 
 #### **Detail Disposisi Surat Masuk**
 
@@ -113,6 +113,6 @@ Pada tab **Detail**, terdapat seluruh informasi surat masuk
 Pada Option **Detail Disposition**, ditampilkan informasi lembar penerus disposisi yang berisi informasi daftar nama pejabat dan perintah disposisi yang harus dilakukan oleh
 pejabat penerima disposisi
 
-![gambar](SuratMasuk/SM_Android/Informasidisposisi/02PL01.jpg) ![gambar](SuratMasuk/SM_Android/Informasidisposisi/02PL02.jpg)
+![gambar](SuratMasuk/SM_Android/Informasidisposisi/02PL01.jpg) ![gambar](SuratMasuk/SM_Android/Informasidisposisi/02PL02.jpg) ![gambar](SuratMasuk/SM_Android/Informasidisposisi/02PL03.jpg)
 
 
