@@ -93,25 +93,27 @@ Langkah - langkah untuk disposisi surat masuk via Teams adalah sebagai berikut :
 
 5. Klik **Save** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu **“Draft – Surat masuk”**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **“Sent Item – Disposisi”**
 
-## **P-Office Via Android**
+## **P-Office Versi Mobile (Android & iOS)**
 
-Langkah - langkah untuk mendisposisikan surat masuk via Android adalah sebagai berikut :
+Langkah - langkah untuk mendisposisikan surat masuk via Mobile (Android & iOS) adalah sebagai berikut :
 
 **Disposisi melalui Menu Inbox**
 
-1. Klik menu **Inbox** dan pilih tab **Surat Masuk**
+1. Klik menu **Inbox** dan pilih label **Surat Masuk**
 
-![gambar](SuratMasuk/SM_Android/DispoSM/D01.jpg) ![gambar](SuratMasuk/SM_Android/DispoSM/D02.jpg)
+![gambar](SuratMasuk/SM_Android/DispoSM/02D01.png) ![gambar](SuratMasuk/SM_Android/DispoSM/02D02.png)
 
 2. Pilih surat masuk yang akan didisposisikan kemudian pilih icon **Option**
 
-![gambar](SuratMasuk/SM_Android/DispoSM/D03.jpg)
+![gambar](SuratMasuk/SM_Android/DispoSM/02D03.png)
 
 3. Klik tombol **Disposition** maka sistem menampilkan form disposisi. Isikan informasi disposisi dan perintah untuk masing-masing penerima disposisi
 
-![gambar](SuratMasuk/SM_Android/DispoSM/D04.jpg) ![gambar](SuratMasuk/SM_Android/DispoSM/D05.jpg)
+![gambar](SuratMasuk/SM_Android/DispoSM/02D04.png) ![gambar](SuratMasuk/SM_Android/DispoSM/02D05.png)
 
-4.Klik **Save** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu “**Draft – Surat masuk**”. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu “**Outbox – Disposisi**”
+4.Klik **Save** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu “**Draft – Surat masuk**”. Klik **Send disposition** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu “**Outbox – Disposisi**”
+
+![gambar](SuratMasuk/SM_Android/DispoSM/02D06.png)
    
 ## **P-Office Via IOS**
 
