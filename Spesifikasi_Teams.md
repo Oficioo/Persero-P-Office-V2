@@ -7,7 +7,7 @@
   *  Windows 10 (versi 64-bit dan 32-bit)
   *  Mac OS Intel 10.12 - 10.15
 
-2.	Gunakan aplikasi Microsoft Teams untuk mengakses aplikasi P-Office
+2.	Gunakan aplikasi Microsoft Teams dengan versi terbaru (1.4.00.11161) untuk mengakses aplikasi P-Office.
 3.  Gunakan web browser dengan versi terbaru. Berikut spesifikasi minimum penggunaan browser untuk mengakses aplikasi P-Office
 
   *  Chrome Version 81.0.4044.129
