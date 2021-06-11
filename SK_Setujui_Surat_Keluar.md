@@ -41,15 +41,9 @@ Langkah - langkah untuk setujui surat keluar via Teams adalah sebagai berikut :
 
 4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Sent Item- Surat Keluar**
 
-<<<<<<< HEAD
 ## **P-Office Versi Mobile (Android & iOS)**
 
 Langkah-langkah untuk melihat informasi surat keluar via Mobile (Android & iOS) adalah sebagai berikut :
-=======
-## **P-Office Versi Android dan iOS**
-
-Langkah-langkah untuk melihat informasi surat keluar via Android dan iOS adalah sebagai berikut :
->>>>>>> e563a7c18f3facb1984cb9abaf447ff36ce05048
 
 1. Klik menu **Draft - Direct** dan pilih label **Surat Keluar**
 
@@ -66,7 +60,6 @@ Langkah-langkah untuk melihat informasi surat keluar via Android dan iOS adalah 
 
 4. Sistem berhasil menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Sent Item- Surat Keluar**
 
-<<<<<<< HEAD
 ## **P-Office Versi IOS**
 
 Langkah-langkah untuk menyetujui surat keluar via IOS adalah sebagai berikut :
@@ -83,5 +76,3 @@ Langkah-langkah untuk menyetujui surat keluar via IOS adalah sebagai berikut :
 3.	Isikan komentar jika diperlukan kemudian klik **Send** untuk menyimpan perubahan. Surat keluar yang sudah di kirim akan tersimpan di menu **Sent Item - Surat Keluar**
 
 ![gambar](SuratKeluar/SK_Android/SetujuSK/02A06.png)
-=======
->>>>>>> e563a7c18f3facb1984cb9abaf447ff36ce05048

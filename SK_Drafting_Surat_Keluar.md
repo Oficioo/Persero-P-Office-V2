@@ -131,15 +131,9 @@ Langkah – langkah untuk mengirim surat keluar adalah sebagai berikut :
 
 2.	Sistem menyimpan perubahan dan surat keluar akan tersimpan di menu **“Sent Item - Surat Keluar”**
 
-<<<<<<< HEAD
 ## **P-Office Versi Mobile (Android & iOS)**
 
 Langkah - langkah untuk **Drafting** surat keluar via Mobile (Android & iOS) adalah sebagai berikut :
-=======
-## **P-Office Versi Android dan iOS**
-
-Langkah - langkah untuk **Drafting** surat keluar via Android dan iOS adalah sebagai berikut :
->>>>>>> e563a7c18f3facb1984cb9abaf447ff36ce05048
 
 1. Klik menu **Draft** dan klik menu **Direct**  pilih label **Surat Keluar**
 
@@ -194,7 +188,6 @@ Langkah – langkah untuk mengubah isi surat keluar secara _online_ adalah sebag
 
 2. Sistem menyimpan perubahan dan surat keluar akan tersimpan di menu “**Sent Item - Surat Keluar**”
 
-<<<<<<< HEAD
 ## **P-Office Versi IOS**
 
 Langkah-langkah untuk melakukan **Drafting** surat keluar via IOS adalah sebagai berikut :
@@ -239,5 +232,3 @@ Langkah-langkah untuk melakukan **Drafting** surat keluar via IOS adalah sebagai
 ![gambar](SuratKeluar/SK_Android/DraftSK/02K01.png)
 
 2. Sistem menyimpan perubahan dan surat keluar akan tersimpan di menu “**Sent Item - Surat Keluar**”
-=======
->>>>>>> e563a7c18f3facb1984cb9abaf447ff36ce05048

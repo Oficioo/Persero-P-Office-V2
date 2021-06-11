@@ -62,15 +62,9 @@ Langkah - langkah untuk Custom penerima disposisi via Teams adalah sebagai berik
 ![gambar](SuratMasuk/SM_Teams/SM38.png)
 
 
-<<<<<<< HEAD
 ## **P-Office Versi Mobile (Android & iOS)**
 
 Langkah - langkah untuk melakukan custom penerima disposisi masuk via Mobile (Android & iOS) adalah sebagai berikut :
-=======
-## **P-Office Versi Android dan iOS**
-
-Langkah - langkah untuk melakukan custom penerima disposisi masuk via Android dan iOS adalah sebagai berikut :
->>>>>>> e563a7c18f3facb1984cb9abaf447ff36ce05048
 
 1. Klik menu **Inbox - Direct** dan pilih label **Surat masuk**
 

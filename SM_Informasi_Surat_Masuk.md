@@ -77,15 +77,9 @@ Pada tab **History**, ditampilkan riwayat surat masuk yang terdapat informasi ja
 ![gambar](SuratMasuk/SM_Teams/SM15.png)
 
 
-<<<<<<< HEAD
 # **P-Office Versi Mobile (Android & iOS)**
 
 Langkah - langkah untuk melihat informasi surat masuk via Mobile (Android & iOS) adalah sebagai berikut:
-=======
-## **P-Office Versi Android dan iOS**
-
-Langkah - langkah untuk melihat informasi surat masuk via Android dan iOS adalah sebagai berikut:
->>>>>>> e563a7c18f3facb1984cb9abaf447ff36ce05048
 
 1. Klik menu **Inbox/Draft/Sent Item** dan pilih tab **Surat Masuk** pilih salah satu surat masuk yang akan dilihat informasinya
 

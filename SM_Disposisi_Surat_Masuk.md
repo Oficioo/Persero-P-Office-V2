@@ -93,15 +93,9 @@ Langkah - langkah untuk disposisi surat masuk via Teams adalah sebagai berikut :
 
 5. Klik **Save** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu **“Draft – Surat masuk”**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **“Sent Item – Disposisi”**
 
-<<<<<<< HEAD
 ## **P-Office Versi Mobile (Android & iOS)**
 
 Langkah - langkah untuk mendisposisikan surat masuk via Mobile (Android & iOS) adalah sebagai berikut :
-=======
-## **P-Office Via Android dan iOS**
-
-Langkah - langkah untuk mendisposisikan surat masuk via Android dan iOS adalah sebagai berikut :
->>>>>>> e563a7c18f3facb1984cb9abaf447ff36ce05048
 
 **Disposisi melalui Menu Inbox**
 
