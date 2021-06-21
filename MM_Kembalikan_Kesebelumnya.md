@@ -9,15 +9,8 @@ _User_ dapat mengembalikan memorandum ke sebelumnya jika hasil review belum / ti
 
 Langkah-langkah untuk mengembalikan memorandum ke sebelumnya via Web adalah sebagai berikut :
 
-<<<<<<< HEAD
 1. Klik menu **Draft** lalu klik **Direct** dan pilih surat yang berlabel **Memorandum**
-=======
-<<<<<<< HEAD
-
-1. # Klik menu **Draft** lalu klik **Direct** dan pilih surat yang berlabel **Memorandum**
 1. Klik menu **Draft** dan pilih label **Memorandum**
-   > > > > > > > bf30ebfe4905e0d4d59486d7c8a41c61957e9082
->>>>>>> 07c6c57cbd904cb2d94c3cd262e2181ab6939f9c
 
 ![gambar](Memorandum/MM_Web/02MM-39.png)
 
@@ -28,14 +21,8 @@ Langkah-langkah untuk mengembalikan memorandum ke sebelumnya via Web adalah seba
 3. Klik tombol **Return Previous** dan pilih **Send**. Isikan komentar jika diperlukan
 
 ![gambar](Memorandum/MM_Web/02MM-41.png)
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-![gambar](Memorandum/MM_Web/03MM-41.png)
 
-> > > > > > > bf30ebfe4905e0d4d59486d7c8a41c61957e9082
->>>>>>> 07c6c57cbd904cb2d94c3cd262e2181ab6939f9c
+![gambar](Memorandum/MM_Web/03MM-41.png)
 
 4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item - Memorandum** dan penerima pengembalian memorandum akan menerima memorandum di menu **Rejected - Memorandum**
 
@@ -61,28 +48,18 @@ Langkah-langkah untuk mengembalikan Memorandum kesebelumnya via Teams adalah seb
 
 Langkah-langkah untuk mengembalikan memorandum ke sebelumnya via Android adalah sebagai berikut :
 
-<<<<<<< HEAD
-1. Klik menu **Inbox** dan pilih tab **Direct**
-
-![gambar](Memorandum/MM_Android/Kembalimemo/02MM-01.png) 
-
-=======
 1. Klik menu **Draft** dan pilih label **Memorandum**
 
 ![gambar](Memorandum/MM_Android/Kembalimemo/02A01.png) ![gambar](Memorandum/MM_Android/Kembalimemo/02A02.png)
->>>>>>> 07c6c57cbd904cb2d94c3cd262e2181ab6939f9c
 
 2. Pilih memorandum yang akan ditindak lanjuti.
 
-![gambar](Memorandum/MM_Android/Kembalimemo/02MM-02.png) 
+![gambar](Memorandum/MM_Android/Kembalimemo/02A03.png)
 
-3. Klik tombol **Revise to Previous** dan pilih **Send**. Isikan komentar jika diperlukan
+3. Klik tombol **Edit** -- **Returent to Previous** dan pilih **Send**. Isikan komentar jika diperlukan
 
-![gambar](Memorandum/MM_Android/Kembalimemo/02MM-03.png) 
-![gambar](Memorandum/MM_Android/Kembalimemo/02MM-04.png)
+![gambar](Memorandum/MM_Android/Kembalimemo/02A04.png)
+![gambar](Memorandum/MM_Android/Kembalimemo/02A05.png)
+![gambar](Memorandum/MM_Android/Kembalimemo/02A06.png)
 
-<<<<<<< HEAD
 4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item- Direct** dan penerima pengembalian memorandum akan menerima memorandum di menu **Rejected - dan berlabel memorandum**
-=======
-4. Sistem berhasil menyimpan perubahan. Memorandum yang sudah di kirim akan tersimpan di menu **Sent Item- Memorandum** dan penerima pengembalian memorandum akan menerima memorandum di menu **Rejected - Memorandum**
->>>>>>> 07c6c57cbd904cb2d94c3cd262e2181ab6939f9c
