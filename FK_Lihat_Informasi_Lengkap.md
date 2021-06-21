@@ -4,7 +4,7 @@
 - *Reviewer User*
 - *Member User* (Pekerja)
 
-*User* dapat melihat informasi lengkap fax keluar termasuk *preview* fax keluar, detail fax keluar, *tracking* fax keluar dan *history* fax keluar. Langkah - langkah untuk melihat informasi fax keluar adalah sebagai berikut
+*User* dapat melihat informasi lengkap fax keluar termasuk *preview* fax keluar, detail fax keluar, *tracking* fax keluar dan *history* fax keluar. Langkah - langkah untuk melihat informasi fax keluar adalah sebagai berikut :
 
 1. Klik menu **Inbox/Draft/Sent Item** dan pilih berlabel **Fax Keluar**. Pilih salah satu fax keluar yang akan dilihat informasinya
 
