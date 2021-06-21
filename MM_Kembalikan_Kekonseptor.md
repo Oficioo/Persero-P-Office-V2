@@ -3,7 +3,7 @@
 - _Approver User_
 - _Reviewer User_
 
-_User_ dapat mengembalikan memorandum ke konseptor jika hasil review belum/tidak sesuai.
+User dapat mengembalikan memorandum ke konseptor jika hasil review belum/tidak sesuai.
 
 ## **P-Office Versi Web**
 

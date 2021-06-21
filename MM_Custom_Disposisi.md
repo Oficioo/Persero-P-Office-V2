@@ -11,11 +11,11 @@ Langkah-langkah untuk melakukan Custom disposisi memorandum via Web adalah sebag
 
 1. Klik menu **Inbox** dan pilih label **Memorandum**
 
-![gambar](Memorandum/MM_Web/02MM-65.png)
+![gambar](Memorandum/MM_Web/02MM-64.png)
 
 2. Pilih memorandum yang akan didisposisikan kemudian pilih tab **Detail**
 
-![gambar](Memorandum/MM_Web/02MM-67.png)
+![gambar](Memorandum/MM_Web/02MM-65.png)
 
 3. Klik tombol **Disposition**
 
