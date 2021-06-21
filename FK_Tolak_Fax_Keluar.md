@@ -7,11 +7,11 @@
 
 1. Klik menu **Draft - Direct** dan pilih berlabel **Fax Keluar**
 
-![gambar](FaxKeluar/FK_Web/02FK42F2.PNG)
+![gambar](FaxKeluar/FK_Web/02FK42F2.png)
 
 2. Pilih fax keluar yang akan ditindak lanjuti kemudian pilih tab **Detail**
 
-![gambar](FaxKeluar/FK_Web/02FK43F2.PNG)
+![gambar](FaxKeluar/FK_Web/02FK43F2.png)
 
 3. Klik tombol **Reject** dan akan muncul top up *Reject Comment*. Isikan komentar jika diperlukan
 
