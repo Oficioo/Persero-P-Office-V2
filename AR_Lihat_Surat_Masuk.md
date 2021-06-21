@@ -11,9 +11,9 @@
 
 Langkah - langkah untuk melihat dokumen surat masuk via Web adalah sebagai berikut :
 
-1. lik menu **Archive** dan pilih submenu **Surat Masuk**
+1. lik menu **Archive** dan pilih Surat berlabel **Surat Masuk**
 
-![gambar](Archive/AR_Web/AR01.png)
+![gambar](Archive/AR_Web/02AR04.png)
 
 2. Sistem menampilkan dokumen surat masuk yang tersimpan di menu Archive
 

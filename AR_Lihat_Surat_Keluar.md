@@ -11,9 +11,9 @@
 
 Langkah - langkah untuk melihat dokumen surat keluar via Web adalah sebagai berikut:
 
-1. Klik menu **Archive** dan pilih submenu **Surat Keluar**
+1. Klik menu **Archive** dan pilih surat berlabel **Surat Keluar**
 
-![gambar](Archive/AR_Web/AR03.png)
+![gambar](Archive/AR_Web/02AR04.png)
 
 2. Sistem menampilkan dokumen surat keluar yang tersimpan di menu Archive
 

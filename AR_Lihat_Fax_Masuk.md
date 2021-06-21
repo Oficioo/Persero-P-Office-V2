@@ -11,7 +11,7 @@
 
 Langkah - langkah untuk melihat dokumen fax masuk via Web adalah sebagai berikut:
 
-1. Klik menu **Archive** dan pilih submenu **Fax Masuk**
+1. Klik menu **Archive** dan pilih Surat berlabel **Fax Masuk**
 
 ![gambar](Archive/AR_Web/02AR04.png)
 
