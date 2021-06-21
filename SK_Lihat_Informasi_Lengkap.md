@@ -100,7 +100,8 @@ Pada pilihan **History**, ditampilkan riwayat surat keluar yang terdapat informa
 ![gambar](SuratKeluar/SK_Android/InfoSK/02H01.png) ![gambar](SuratKeluar/SK_Android/InfoSK/02H02.png)
 
 **Tracking Surat Keluar**
-Pada tab Tracking, ditampilkan tracking surat keluar yang terdapat informasi user, Jabatan dan tindakan.
+
+Pada pilihan **Tracking**, ditampilkan tracking surat keluar yang terdapat informasi user, Jabatan dan tindakan.
 
 ![gambar](SuratKeluar/SK_Android/InfoSK/02T01.png) ![gambar](SuratKeluar/SK_Android/InfoSK/02T02.png)
 
