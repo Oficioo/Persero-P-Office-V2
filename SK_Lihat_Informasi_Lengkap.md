@@ -45,7 +45,7 @@ Langkah - langkah untuk melihat informasi surat keluar via Teams adalah sebagai 
 
 1. Klik menu **Inbox/Draft/Sent Item** dan pilih tab Surat Keluar. Pilih salah satu surat keluar yang akan dilihat informasinya
 
-![gambar](SuratKeluar/SK_Teams/02SK31.png)
+![gambar](SuratKeluar/SK_Teams/SK31.png)
 
 #### **Preview Surat Keluar**
 
