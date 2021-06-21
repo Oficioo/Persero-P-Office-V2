@@ -10,7 +10,6 @@ _User_ dapat mengembalikan memorandum ke sebelumnya jika hasil review belum / ti
 Langkah-langkah untuk mengembalikan memorandum ke sebelumnya via Web adalah sebagai berikut :
 
 1. Klik menu **Draft** lalu klik **Direct** dan pilih surat yang berlabel **Memorandum**
-1. Klik menu **Draft** dan pilih label **Memorandum**
 
 ![gambar](Memorandum/MM_Web/02MM-39.png)
 
