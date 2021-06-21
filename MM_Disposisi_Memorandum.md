@@ -13,7 +13,7 @@ Langkah-langkah untuk mendisposisikan memorandum via Web adalah sebagai berikut
 
 1. Klik menu **Inbox** dan pilih label **Memorandum**
 
-![gambar](Memorandum/MM_Web/02MM-57.png)
+![gambar](Memorandum/MM_Web/02MM-64.png)
 
 2. Pilih memorandum yang akan didisposisikan kemudian pilih tab **Detail**
 
@@ -45,7 +45,7 @@ Langkah-langkah untuk mendisposisikan memorandum via Web adalah sebagai berikut
 
 4. Sistem menampilkan form disposisi. Isikan informasi disposisi dan perintah untuk masing-masing penerima disposisi.
 
-![gambar](Memorandum/MM_Web/02MM-64.png)
+![gambar](Memorandum/MM_Web/02MM-71.png)
 
 5. Klik **Save a draft** untuk menyimpan draft disposisi memorandum dan memorandum akan tersimpan di menu **"Draft - Memorandum"**. Klik **Send disposition** untuk mengirim disposisi ketujuan dan disposisi memorandum akan tersimpan di menu **"Sent Item - Disposisi"**.
 
