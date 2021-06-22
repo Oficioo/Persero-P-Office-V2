@@ -5,4 +5,4 @@ Berikut ini materi paparan mengenai ketentuan pembubuhan tanda tangan elektronik
 
 ### **Pertamina Digital Signature (P-Sign)**
 
-Berikut ini materi paparan mengenai Pertamina Digital Signature yang dapat diunduh melalui tautan berikut [{P-Sign}](<Dokumentasi/Materi Sosialisasi DS.pdf>)
+Berikut ini materi paparan mengenai Pertamina Digital Signature yang dapat diunduh melalui tautan berikut [P-Sign](<Dokumentasi/Materi Sosialisasi DS.pdf>)
