@@ -1,4 +1,4 @@
-- Permasalahan tersebut terjadi karena faktor user telah terdaftar di Digital Sign Admin, namun pada pada Aplikasi Idaman - *Permanents* - *isHead* dan *isOwner* belum terceklis (tercentang).
+Permasalahan tersebut terjadi karena faktor user telah terdaftar di Digital Sign Admin, namun pada pada Aplikasi Idaman - *Permanents* - *isHead* dan *isOwner* belum terceklis (tercentang).
 
 - Untuk mengatasi permasalahaan tersebut user harus melakukan setting pada aplikasi Idaman - Permanents. Berikut ini langkah – langkah melakukan setting pada aplikasi Idaman :
 

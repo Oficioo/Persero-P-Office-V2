@@ -1,4 +1,4 @@
-- Permasalahan terjadi karena faktor user yang diajukan sebagai pejabat sementara (pjs) belum melakukan setting pada P-Office 2.0 melalui menu *personalize - temporary*
+ Permasalahan terjadi karena faktor user yang diajukan sebagai pejabat sementara (pjs) belum melakukan setting pada P-Office 2.0 melalui menu *personalize - temporary*
 
 - Untuk mengatasi permasalahan tersebut user harus melakukan setting temporary pada P-Office 2.0. Berikut ini langkah – langkah menggunakan P-Office sebagai akun Pejabat Sementara (PJS) :
 
@@ -13,6 +13,6 @@
 
 4.	Lalu lanjutkan select pada bagian Position Name, pilih jabatan Pjs yang ingin diakses. 
 
-![gambar](FAQ/0MJS.png)
+![gambar](FAQ/03MJS.png)
 
 5.	Setelah itu secara otomatis sistem P-Office 2.0 akan masuk akun Pjs tersebut.
