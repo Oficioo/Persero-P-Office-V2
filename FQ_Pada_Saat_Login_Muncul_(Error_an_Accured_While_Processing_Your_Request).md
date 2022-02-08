@@ -1,3 +1,5 @@
+<font size="3">
+
 Permasalah tersebut terjadi karena position id pada idaman kosong.
 - Terkait Position Id user pekerja kosong terdapat 2 cara untuk melakukan perbaikan, yaitu dengan melakukan sync parsial atau add manual. Berikut langkah-langkah sync parsial :
 1.	Buka aplikasi Idaman lalu *check user* dengan pilih menu **User search by name/email** kemudian *double* klik untuk membuka profil *user*

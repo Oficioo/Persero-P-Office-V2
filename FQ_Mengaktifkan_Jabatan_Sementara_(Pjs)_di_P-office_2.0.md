@@ -1,3 +1,5 @@
+ <font size="3">
+ 
  Permasalahan terjadi karena faktor user yang diajukan sebagai pejabat sementara (pjs) belum melakukan setting pada P-Office 2.0 melalui menu *personalize - temporary*
 
 - Untuk mengatasi permasalahan tersebut user harus melakukan setting temporary pada P-Office 2.0. Berikut ini langkah – langkah menggunakan P-Office sebagai akun Pejabat Sementara (PJS) :

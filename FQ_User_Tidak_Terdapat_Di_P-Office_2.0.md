@@ -1,3 +1,5 @@
+<font size="3">
+
 Permasalahan tersebut terjadi karena faktor data user pada aplikasi Idaman belum *sync* di P-Office 2.0, sehingga harus melakukan pengecekan pada aplikasi Idaman kemudian pilih **Update Profile** dan pilih **Allow sync** menjadi **Yes**
 
 - Untuk mengatasi permasalahan tersebut user harus melakukan *setting* pada aplikasi Idaman - **Update Profile**. Berikut langkah-langkah melakukan *setting* pada aplikasi Idaman :
