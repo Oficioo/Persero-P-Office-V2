@@ -1,11 +1,13 @@
-- Nama jabatan di P-office dan Idaman belum update, masih dengan data nama jabatan lama sedangkan Posid sudah yang terbaru
+\*\* Nama jabatan belum update
+
+- Nama jabatan di P-Office dan Idaman belum update, masih dengan data nama jabatan lama sedangkan Posid sudah yang terbaru
 
 - Melakukan sync parsial pada idaman dengan langkah – langkah sebagai berikut:
 
 1. Buka aplikasi idaman lalu pilih Syncronize – Role kemudian pilih Custom Positions dan masukkan informasi position id dan company code.
 
     ![gambar](FAQ/EN1.png)
-    
+ 
 2.	Klik **Save Scheme**
 
     ![gambar](FAQ/EN2.png)
