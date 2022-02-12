@@ -1,6 +1,6 @@
 \*\* Nama jabatan belum update
 
-- Nama jabatan di P-office dan Idaman belum update, masih dengan data nama jabatan lama sedangkan Posid sudah yang terbaru
+- Nama jabatan di P-Office dan Idaman belum update, masih dengan data nama jabatan lama sedangkan Posid sudah yang terbaru
 
 - Melakukan sync parsial pada idaman dengan langkah – langkah sebagai berikut:
 
