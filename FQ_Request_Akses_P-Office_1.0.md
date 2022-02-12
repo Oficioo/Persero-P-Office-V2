@@ -1,4 +1,4 @@
-**Request Akses P-Office_1.0**
+**Request Akses P-Office 1.0**
 
 Permasalahan ini terjadi ketika user meminta untuk dibukakan akses ke P-Office 1.0. Sebelum akses dapat diberikan, user harus memberikan informasi yang diperlukan untuk dapat dibukakan aksesnya ke P-Office 1.0. Informasi yang diperlukan antara lain:
 akun, company code tujuan, jabatan tujuan, lama periode akses, serta melampirkan persetujuan atasan jabatan yang dituju (dapat berupa email approval). Untuk informasi company code tujuan dan jabatan tujuan adalah data user sebelum endstate ke P-Office 2.0.

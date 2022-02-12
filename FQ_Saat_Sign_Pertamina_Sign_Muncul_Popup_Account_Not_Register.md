@@ -6,43 +6,43 @@
 
 1. Unduh aplikasi Microsoft Authenticator pada Google Playstore atau App Store dan silakan lakukan instalasi aplikasi.
 
-   ![gambar](FAQ/02ANR.png)
+![gambar](FAQ/02ANR.png)
 
 2. Login ke aplikasi P-Office kemudian pilih My personal pada pojok kanan atas.
 
-   ![gambar](FAQ/03ANR.png)
+![gambar](FAQ/03ANR.png)
 
 3. Pilih menu Pertamina Sign.
 
-   ![gambar](FAQ/04ANR.png)
+![gambar](FAQ/04ANR.png)
 
 4. Silakan melengkapi form registrasi dengan mengisi phone number, verification method diisi dengan Authenticator. Untuk create initial atau paraf tanda tangan silakan klik **button create initial** lalu draw, setelah selesai klik button create. Setelah form registrasi terisi silakan klik button **proceed**.
 
-   ![gambar](FAQ/05ANR.png)
+![gambar](FAQ/05ANR.png)
 
-   ![gambar](FAQ/06ANR.png)
+![gambar](FAQ/06ANR.png)
 
 5. Maka akan muncul popup verify User, silakan user scan QR code menggunakan Microsoft Authenticator dan memasukkan One Time Password (OTP).
 
-   ![gambar](FAQ/07ANR.png)
+![gambar](FAQ/07ANR.png)
 
-   Untuk penggunaan Microsoft Authenticator, berikut langkah-langkahnya:
+Untuk penggunaan Microsoft Authenticator, berikut langkah-langkahnya:
 
-   a. Membuka aplikasi Microsoft Authenticator yang telah diinstall kemudian add account dengan klik button titik 3 pada pojok kanan atas dan klik + add account.
+a. Membuka aplikasi Microsoft Authenticator yang telah diinstall kemudian add account dengan klik button titik 3 pada pojok kanan atas dan klik + add account.
 
-   ![gambar](FAQ/08ANR.png)
+![gambar](FAQ/08ANR.png)
 
-   b. Pilih Other (Google, Facebook, etc).
+b. Pilih Other (Google, Facebook, etc).
 
-   ![gambar](FAQ/09ANR.png)
+![gambar](FAQ/09ANR.png)
 
-   c. Maka akan tampil kamera aktif dan lakukan scan QR Code .
+c. Maka akan tampil kamera aktif dan lakukan scan QR Code .
 
-   ![gambar](FAQ/10ANR.png)
+![gambar](FAQ/10ANR.png)
 
-   d. Secara otomatis account Authenticator untuk Pertamina Digital Signature sudah ada pada halaman utama aplikasi.
+d. Secara otomatis account Authenticator untuk Pertamina Digital Signature sudah ada pada halaman utama aplikasi.
 
-   ![gambar](FAQ/11ANR.png)
+![gambar](FAQ/11ANR.png)
 
 6. Pada My personal – Pertamina Sign, silakan user memilih **Generate Certificate**.
 
