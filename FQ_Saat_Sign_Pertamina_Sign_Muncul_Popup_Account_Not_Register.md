@@ -59,4 +59,5 @@ d. Secara otomatis account Authenticator untuk Pertamina Digital Signature sudah
 9. Pada Microsoft Authenticator akan muncul angka yang merupakan OTP. Kemudian masukkan OTP tersebut (OTP yang dimasukkan tanpa spasi) pada field OTP.
 
 10. Pada Pertamina Sign user masuk ke halaman detail dari sertifikat digital (Pertamina Sign).
-    ![gambar](FAQ/15ANR.png)
+
+![gambar](FAQ/15ANR.png)
