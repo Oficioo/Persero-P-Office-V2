@@ -2,8 +2,9 @@
 
 - Melakukan sync parsial pada idaman dengan langkah – langkah sebagai berikut:
 
-1. Buka aplikasi idaman lalu pilih Syncronize – Role kemudian pilih Custom Positions dan masukkan informasi position id dan company code
-![gambar](FAQ/E1.png)
+1. Buka aplikasi idaman lalu pilih Syncronize – Role kemudian pilih Custom Positions dan masukkan informasi position id dan company code.
+    
+    ![gambar](FAQ/E1.png)
 2.	Klik **Save Scheme**
 
 
