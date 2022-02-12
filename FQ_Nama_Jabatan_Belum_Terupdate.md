@@ -3,7 +3,7 @@
 - Melakukan sync parsial pada idaman dengan langkah – langkah sebagai berikut:
 
 1. Buka aplikasi idaman lalu pilih Syncronize – Role kemudian pilih Custom Positions dan masukkan informasi position id dan company code.
-![gambar](https://github.com/Oficioo/Persero-P-Office-V2/blob/main/FAQ/E1.png)
+![gambar](FAQ/01RMK.png)
     
 2.	Klik **Save Scheme**
 
