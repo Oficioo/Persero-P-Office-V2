@@ -14,7 +14,7 @@ Permasalahan tersebut terjadi karena user konseptor atau reviewer melakukan edit
 
 2. Klik **Select positions** yang berada di pojok kanan atas.
 
-    ![gambar](FAQ/E13.jpg)
+![gambar](FAQ/E13.jpg)
 
 3. Masukan nama reviewer/approver yang mempunyai kendala spesimen tidak ada jarak antara nama jabatan dan nama pejabat.
 
