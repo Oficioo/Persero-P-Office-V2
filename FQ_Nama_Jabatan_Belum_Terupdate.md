@@ -6,7 +6,7 @@
 
 1. Buka aplikasi idaman lalu pilih Syncronize – Role kemudian pilih Custom Positions dan masukkan informasi position id dan company code.
 
-    ![gambar](FAQ/EN1.png)
+    ![gambar](https://raw.githubusercontent.com/Oficioo/Persero-P-Office-V2/main/FAQ/EN1.png)
  
 2.	Klik **Save Scheme**
 
