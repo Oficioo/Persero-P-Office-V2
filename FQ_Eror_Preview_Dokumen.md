@@ -1,3 +1,5 @@
+<font size="3">
+
 - Permasalahan ini terjadi ketika user akan melakukan preview dokumen lalu terdapat pesan eror **“To start seeing previews, please log on by opening the document“**.
 
 **PERBAIKAN MASALAH**
