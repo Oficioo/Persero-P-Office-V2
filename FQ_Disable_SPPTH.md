@@ -1,5 +1,11 @@
 <font size="3">
 
+
+1. Button disable hanya ada pada user **Definitif**
+2. Button disable tidak akan ada jika user di jabatan definitifnya **Vacant**
+
+#### **Berikut Langkah - langkah untuk menonaktifkan SP3S** ####
+
 - Login ke **P-Office** pilih Menu **Inbox - Direct**, Pilih dan klik surat SPPTH.
 
 
