@@ -9,7 +9,6 @@
 
 - Login ke **P-Office** pilih Menu **Inbox - Direct**, Pilih dan klik surat SPPTH.
 
-
 ![gambar](FAQ/S1.jpg)
 
 - Setelah surat terbuka, klik tab **Detail** dan klik **Disable** yang terdapat dibagian kiri bawah tab Detail.
