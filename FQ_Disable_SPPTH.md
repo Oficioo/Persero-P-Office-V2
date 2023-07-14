@@ -1,11 +1,11 @@
 <font size="3">
 
 
- **Berikut Langkah - langkah untuk menonaktifkan SPPTH**
+
+**Berikut Langkah - langkah untuk menonaktifkan SPPTH**
 
 1. Button disable hanya ada pada user **Definitif**
 2. Button disable tidak akan ada jika user di jabatan definitifnya **Vacant**
-
 
 - Login ke **P-Office** pilih Menu **Inbox - Direct**, Pilih dan klik surat SPPTH.
 
